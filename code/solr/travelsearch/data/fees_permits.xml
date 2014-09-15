@@ -1,0 +1,1370 @@
+<add>
+	<doc>
+		<field name="id">87542</field>
+		<field name="title">Big Bend National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">backcountry permits</field>
+		<field name="content">Depending on your planned activities, you may need to obtain a backcountry permit. Camping at developed sites and day hiking do not require a permit. Certain types of day-use, such as floating the river or traveling by horse, necessitate a permit but its free of cost. For any overnight backcountry use, the required permit is $10. Theres no reason not to get one; it goes to a good cause (maintaining the backcountry for future visitors) and helps keep you safe. The park will record your itinerary and other information, such as your shoe print mdash; all of which will make you easier to find in case of an emergency mdash; plus theyll give you critical information on current trail and road conditions.   Backcountry permits are good for up to 14 consecutive nights. The permit can be obtained up to 24 hours in advance at any park visitor center during business hours (for the main center at Panther Junction, the hours are 8AM-6PM mdash; other visitor centers have variable hours). If you arrive after business hours, you are not permitted to camp in the backcountry. In addition, they can only be purchased in person, on-site. If you arrive by car, you must have a license plate.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87543</field>
+		<field name="title">Brown County State Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">basic gate fees</field>
+		<field name="content">Weekdays - $4 (Indiana plates) Weekends (Fri-Sun, Holidays) - $5 (Indiana plates) Non-Indiana Residents - $7 Pedestrians, bikes, by horse - $2</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87544</field>
+		<field name="title">Brown County State Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">permits</field>
+		<field name="content">One day horse permit - $5</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87545</field>
+		<field name="title">Charlestown State Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">basic gate fees</field>
+		<field name="content">Weekdays - $4 (Indiana plates) Weekends (Fri-Sun, Holidays) - $5 (Indiana plates) Non-Indiana Residents - $7 Pedestrians, bikes, by horse - $2</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87546</field>
+		<field name="title">Flandrau State Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">vehicle permits</field>
+		<field name="content">Annual permit $25 Second vehicle permit $18 Minnesota handicapped annual permit (MN handicapped plates or certificate) $12 Daily permit (Same rate for all vehicles.) $7 Daily group permit (10 permit minimum, 24-hour notice. Check at park office for details.) $5</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87547</field>
+		<field name="title">Flandrau State Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">camping</field>
+		<field name="content">Semi-modern site (with showers) $15/night Rustic site (no showers) $11/night Electric hookup (where available) add $4/night Water and sewer hookup add $4/night Backpack or canoe site $11/night Group camp (Call the state park reservation system to reserve group camp sites. A $45 non-refundable deposit is charged for all class III group camps. This fee is applied toward the first nights camping.) $45-$75/night or $3 per camper per night, whichever is greater Horse camp (where available) $15 add $4/night Campsite reservation fee (Fee per campsite reserved. Fee is nonrefundable) $8.50 State forest campgrounds $11/night Special state park camping rates For all visitors, the semi-modern campsite rate is reduced to a rustic rate during the off season when showers and flush toilet facilities are not available. Half-priced camping is available Sunday-Thursday for Minnesota residents with disabilities. This reduced rate applies to semi-modern and rustic rates only.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87548</field>
+		<field name="title">Oconee National Forest</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fishing</field>
+		<field name="content">The Georgia Department of Natural Resources (DNR) requires all individuals age 16 and over to have a current Georgia fishing license in their possession while fishing in fresh or salt water in Georgia, with certain exceptions for landowners and protected groups.  Licenses range in cost from $5 to $24, depending on resident status and duration.  Georgia Department of Natural Resources:  770-414-3333</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87549</field>
+		<field name="title">Olympic National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">single visit</field>
+		<field name="content">Good for up to seven consecutive days at any Olympic National Park entrance.  Vehicle: $15  Individual: (on foot, bicycle, motorcycle) $5. Children 15 years old and younger are admitted free of charge.  Park entrance fees may be waived for school group visits when class curriculum relates to park resources.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87550</field>
+		<field name="title">Olympic National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">olympic national park annual pass</field>
+		<field name="content">The annual pass costs $30 and is good at any Olympic National Park entrance station for one year from the month of purchase.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87551</field>
+		<field name="title">Olympic National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">america the beautiful pass series</field>
+		<field name="content">A pass is your ticket to more than 2,000 federal recreation sites. Each pass covers entrance fees at national parks and national wildlife refuges as well as standard amenity fees at national forests and grasslands, and at lands managed by the Bureau of Land Management and Bureau of Reclamation. A pass covers entrance and standard amenity fees for a driver and all passengers in a personal vehicle at per vehicle fee areas (or up to four adults at sites that charge per person). Children age 15 or under are admitted free. The following passes make up the series:  America the Beautiful - The National Parks and Federal Recreational Lands Pass - Annual Pass - $80 annual pass available to everyone. Can be obtained in person at a federal recreation site, or by calling 1-888-ASK USGS (1-888-275-8747), Ext. 1, or online and is Non-transferable.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87552</field>
+		<field name="title">Olympic National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">commercial tour fees</field>
+		<field name="content">These fees are only charged to commercial tour businesses.  Vans with 7 to 15 seats = $75  Minibus with 16 to 25 seats = $100  Motorcoach with 26 or more seats = $200  Note: All vehicles traveling to Hurricane Ridge during the winter season (November - April) are required to carry tire chains.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87553</field>
+		<field name="title">Pipe Spring National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">operating hours</field>
+		<field name="content">NOTE: Arizona does not observe Daylight Saving Time, with the exception of the Navajo Reservation on the states northeast corner. Pipe Spring National Monument is on Mountain Standard Time all year.  Summer (June through August): Monument grounds and Visitor Center/Museum are open 7:00 a.m. to 5:00 p.m. Tours of Winsor Castle are offered on the hour and half hour from 8:00 a.m. to 4:30 p.m. Demonstrations, talks or walks are offered during the morning hours.  Winter (September through May): Monument grounds and Visitor Center/Museum are open 8:00 a.m. to 5:00 p.m. Tours of Winsor Castle are offered on the hour and half hour from 9:00 a.m. to 4:00 p.m.  Closed Thanksgiving, Christmas, and New Years Days.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87554</field>
+		<field name="title">Turkey Run State Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">basic gate fees</field>
+		<field name="content">Weekdays - $4 (Indiana plates) Weekends (Fri-Sun, Holidays) - $5 (Indiana plates) Non-Indiana Residents - $7 Pedestrians, bikes, by horse - $2</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87555</field>
+		<field name="title">Turkey Run State Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">permits</field>
+		<field name="content">One day horse permit - $5</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87556</field>
+		<field name="title">Timpanogos Cave National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There is a $6 per vehicle entrance into American Fork Canyon that is necessary to reach Timpanogos Cave National Monument.  The America the Beautiful - National Parks and Federal Recreational Lands Pass, Golden Age or Senior Pass, Golden Access or Access Pass are honored for entrance into the canyon.  To enter the cave a tour ticket is required.  To purchase advance cave tour tickets, call (801) 756-5238 during the hours of 8AM to 5PM. Please remember that anyone under 16 years of age must be accompanied by an adult.  Cave tours prices are:   Standard Cave Tour - Adults (age 16 and older) - $7, Junior (age 6-15) - $5, Child (age 3-5) - $3, Infant (age 0-2) - Free, Senior/Access (Golden Age/Access) pass holders - $3.50.  Introduction to Caving Tour - Age 14 and up only, $15 per person.  Note that cave tour tickets frequently sell out, especially on weekends and holidays. Tour tickets may be purchased up to 30 days in advance with a major credit card by calling the visitor center at 801-756-5238. A non-refundable $0.50 transaction fee is added to each ticket sold in advance over the phone.  Tour tickets may also be purchased in person at the visitor center up to the day of the tour, if still available. Tickets must be purchased at the visitor center before hiking to the caves, tickets cannot be purchased at the cave entrance. Gift certificates are available.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87557</field>
+		<field name="title">Land Between the Lakes National Recreation Area</field>
+		<field name="main">fees/permits</field>
+		<field name="name">Fees and Permits</field>
+		<field name="url">http://www.lbl.org/documents/2013LBLRatesHours.pdf</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87558</field>
+		<field name="title">Green Mountains</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Fishing and hunting licenses are required.  They can be obtained at tackle and hunting shops in the area, as well as at the ranger stations.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87559</field>
+		<field name="title">Mesa Verde National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">A 7 day entry pass to the park costs $10 per private vehicle fall-spring, and $15 per vehicle during the summer months. Motorcyclists and individuals on non-commercial buses pay $5 per person fall-spring and $8 per person during the summer.  An annual pass, just for Mesa Verde, is available for $30. Regular annual park passes, good for all National Park Service parks for one year, will get you in to Mesa Verde and are available for $80.  Ranger-led tours of the Cliff Palace, Balcony House and Long House areas cost $3.00 per person per tour.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87560</field>
+		<field name="title">Big Bend National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">The entrance fee will get you a seven-day pass, in the form of a paper slip which you attach to your vehicles windshield. The park gates are always open; if you arrive after hours you can get your pass in the morning from the Panther Junction Visitor Center.  Vehicle: $20  Individual (by bicycle, motorcycle, on foot, or group members): $10 (The group member fee applies to all those 16 and older and replaces the vehicle fee mdash; contact the park to determine if your traveling party qualifies as a "group".)  Children (15 and under): Free  Senior Pass (62 and over): A one-time $10 fee that also grants entrance to most other federal recreation areas and a 50% discount on other fees, such as camping.  Access Pass: Free for those with a permanent disability and offers the same benefits as the Senior Pass.  Annual Pass: $40 and good for the rest of the month plus one year.  Interagency Annual Pass: $80 and good for the rest of the month plus one year; also grants access to most other federal recreation areas.  Fees for educational groups (who may be able to get in free) and commercial tours have special rules mdash; contact the park for details.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87561</field>
+		<field name="title">Cumberland Falls State Resort Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There are no fees to enter the park.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87562</field>
+		<field name="title">Wind Cave National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There are no fees to drive through or hike in the park. There are fees associated with visiting the cave or camping in the parks campground.  There are five cave tours, costing $7-25/adult and $3.50-4.50/child.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87563</field>
+		<field name="title">Acadia National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There are:  7-day (vehicle) entrance permit $20 Jun 23-early Oct, $10 May 1-Jun 22 and early Oct-Oct 31, Free Oct 31-Apr 30 however may parts of the park are closed due to snow.  7-day individual park pass (pedestrian, motorcycle, or bicycle) $5, Children under 16 are free  Annual Acadia pass $40  Commercial sedan (capacity 1-6) $25 + $5/visitor for 1 entrance  Commercial van (capacity 7-15) $50 for 1 entrance  Commercial mini bus (capacity 16-25) $60 for 1 entrance  Commercial tour bus (capacity 26+) $150 for 1 entrance  There is no longer ferry service from Bar Harbor to Yarmouth Nova Scotia. "The Cat" is no longer in service.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87564</field>
+		<field name="title">Crater Lake National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Entry fee is US$10.00 for seven days.  National Park Passes and Golden Passports are accepted.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87565</field>
+		<field name="title">Minuteman Missile National Historic Site</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There are currently no fees to visit the site.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87566</field>
+		<field name="title">Natural Bridge State Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There are no fees to enter the park.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87567</field>
+		<field name="title">Natural Bridges National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">The $6 vehicle fee includes all occupants for seven days. A traveler planning to visit  Arches National Park ,  Canyonlands National Park , and  Hovenweep National Monument  should purchase the one-year Local Passport for $25.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87568</field>
+		<field name="title">Hovenweep National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">A 7 day entry pass to the park costs $6 per private vehicle. Motorcyclists pay $3 per person. An annual local passport for Arches, Canyonlands, Hovenweep and Natural Bridges is available for $30. Annual park passes good for all National Park Service parks for one year are available for $80.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87569</field>
+		<field name="title">Blue Ridge Parkway</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There is no fee to travel the Blue Ridge Parkway and entrances and exits are available at intersections with all major highways.  There is a charge for camping of $16 per site (2007) and those visitors with Golden Age or Golden Access Passports or the new Interagency Senior or Access Pass pay a reduced camping fee.  For organized activities such as sporting events, ceremonies or large group gatherings, a Special Use Permit may be necessary. Commercial Filming of any type also requires a permit.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87570</field>
+		<field name="title">Ocala National Forest</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">$50 for day-use recreation activities at Lake Dorr, Farles Lake, Mill Dam and Fore Lake.  It is also valid for boat ramp use at Lake Dorr, Farles Lake, Mill Dam and Lake Eaton. 50% discount with possession of Golden Age Passport or Golden Access Passport.  $40  for day-use recreation activities at Juniper Springs, Silver Glen Springs, Wildcat Lake, Alexander Springs and Clearwater Lake Recreation Areas ONLY, and is non-transferable.  $25 The Spring Hopper Pass for day-use recreation activities at Juniper Springs, Silver Glen Springs, Wildcat Lake, Clearwater Lake and Alexander Springs Recreation Areas ONLY. This pass is valid for a maximum of 4 persons in one vehicle for a two-day period.   A $26.50 Wildlife Management Area Permit is required for all hunters, except those indicated as exempt.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87571</field>
+		<field name="title">Denali National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Individuals entering the park must pay a $10 fee, good for seven days.  A vehicle entrance fee is $20, also good for seven days.  Those with a Federal Lands Annual Pass ($80, allows entrance to all national park areas for one year), a Senior Pass, or an Access Pass (for people with disabilities) do not need to pay the entrance fee.  Fees can be confusing for this park.  First of all, there is no park entrance station.  As you begin to drive the Park Road, you are greeted by a gigantic sign that says "Denali National Park," but you will not be stopped until the staffed gate at mile 15 which is the limit people can drive with their private vehicle.  If you drive up to that gate, you will simply be asked to turn around.  Fees within the first 15 miles of the park, while required, are done pretty much on the honor system.  If you stop in the visitor center and ask, "Do I need to pay an entrance fee?"  The answer is, "Yes."  However, if you had kept driving, nobody will check to see if youve paid.  "How then," you may ask, "does the park collect its entrance fees?"  Well, if you buy a bus ticket (the only way to get on the park road past mile 15), or if you stay in a campground, you will automatically be charged an entrance fee.  And, since more than 90% of the visitors who enter Denali take a bus at one point or another, the situation is all gravy.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87572</field>
+		<field name="title">Lassen Volcanic National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Park entrance fees are $10 for private vehicles and $5 for individuals on foot, bike and motorcycle. All entrance fees are valid for seven days. The Annual Pass is available for $25, allowing park entry for one year. Alternatively, the National Parks and Federal Recreational Lands Pass can be purchased for $80, allowing free entry to all national park areas for one year.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87573</field>
+		<field name="title">Delaware Water Gap National Recreation Area</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">NPS.gov - Fees Reservations</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87574</field>
+		<field name="title">Ozark National Scenic Riverways</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There is no entrance fee charged to enter Ozark National Scenic Riverways. Fees for boat rental, lodging, and campsites will vary by provider. No permit is required to operate a boat on the river. A Missouri fishing license is required to fish.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87575</field>
+		<field name="title">Misty Fiords National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">fees for cabin use</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87576</field>
+		<field name="title">Mount Rushmore National Memorial</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Entrance to the Memorial is free; however, there is a fee to park. This fee isnt covered by the National Park Pass, Golden Age or Golden Access Passport cards because the parking facilities are privately owned. The structure was built to accommodate visitation, and because federal or donated funds werent available, it was contracted out, and the non-profit organization became Presidential Parking Inc. Parking is $11 for private vehicles (cars, motorcycles, and RVs).</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87577</field>
+		<field name="title">Cumberland Gap National Historical Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Cumberland Gap has no entrance fees. Backcountry camping requires a free permit, obtainable from the Visitor Center ( see below ).</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87578</field>
+		<field name="title">Everglades National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Entrance fees: Vehicles $10 for 7 days. Pedestrian/bicyclist $5 for 7 days. Everglades National Park Annual Pass $25 is valid for twelve months from the date of purchase. It admits the purchaser and any accompanying persons in a single, private, non-commercial vehicle, or the purchaser and accompanying immediate family (spouse, children, parents) when entry is by other means (bicycle, foot, and boat). Activity fees: Camping Fees at park campgrounds: $14 per night. Backcountry Camping Fees (Permit Required): $10 per permit plus $2 per person per night. Maximum 14 days.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87579</field>
+		<field name="title">Blue Spring</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">$5-10</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87580</field>
+		<field name="title">George Rogers Clark National Historical Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Free</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87581</field>
+		<field name="title">Cape Cod National Seashore</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Beach entrance fees are collected from late June through early September when lifeguards are on duty, and on weekends/holidays from Memorial Day to the end of September. National Park Service passes can be used. $15 per day per vehicle; $3 per day for pedestrian or bicyclist. $45 - Annual pass good for a calendar year fee season. Cape Cod National Seashore passes are usually available at visitor centers starting Memorial Day, and at fee booths when they are open. General NPS passes may be purchased at Salt Pond Visitor Center (daily April 15 through October 31, and on weekends November 1 through March) and at Province Lands Visitor Center (daily Memorial Day weekend through Labor Day weekend).  Some interpretive programs, including canoe lessons and trips, surfcasting lessons, and the Beach Apparatus Drill, have fees.   Off-Road Vehicle (ORV) Permit. The application form for advance sales may be downloaded from the parks  Oversand In-Depth link . 7 Days $40; Annual $150 (2006).  Self-contained Recreational Vehicle (SCV) Permit. The application form for advance sales may be downloaded from the parks  Oversand In-Depth link . 7 Days $75; Annual $225 (2006).  Campfire permits. Free permits for beach campfires at the parks six swimming beaches are available at park visitor centers. Reservations may be made up to 3 days in advance by calling Salt Pond Visitor Center at 508-255-3421 for beaches in Eastham and Wellfleet; and Province Lands Visitor Center at 508-487-1256 for beaches in Truro and Provincetown. Four permits per day, per beach are issued. Permits must be picked up the day of the fire at the reserving visitor center, by 3:30PM.  Wedding, special event, and commercial filming permits. Contact the Chief Rangers office at +1 508-349-3785, ext 214 for details, and an application.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87582</field>
+		<field name="title">Boundary Waters</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Camping Permits/Fees (both U.S. and  Canadian  trips): Camping permits, which control your entry date and location must be reserved for your party.  The Forest Service fee for each permit issued is $12. You will also be required to pay a USFS User Fee of $16 per adult and $5 per youth per trip. Plan as much in advance as possible as the number of entries is restricted.  Canada requires a Remote Area Boarder Crossing    form to be applied for before you go.  The cost is 30 Canadian dollars per application.  It takes about a month to get it, so make sure you plan accordingly.  The permit is good for 1 year.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87583</field>
+		<field name="title">Saguaro National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">All private vehicles entering Saguaro National Park must pay a $10 entrance fee that is valid for seven days.  Individuals on foot or bicycle must pay a $5 entrance fee, also valid for seven days.  Those with a National Park Pass ($80, allows entrance to all national park areas for one year) do not need to pay the entrance fee.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87584</field>
+		<field name="title">Jewel Cave National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">The only fees are for the various cave tours.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87585</field>
+		<field name="title">Indiana Dunes National Lakeshore</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">As of January 1, 2006, the admission fee for entering the Indiana Dunes State Park section of the National Lakeshore was $10.00 per motor vehicle.  The fee covers the driver and passengers, and there is a discount for motor vehicles with Indiana license plates.  One of the IDNLs beaches, West Beach near Beverly Shores, has a summer parking and entry fee.  As of December 2005, the announced parking fee was $6.00 per motor vehicle, $30.00 per bus and $1.00 per pedestrian or bicycle entry.  Fees are charged at West Beach from mid-May onward for the duration of the "summer swimming season" (no set end date).  Most inland sections of the Indiana Dunes National Lakeshore can be visited year-round without an admission fee.  Parking fees may be charged during seasonal festivals.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87586</field>
+		<field name="title">Valles Caldera National Preserve</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">The VCNP was setup as an autonomous wholly owned corporation within the National Park system. The Trust structure, with a board of directors that manages the Preserve, is an experiment in land management. The experiment will be reviewed in 2015 by Congress. One of the criteria of success for the Preserve is that it be self-sufficient by 2015. Another is that appropriate public access be established.  The fee structure at VCNP is one of its many unusual features among United States national parks.  Access to the preserve via SR 4 is free, and there are free hikes, Nordic ski outings, etc., from trail heads along SR 4 (free permit). Most activities in the interior of the Preserve, however, are on a fee basis, with fees ranging from $6 for half a day of Nordic skiing, all the way to $150 for birding, painting and other classes that combine with overnight stays at the Casa de Baca Lodge.  Most fees for unguided day use are of order $10–15 (youth and senior discounts apply), with some additional cost for guided hikes and skis.  The VCNP web site, http://www.vallescaldera.gov/, has details.  Another unusual feature of VCNP is that it is one of very few major national park/preserve sites at which hunting, on a restricted basis, is allowed—specifically, elk hunting, as the resident herd is in constant need of culling.  A limited number of permits are issued each year, on a "lottery" system: would-be hunters buy lottery tickets ($5 each) that provide a chance of getting to hunt, with the actual hunters chosen before the beginning of hunting season (and paying an additional fee for the actual hunt) according to a complicated allotment system and a random draw of lottery entries.   The web site has additional details.  Fishing is also on a lottery basis.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87587</field>
+		<field name="title">Cedar Breaks National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">If visiting the Southwest where there are so many parks and monuments so close to each other, get the National Park pass.  This pass is good for every National Park in the USA and it gets you into Cedar Breaks National Monument as well.  If you want to pay just the fee for the monument then it is $4 for 7 days.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87588</field>
+		<field name="title">Congaree National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Its such a new national park that they havent put up the admission gates yet, so its still free to enter the park. Camping is also free as long as you pick up a permit at the visitors center.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87589</field>
+		<field name="title">Florissant Fossil Beds National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Each person is required to pay a $3 fee, good for 7 days. A Local Passport may be purchased for $15, good for the whole year.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87590</field>
+		<field name="title">Letchworth State Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">The per-vehicle entrance fee is $8, payable at the four entrances on the west side of the river.  The east-side Dam and Parade Grounds entrances have no fee, but you cant get to the west side, where most of the attractions and amenities are.  Alternatively, the  Empire Passport  costs $65 and gets you access to all New York State Parks; its valid from the date of purchase through the end of March in the following calendar year (that is, for at least 3 and as many as 15 months, depending on date of purchase).  Certain park amenities and attractions cost extra; see individual listings below.  You dont need a permit to do most things in the park; the exceptions are for hunting and nighttime snowmobiling.  Youll also need to fill out an application to use certain lodges and shelters.  All such forms are available on the web site.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87591</field>
+		<field name="title">Mojave National Preserve</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There are no entrance fees to the preserve, but some of the preserves campgrounds do charge a usage fee for overnight camping.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87592</field>
+		<field name="title">Hot Springs National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There are no fees charged for entry, but camping fees range from $5–$24 per night (see  Camping  below).</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87593</field>
+		<field name="title">Joshua Tree National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Entry fee options are as follows: The Joshua Tree National Park Annual Pass, $30 for 12 months; vehicle entry, $15.00 for 7 days; walk-in entry, $5.00 for 7 days. Alternatively, the new (as of January 1, 2007) National Parks and Federal Recreational Lands Pass can be purchased for $80 and allows free entry to all National Park Service, U.S. Fish and Wildlife Service, Bureau of Land Management, Bureau of Reclamation, and U.S. Forest Service sites where entrance or standard amenity fees are charged for one year.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87594</field>
+		<field name="title">Daniel Boone National Forest</field>
+		<field name="main">fees/permits</field>
+		<field name="name">Recreation Schedule and Fees.</field>
+		<field name="url">http://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5294940.pdf</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87595</field>
+		<field name="title">Devils Postpile National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">All visitors to the Reds Meadow Valley area, whether they take the mandatory shuttle bus or drive their personal vehicle, must pay a transportation fee. The fees are as follows:   $7 for adults using the shuttle.  $4 for children (3 to 15 years of age) using the shuttle.  $20 for visitors in cars.  Season passes are available for $35.  Note since the fees charged are transportation fees (and not park entry fees) that Golden Passports and National Park Passes are not valid for this transportation fee under the Federal Lands Recreation Enhancement Act.  Fees are valid for the duration of the visit.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87596</field>
+		<field name="title">Sleeping Bear Dunes National Lakeshore</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">An entry fee of $10 per private vehicle, or $5 per person (16 and older) for those on foot or two wheels, is charged for all parties visiting the park; the fee is valid for seven days.  Alternatively, a $20 annual pass is available for those planning on making multiple visits.  The $50 National Parks Pass allows free entry to all national park areas for one year.  There are additional fees for camping (see "Sleep").  Passes can be purchased at ranger stations or from 24-hour machines at the visitor center and two main campgrounds.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87597</field>
+		<field name="title">Organ Pipe Cactus National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">$8 per vehicle for a 7-day pass.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87598</field>
+		<field name="title">Guadalupe Mountains National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">The entrance fee for adults is $5; children under 16 are free. The fee is good for seven days.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87599</field>
+		<field name="title">Flaming Gorge National Recreation Area</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There are no entrance fees into the recreation area.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87600</field>
+		<field name="title">Gettysburg National Military Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Access to the battlefields are free at all times.  However, museums carry a small fee. The cost to get into the Gettysburg National Military Park Museum and Visitor Center is $10.50 for adults and includes a short film and entry to see the Gettysburg Cyclorama Painting.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87601</field>
+		<field name="title">Levi Jackson Wilderness Road State Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">Mountain Life Museum</field>
+		<field name="price">Adults $3.50 Children $2.50</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87602</field>
+		<field name="title">Canyonlands National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Entrance fees are $5 for individuals on foot, bike or motorcycle, and $10 for private vehicles (fees are good for seven days).  A Local Passport may be purchased for $25 and allows unlimited entry to Canyonlands National Park,  Arches National Park ,  Hovenweep National Monument  and  Natural Bridges National Monument  for one year.  Alternatively, the $80 National Parks Pass allows entry to all National Park areas for one year.  Fees may be waived for groups whose purpose is educational rather than recreational; check with the park in advance for fee waiver details.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87603</field>
+		<field name="title">Bandelier National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">A 7-day pass can be purchased for $12 per car. An annual pass good for this park only can be purchased for $30.  A National Parks and Federal Recreational Lands Pass ($80, valid for one year) allows free entry to all national park areas.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87604</field>
+		<field name="title">Casa Grande Ruins National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Entrance Fees for Casa Grande Ruins National Monument is charged per person and is valid for 7 days from date of purchase.  Each adult (16 years or older) will be charged $5.00.  Children 15 and younger are free.  Commercial Tour Groups are charged the same $5.00 per person entrance fee.  School Groups may apply for an Educational Fee waiver, which must be approved prior to the visit.  Please call ahead.  All Interagency Passes (Annual, Senior, and Access) are honored for the card holder and 3 adults (total of 4 people)</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87605</field>
+		<field name="title">Shawnee National Forest</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There are no fees to enter the Shawnee National Forest.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87606</field>
+		<field name="title">Death Valley National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">A seven day pass with unlimited re-entry is $20 for a standard vehicle (car/truck/van) and $10 for each individual traveling on foot, motorcycle, or bicycle. However, individuals planning to visit many different National Parks in the  USA  may save money by purchasing an America The Beautiful, The National Parks and Federal Recreational Lands Pass for $80; this pass allows free entry to all federal fee areas in the  USA .  Unlike other National Parks, few of the roads into Death Valley National Park have road-blocking ranger-manned fee booths. You are expected to pay the entrance fee though, and there are automatic kiosks at several places in the park.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87607</field>
+		<field name="title">Lake Clark National Park and Preserve</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There are no fees or permits anywhere within the park.  Backcountry hikers are requested to fill out a free registration form   , which can assist rangers in the event of a rescue.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87608</field>
+		<field name="title">Ebey's Landing National Historical Reserve</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There is an entrance fee for the two State Parks located within the preserve.  One-day pass: $10, Annual Discover pass: $30, which gives access to all Washington State Parks available online from the states  website.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87609</field>
+		<field name="title">Dead Horse Point State Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">It costs around $10 USD to get into the park.  This is an inexpensive fee for what you get to experience; the views are beyond belief!</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87610</field>
+		<field name="title">Redwood National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There is no entrance fee for Redwood National Park.  The nearby state parks - Jedediah Smith, Del Norte Coast, Prairie Creek Redwoods - charge entry fees of $5 per day.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87611</field>
+		<field name="title">Buffalo National River</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There is no entrance fee charged to enter Buffalo National River. Fees for boat rental, lodging, and campsites will vary by provider. No permit is required to operate a boat on the river. An Arkansas fishing license is required to fish for persons age 16 and over and may be purchased online at https://www.wildlifelicense.com/ar/start.php.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87612</field>
+		<field name="title">Sipsey Wilderness</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">$3 at the 209-Sipsey River Trail Head</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87613</field>
+		<field name="title">Isle Royale National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">A fee of $4 per calendar day on the island is charged for visitors 12 years and older, and to save time upon arrival is collected en route by the services providing transportation to and from the island.  Park visitors are required to file a plan with the rangers indicating the campgrounds they expect to use each night.  This serves to make sure campers plans are consistent with party-size and duration-of-stay limits on campgrounds (and reality), and to help the park service estimate campground usage.  They dont care if you change your mind along the way (they expect that to happen), and only ask that campers let them know where you actually stayed before leaving.  Special permits and reservations are required for groups of 7-10, for off-trail hikers, and for canoeists camping outside of designated campgrounds.  Because noise levels go up exponentially as the size of camping parties increase, groups of more than 10 must split up and hike/camp separately.  Fishing in Lake Superior and connected waters requires a paid license from the state; inland lakes have no licensing requirement.  Hunting is not permitted.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87614</field>
+		<field name="title">Chimney Rock National Historic Site</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">$3.00 - Day  Children with adults free. Admission fees are waived for Nebraska State Historical Soceity members.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87615</field>
+		<field name="title">Provo Canyon</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Deer Creek has two boat ramps - Deer Creek Island Resort (Rainbow Bay) and Deer Creek State Park - which can be accessed from US-189 (Provo Canyon Road). Both areas require a fee. I believe the fee is $6, but I have a pass and am not entirely certain.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87616</field>
+		<field name="title">Opal Creek</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">A  Northwest Forest Pass  is required to park at the gate area and most areas along the forest service roads in the Opal Creek area. The passes are available at many vendors, but not at the site, so be sure to get your pass before you get there. Passes can be daily or seasonal.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87617</field>
+		<field name="title">Big Cypress National Preserve</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There are no entrance fees. An annual ORV permit, displayed on the inspected vehicle, is required for ORV operation along preserve trails ($50 in 2006). The permit can be obtained at the Oasis Visitor Center.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87618</field>
+		<field name="title">Lyndon B. Johnson National Historical Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There is no fee to visit the Johnson City District. Donations are gratefully accepted.  The fee for the National Park Service bus tour of the LBJ Ranch is as follows:  Ages 62 and older: $3.00 Ages 18-61: $6.00 Ages 7-17: $3.00 Ages 6 and younger: free  Cash, checks, and credit cards are accepted for payment of the bus tour fees.  Scheduled school groups who request and receive fee waivers are free of charge. Annual fee free days for all tour bus passengers are August 27 (former President Johnsons birthday) and other dates as designated by the Department of the Interior, National Park Service.  Reservations for educational programs and groups of 15 or more people are necessary.  Contact the park for more information, 830-868-7128 ext. 231.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87619</field>
+		<field name="title">Mount Washington State Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There is a fee to use the Mount Washington Auto Road. Car and Driver: $20 (including a bumper sticker and audio tour on CD or cassette in English, French or German) Motorcycle and Operator: $12 Each additional adult: $7 Children ages 5-12: $5 Children ages 4 and under: Free Updated 2006 from:   . If you are planning on hiking Hut to Hut, you can plan your trip on this website and configure the total price for it: http://www.outdoors.org/recreation/hiking/hiking-mtwashington.cfm</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87620</field>
+		<field name="title">City of Rocks National Reserve</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">A day use fee is not collected at City of Rocks; however, there is a $12 / night / site fee for overnight camping.  Additional vehicle fees are $5 / night / vehicle.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87621</field>
+		<field name="title">Glacier Bay National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There are no entry fees for non-commercial users of the park.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87622</field>
+		<field name="title">Craters of the Moon National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Park entrance fees are $8 for private vehicles and $4 for individuals on foot, bike and motorcycle.  Individuals 15 and under may enter the park for free. All entrance fees are valid for seven days.  Alternatively, the America the Beautiful pass can be purchased for $80, allowing free entry to all national park and national forest areas for one year.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87623</field>
+		<field name="title">White Mountain National Forest</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">(2006) User fees may be charged for specific uses: boat ramps, swimming facilities, campgrounds, etc. Parking: Areas requiring a pass are signed as fee areas. Passes are available at many of these areas. Day pass $3, Week $5, Annual $20, Household (2-vehicle) annual $25.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87624</field>
+		<field name="title">Okefenokee National Wildlife Refuge</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">The Park charges an entrance fee at each of its main Entrance Gates. The Fees are as follows:  One Day Pass - $5  One Year Pass - $12  Various other passes for tour groups or seniors exist, so ask a ranger about these rates.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87625</field>
+		<field name="title">Grand Teton National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">All vehicles and individuals entering the park must pay an entrance fee that is valid for seven days.  The entrance fee provides entry to both Grand Teton and Yellowstone National Parks.  Fees are $25 for non-commercial vehicles, $12 for hikers and cyclists, and $20 for motorcycles.  A National Parks Pass ($80 and valid for one year) provides free entrance to all national parks and monuments.  From December through mid-April a winter day use pass is also available for $5 per person (Grand Teton National Park only).  Grand Teton National Park is a bit curious in that the ranger stations where you pay the entry fees lie fairly deep within the park. This essentially means that sections of the park can be accessed for free, including Jackson Hole Airport.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87626</field>
+		<field name="title">Yellowstone National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">All vehicles and individuals entering the park must pay an entrance fee that is valid for seven days. The entrance fee provides entry to both Grand Teton and Yellowstone National Parks. Fees are $25 for non-commercial vehicles, $12 for hikers and cyclists, and $20 for motorcycles and snowmobiles.  One year passes are available as an alternative to the seven day fee.  The Park Annual Pass is $50 and provides entrance to Yellowstone and Grand Teton National Parks.  The Interagency Annual Pass is $80 and provides entrance to most federal recreation sites across the country including Yellowstone and Grand Teton National Parks.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87627</field>
+		<field name="title">Lincoln Boyhood National Memorial</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">$3 entry. $10 for annual pass.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87628</field>
+		<field name="title">Shenandoah National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Shenandoah National Park is one of the NPS units that charge an entry fee. The following fee types are available:  1-7 days per vehicle: $10 Dec-Feb, $15 Mar-Nov  1-7 days per motorcycle: $10  1-7 day per person (e.g. visiting by bicycle, bus): $5 Dec-Feb, $8 Mar-Nov  Annual pass (may be signed by up to two people): $30  Interagency pass (valid for many other national parks year round): $80</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87629</field>
+		<field name="title">El Malpais National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There are no entrance fees charged for visiting the park.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87630</field>
+		<field name="title">Cleveland National Forest</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">People planning on parking and walking through the forest are required to display an Adventure Pass.  These can be obtained from businesses throughout the forest.  $5 for a day pass and $30 for a year pass.  You are not required to buy a pass if you are stopping temporarily, such as to use a restroom or to eat lunch.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87631</field>
+		<field name="title">Zion National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">A $25 entrance fee is required for all private vehicles entering the park that is good for seven days; the America the Beautiful pass may be purchased for $80 that waives entrance fees for all federal lands for one year.  Motorcycles, individuals on foot, and bicyclists are charged a $12 entrance fee.  Private vehicles which only visit Kolob Canyons still need to pay the $25 entrance fee (good for the whole park).</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87632</field>
+		<field name="title">Rocky Gap State Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Free entrance.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87633</field>
+		<field name="title">Mount Whitney</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Everybody in the Mt. Whitney Zone must possess a valid wilderness permit.  This includes BOTH backpackers and day hikers.  From May 1 to November 1, entry and exit quotas limit the number of permits that are available.  From November 2 to April 30, an unlimited number of permits are available.  Permits are issued at the InterAgency Visitor Center, 1 mile south of Lone Pine, CA.  Permits for the quota period may be reserved in advance, or obtained on a "walk-in" basis.  Most permits for the Mt. Whitney Trail are reserved during the Mt. Whitney lottery in February.  The lottery is for Mt. Whitney Trail permits only.  Lottery applications can be obtained from the  Mt. Whitney lottery web site  or by calling (760) 873-2483.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87634</field>
+		<field name="title">Daniel Boone National Forest</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Certain areas and activities within the Daniel Boone National Forest require permits and fees.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87635</field>
+		<field name="title">Catoctin Mountain Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Catoctin Mountain Park is open year-round during daylight hours. Seasonal road closures happen occasionally during winter. There are no entrance fees, but those staying overnight have to pay a camping fee.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87636</field>
+		<field name="title">North Cascades National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There are no fees to enter the North Cascades National Park.  Spending the night in the back country does require a free permit obtained by registering at a ranger station.  Campgrounds have variable fees, often dependent on the time of year and popularity of the campground.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87637</field>
+		<field name="title">Chaco Culture National Historical Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Entrance fees for the park are $4 for individuals, $8 for cars, and are good for seven days.  The National Park Services "Park Pass" ($50/year) secures unlimited repeat entries for this and other National Park Service units.  Campsites (see below under "Sleep") are $10/night, with a $5 discount for holders of a Park Pass.  Permits are required for backcountry hiking.  Theyre free and available at the visitor center, or at the trailheads.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87638</field>
+		<field name="title">Bryce Canyon National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Private, non-commercial vehicles must pay a $25 entrance fee that is good for 7 days.  Holders of the National Park Pass ($80), which allows access to all National Parks for one year, do not have to pay this fee.  For individuals (applies to motorcycles, bicyclists, or individuals traveling on foot) the fee is $12 for 7 days (National Park Pass holders are again exempt).  The entrance fee includes free and unlimited use of the park shuttles during the summer.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87639</field>
+		<field name="title">Apalachicola National Forest</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">The vast majority of the forest is free to visit, however, certain areas of the forest (such as campgrounds) may require a fee for use.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87640</field>
+		<field name="title">Timucuan Ecological and Historic Preserve</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Timucuan Preserve sites are free and open to the public. Permits are required for weddings, commercial tours and commercial photography.  Reservations are taken for groups planning to visit Fort Caroline (904-641-7155), Kingsley Plantation (904-251-3537), and the Ribault Club (904-251-2802).</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87641</field>
+		<field name="title">Katmai National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Enterance fee: free Camping fee: $5.00 Logding fee: $10.00</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87642</field>
+		<field name="title">Goosenecks State Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Access to the park is free, as is camping.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87643</field>
+		<field name="title">Dinosaur National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Fees are charged from Memorial Day Weekend through Labor Day. All permits are valid for seven days.   Private passenger vehicle - $10  Motorcycle - $5 for single rider, $10 for double rider  Hiker/bicyclist - $5</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87644</field>
+		<field name="title">Monument Valley</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Monument Valley is a Navajo Tribal park (not a USA National Park) and charges a fee of $5 per person (children 9 and under free) for access to the loop road through the valley.  National park passes will not be accepted.  Except for a few trails, individuals wishing to hike in the valley or to visit sites not on the loop road must hire a Navajo guide for an additional fee.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87645</field>
+		<field name="title">Mount Rainier National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Mount Rainier National Park charges an entrance fee of $15 per week per private vehicle (includes all passengers) or $5 per week per individual person on foot, bike, or motorcycle.  An annual pass is available for $30, valid for one year from month of purchase (does not cover camping fees).  Alternately, for those who will be visiting multiple parks, the $80 National Park Pass allows free entrance into all national parks for one year.  An entrance fee is not required to access any of State Routes 410 or 123 on the east side of the park, including the Ohanapecosh campground and visitor center.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87646</field>
+		<field name="title">Yosemite National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Park entrance fees are $20 for private vehicles and $10 for individuals on foot, bike and motorcycle.  All entrance fees are valid for seven days.  The Yosemite Annual Pass is available for $40, allowing park entry for one year.  Alternatively, The National Parks and Federal Recreational Lands Annual Pass can be purchased for $80, allowing free entry to all park and recreation lands controlled by the US Department of the Interior for one year.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87647</field>
+		<field name="title">Carlsbad Caverns National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">The basic fee for the main cave is $10, Children 15 and under are free, good for three days.  Headset rentals are an extra $3 per person.  A Park Pass ($50 annually) provides continuing access for the holder and immediate family to this park and other units of the National Park Service.  The park also holds several free admission days throughout the year.  See the Fee and Reservation page for the dates   .  Several of the ranger-led activities (see under "Do") require additional fees.  Consult the NPS web site below for more information.  Backcountry activities (other than surface day hikes) extending beyond the ranger-led tours require permits.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87648</field>
+		<field name="title">Grand Canyon</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">All private vehicles entering the Grand Canyon must pay a $25 entrance fee, which is good for seven days.  Individuals on foot or on a bike must pay a $12 entrance fee, also good for seven days.  Exceptions: those holding an Annual Pass ($80, valid for one year), Senior Pass ($10, valid for life,  available to US citizens 62 and older) or an Access Pass (free, available only to citizens or permanent residents of the United States who are medically determined to be blind or permanently disabled). Note: An Access Pass can only be obtained in person by showing proof of medically determined permanent disability, or eligibility for receiving benefits under federal law.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87649</field>
+		<field name="title">Point Reyes National Seashore</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There are no entrance fees charged to visit Point Reyes.  Permits are required for backcountry camping and for all fires.  Overnight parking without a backcountry permit is not allowed.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87650</field>
+		<field name="title">Canyon de Chelly National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">The amazing landscape of the area.  There are no fees to enter the park.  To drive on the canyon bottom, a 4-wheel drive vehicle, a Park Service permit and an authorized Navajo guide are required. The fee is $15 an hour for 1 vehicle, $5 an hour for each additional vehicle with a 5-vehicle limit per guide.  Hiking within the canyon requires a Park Service permit and an authorized Navajo guide, except along the 2.5-mile (4-km) White House Ruins Trail. One guide may take up to 15 people for $15 per hour.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87651</field>
+		<field name="title">Yosemite West</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">To get to Yosemite West you need to enter at one of the Yosemite National Park gates. Park entrance fees are currently $20 for private vehicles and $10 for individuals on foot, bike and motorcycle.  All entrance fees are valid for seven days.  The Yosemite Annual Pass is available for $40, allowing park entry for one year.  Alternatively, The National Parks and Federal Recreational Lands Annual Pass can be purchased for $80, allowing free entry to all park and recreation lands controlled by the US Department of the Interior for one year. Senior Pass for those over 62, are also available.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87652</field>
+		<field name="title">Pipe Spring National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">$5.00 per person for 7 days. (Includes a $1.50 per person tribal use fee.) Children 15 years old and under are admitted free. Holders of National Park Passes or Golden Age/Golden Access Passports and their immediate family (spouse, children and parents only) are admitted free.  Commercial tour group fees are $5.00 per person.  (National Park Passes, Golden Age/Golden Access passes do not apply to commercial tour groups.)  Groups (commercial and non) should call for reservations, 928-643-7105.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87653</field>
+		<field name="title">Angeles National Forest</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Parking permits can be purchased at the rangers station in Mount Baldy Village. On some days permits are not required. If you are cited the fee is usually just the amount of a parking pass.  Generally, most areas of the Angeles National Forest will require parked vehicles to show either a $5 day pass, or an Adventure Pass ($30; valid for one year). The latter, which is also valid at three other National Forests in Southern California, can be purchased at local sporting goods stores. The ANF website provides a list of local vendors.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87654</field>
+		<field name="title">Patapsco Valley State Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Day use during the main season is $2 for  Maryland  residents; $3 for out-of-staters.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87655</field>
+		<field name="title">Four Corners</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">The entry fee is $3.00 per person.  The park closes at 5PM, and although the fence is easy to walk around it is not recommended. Several dogs not tied up will greet any visitors entering the area after closing time. Most of them are friendly, but you may also want to consult the Wikivoyage article on how to handle  aggressive dogs .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87656</field>
+		<field name="title">Petrified Forest National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Entrance fees are $5 for individuals on foot, bike or motorcycle, and $10 for private vehicles.  The Petrified Forest Annual Pass is available for $20 and allows free park entry for one year.  Alternatively, the America the Beautiful National Parks Pass is $80 and allows free entry to all national park areas for one year.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87657</field>
+		<field name="title">Padre Island National Seashore</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Please note that no reservations are taken for camping.   Please call Malaquite Visitor Center at 361.949.8068 to check on availability in the campgrounds.  Space is almost always available on the beaches, unless they are closed due to unusually high tides.    PARK ENTRANCE FEES  Annual Park Pass  $20.00 Annual Fee  Details:  An annual park pass may be obtained for $20, and is valid for a year after the day of purchase.  Please note that this is a pass to Padre Island National Seashore only.  To learn more about entrance pass programs to all federal lands, including Padre Island National Seashore, follow the link to the right.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87658</field>
+		<field name="title">Pinnacles National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">All private vehicles entering the park must pay a $5 entrance fee that is valid for seven days.  For individuals traveling by foot, bike or motorcycle the fee is $3, also valid for seven days.  Those with an America the Beautiful Pass ($80, allows entrance to all national park areas for one year) do not need to pay the entrance fee.  The Pinnacles Annual Pass, which costs $15, also waives all entrance fees.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87659</field>
+		<field name="title">Enchanted Rock State Natural Area</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">$6</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87660</field>
+		<field name="title">Armstrong Redwoods State Natural Reserve</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">$8.00 per vehicle $7.00 per vehicle for seniors Free to pedestrians and bicyclists Bus fee for 10-24 passengers is $50.00</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87661</field>
+		<field name="title">Chiricahua National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Day use fees are $5/adult; accompanied children free.  The National Park Services National Parks and Federal Recreational Lands Pass – Annual Pass ($80/year) affords free access to the park for the pass holder and others in the same (non-commercial) vehicle.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87662</field>
+		<field name="title">Chesapeake and Ohio Canal National Historical Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Since the park is centered around one extremely long path, there is little opportunity for the park service to collect fees. But to entry to the heavily touristed Great Falls will cost $5 per private vehicle, $3/person on foot or bike.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87663</field>
+		<field name="title">Green Ridge State Forest</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">No entrance fee is charged to enjoy the park but both camping and use of the shooting range require permits and fees.  Camping cost $10 per night for a group of up to 6 people.  An extra $1 is required for each additional camper.  Use of the shooting range cost $5 per day or $25 for the whole year and only $2.50 per day or $10 per year for those either under 16 or over 64.  Permits can be found at the Green Ridge State Forest Headquarters off I-68.  Fishing in Maryland requires a Maryland Anglers License for anyone older than 16.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87664</field>
+		<field name="title">Smith Rock</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Daily use fee: $5  Annual permit: $30</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87665</field>
+		<field name="title">Cahokia Mounds State Historic Site</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Entrance to the Park is free, though a donation of $4 for adults, $2 for children, and $10 for families is suggested.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87666</field>
+		<field name="title">Devils Fork State Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Annual SC Park Pass $50 / Daily Access Fee $2 per person</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87667</field>
+		<field name="title">Clifty Falls State Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Weekdays - $4 (Indiana plates) Weekends (Fri-Sun, Holidays) - $5 (Indiana plates) Non-Indiana Residents - $7 Pedestrians, bikes, by horse - $2</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87668</field>
+		<field name="title">Sequoia and Kings Canyon National Parks</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">The park entrance fee is $20 for private vehicles and $5 for individuals on foot or on bike, and is valid for seven days in both Sequoia and Kings Canyon National Parks.  The National Parks pass ($80) allows unlimited entry into all national park areas for one year.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87669</field>
+		<field name="title">Santa Fe National Forest</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Most of the campgrounds have fees for overnight stays; there may also be small ($2/night) fees for parking cars overnight at some of the more popular trailheads for backpackers, particularly around Cowles.  Most other recreational use of the forest is free.  Access to the Pecos and San Pedro Parks Wildernesses was controlled at one time by a permit system, but the permits have been discontinued and access is now free and unlimited.  Seasonal closures due to fire hazard may occur in any and all of the national forest area, particularly in June and early July, and open campfires may be restricted during the spring.  Inquire locally; the web site above generally does a good job of staying current on fire-related restrictions.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87670</field>
+		<field name="title">Palo Duro Canyon</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Ranger station - 806-488-2227 Entry is $5 for adults, free for children under 12.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87671</field>
+		<field name="title">Lake Mead National Recreation Area</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Fees for individuals entering the park are $3, good for five days.  Fees for vehicles (including all passengers) are $5, also good for five days.  An annual pass is available for $20 that allows free entrance for one calendar year, and the National Parks and Federal Recreational Lands Pass is available for $80, allowing free entry to all National Park, Bureau of Land Management, Forest Service, U.S. Fish and Wildlife Service and Bureau of Reclamation areas for one year from the month purchased.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87672</field>
+		<field name="title">Fire Island National Seashore</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There is no entrance fee. Plan on paying for transportation, parking or use of marinas. Permits are necessary for: public gatherings, special events and activities, filming or photography, oversand vehicle operation, scientific research collections, and wilderness camping.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87673</field>
+		<field name="title">Shades State Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">$5 per carload on weekends, $4 for weekdays. An annual entrance permit can be purchased for $36. Fees are marginally higher if you live out of state. Gate fees are waived during winter months.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87674</field>
+		<field name="title">Arches National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Park entrance fees are $10 for private vehicles and $5 for individuals on foot, bike, or motorcycle.  These fees allow entrance for seven days.  Alternatively, the $80 Multi-Agency pass allows entry pass, amongst others, to all national park areas for one year. It also allows entrance to parks of other agencies. The $50 National Park Pass, which allowed entry to all national park areas for one year was discontinued by the national parks service in 2007. If the entrance booth is not manned, there is an electronic kiosk to pay the entrance fee and receive a receipt to place on your vehicles dashboard.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87675</field>
+		<field name="title">Mount St. Helens</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Monument passes are sold for single-day admission to the visitor centers along Washington 504.  16 years or older: US $8  15 years or below: Free.  Golden Passports are honored at Mount St. Helens.  The Golden Eagle Passport (US$65 annually) is good for admission to any U.S. Forest Service or National Park Service site that charges admission fees.  The Golden Age Passport (US$10 lifetime) provides individuals over 62 years of age all Golden Eagle benefits plus a 50% discount at campgrounds, boat launches, and specialized interpretive services.  The Golden Access Passport (free) provides all Golden Age benefits to individuals with documented disabilities.  Golden Passports are available only to U.S. citizens or permanent residents online at http://www.natlforests.org, or at any U.S. Forest Service or National Park Service office.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87676</field>
+		<field name="title">Great Swamp National Wildlife Refuge</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There are no fees for visiting the Great Swamp National Wildlife Refuge.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87677</field>
+		<field name="title">Russell Cave National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Russell Cave National Monument has no fees or admission charges, but requests reservations for groups of twenty or more people at least two weeks in advance.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87678</field>
+		<field name="title">Horicon Marsh</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">No fees or permits needed to experience the Horicon Marsh.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87679</field>
+		<field name="title">Darien Lake</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Orange County Choppers MotoCoaster at Darien Lake Theme Park  Darien Lake opens in mid-May and closes after Halloween, although hours are very limited in October.  SplashTowns operating season is shorter.  A season pass for 2011 (includes both parks) is $66 plus tax.  Single-day ticket prices for 2011 have not yet been announced; they were $30 plus tax in 2010 and included admission to both parks, but theres no need to pay full price at the gate.  Discount tickets are readily available throughout Western New York at places like Wegmans and AAA, and the parks web site usually offers "online exclusive" tickets that are cheaper than at the gate.  The park sometimes offers discounted after-5PM rates as well.  Prices for concerts at the amphitheater vary based on the act thats performing; you can often get a package deal that includes park admission in addition to the concert.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87680</field>
+		<field name="title">Badlands National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">An entry pass good for one year is available for $30. Otherwise, people who drive a non-commercial vehicle can buy a 7 day pass for $15. Hikers, cyclists and motorcyclists can get a 7 day pass for $10.  Members of the Oglala Sioux tribe can buy the 7 day pass at half price.  An America the Beautiful Interagency Annual Pass is available for $80 that allows entry into any National Park for one year.  There are also discounted passes available to the disabled and persons over 62 years of age that allow lifetime access to all national parks.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87681</field>
+		<field name="title">Grand Staircase-Escalante National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Camping is free in unimproved areas.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87682</field>
+		<field name="title">Carter Caves State Resort Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Entry into the park is free as is the parking. Fees apply to the many but not all the parks activities</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87683</field>
+		<field name="title">Mount Lemmon</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Catalina Highway is a toll road for activities such as camping, hiking or even to use the restroom but as of 2010, tolls are only collected when there is a lot of tourist traffic entering Mount Lemmon.   Map of the Catalina Highway</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87684</field>
+		<field name="title">Big Basin Redwoods State Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Day use fees are $10 per vehicle. Pay at the Park Headquarters.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87685</field>
+		<field name="title">Land Between the Lakes National Recreation Area</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Certain activities within the Land Between the Lakes require fees or permits.  Permits may be purchased at the Golden Pond Visitor Center as well as the North and South Welcome Stations.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87686</field>
+		<field name="title">Capitol Reef National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">The park and campgrounds are open year round. The Visitor Center is open daily (except for some major holidays) from 8:00 a.m. to 4:30 p.m. with extended hours during the summer season.  Ripple Rock Nature Center is open from Memorial Day through Labor Day from 10:00 a.m. to 3:00 p.m. Tuesday through Saturday, closed Sundays and Mondays.  The following Entrance Fees are charged for traveling the park’s Scenic Drive beyond the Fruita Campground.  Individuals: $3.00 (Good for 7 days) This fee applies to bicycles and pedestrians (per person).  Vehicles: $5.00 (Good for 7 days) This fee applies to private vehicles, including motorcycles.  Entrance Fee Waivers: Fee waivers are available for groups traveling the Scenic Drive for educational purposes. Fee waiver requests must be submitted two weeks prior to your visit.   Sites at the Fruita Campground are $10 per night. Senior and Access pass holders receive a 50% discount on their campsite.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87687</field>
+		<field name="title">Devils Tower National Monument</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">$10 – 7 day pass for an individual vehicle  $5 – 7 day pass for individual pedestrian / bicycle / motorbike  Source: National Park Service website     Alternatively, if you plan to visit multiple National Parks in the US, purchase a National Parks Pass. This allows entry to any National Park for a period of 12 months for your vehicle and any passengers within.  The price is only $80.  The park also honors the "permanent" Golden Pass for seniors by the National Park Service.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87688</field>
+		<field name="title">Mono Lake</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">There are no fees charged to visit Mono Lake.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87689</field>
+		<field name="title">Black Canyon of the Gunnison National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">The entrance fee for a single visit is $15. It covers all persons in a single, private, noncommercial vehicle and is valid for seven calendar days.  The entry fee for pedestrians, bicyclists, motorcycles, motor scooters, or mopeds is $7 per person. There is no fee charged for persons 16 years of age or younger. You can also buy a Black Canyon Annual Pass for $30, which is valid for 12 months. Also, a free permit is required for all backcountry and wilderness use, both day use and overnight.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87690</field>
+		<field name="title">Great Sand Dunes National Park</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Entrance fees are $3.00 for each adult, with no charge for children 15 or younger.  The National Parks and Federal Recreational Lands Pass, available for $80, allows free access to all national park areas for one year.  The Great Sand Dunes Annual Permit also allows free access to the park for one year and costs $15.00.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87691</field>
+		<field name="title">Black Hills National Forest</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Aside from camping fees and hunting permits, the national forest is free for all to enjoy.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87692</field>
+		<field name="title">Mount Baker</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">A Northwest forest pass is required to park at all trailheads and at the Artist Point parking lot. Passes can be acquired at all ranger stations or by calling: (800) 270-7504.  Day Pass $5  Annual Pass $30  Federal Golden passports are also honored at NW Forest and park sites: Golden Eagle $65 (federal annual pass)  Golden Age $10 (life-time pass for US citizens 62+)  Golden Access Free (Qualified Disabled US Citizen)</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87693</field>
+		<field name="title">Gateway National Recreation Area</field>
+		<field name="main">fees/permits</field>
+		<field name="name">fees/permits</field>
+		<field name="content">Gateway has no entrance fees. However, Beach Parking Fees are charged at Sandy Hook (732-872-5970) and Jacob Riis Park (718-318-4300) during the summer. Day and annual passes are available.   Fishing Permit, $50 Annual fee. There are fees for parking in fishing lots at all Gateway sites. Permits are available at Gateway Visitor Centers/Ranger Stations.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

@@ -1,0 +1,11 @@
+<add>
+	<doc>
+		<field name="id">7477</field>
+		<field name="title">Alpine County</field>
+		<field name="main">communities</field>
+		<field name="name">communities</field>
+		<field name="content">Alpine Village    Bear Valley    Kirkwood    Markleeville    Mesa Vista    Woodfords</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

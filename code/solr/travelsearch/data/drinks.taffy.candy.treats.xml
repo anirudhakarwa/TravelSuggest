@@ -1,0 +1,84 @@
+<add>
+	<doc>
+		<field name="id">105373</field>
+		<field name="title">Depoe Bay</field>
+		<field name="main">drinks.taffy.candy.treats</field>
+		<field name="name">Fuddy Duddy Fudge,</field>
+		<field name="content">112 N Hwy 101.</field>
+		<field name="phone">+1 541-765-2878</field>
+		<field name="tollfree">+1-877-765-2878</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105374</field>
+		<field name="title">Depoe Bay</field>
+		<field name="main">drinks.taffy.candy.treats</field>
+		<field name="name">Bay Walk Cafe,</field>
+		<field name="phone">+1 541-765-7674</field>
+		<field name="address">16 SE Hwy 101</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105375</field>
+		<field name="title">Depoe Bay</field>
+		<field name="main">drinks.taffy.candy.treats</field>
+		<field name="name">Java Bean Coffee,</field>
+		<field name="phone">+1 541-765-3023</field>
+		<field name="address">26 NE Hwy 101</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105376</field>
+		<field name="title">Depoe Bay</field>
+		<field name="main">drinks.taffy.candy.treats</field>
+		<field name="name">Depoe Bay Candy Shop,</field>
+		<field name="content">Hwy 101 Bay.</field>
+		<field name="phone">+1 541-765-2727</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105377</field>
+		<field name="title">Depoe Bay</field>
+		<field name="main">drinks.taffy.candy.treats</field>
+		<field name="name">Ainslees Salt Water Taffy,</field>
+		<field name="phone">+1 541-765-2431</field>
+		<field name="address">66 SE Hwy 101</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105378</field>
+		<field name="title">Depoe Bay</field>
+		<field name="main">drinks.taffy.candy.treats</field>
+		<field name="name">Depoe Bay Winery,</field>
+		<field name="phone">+1 541-765-3311</field>
+		<field name="address">22 SE Hwy 101</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105379</field>
+		<field name="title">Depoe Bay</field>
+		<field name="main">drinks.taffy.candy.treats</field>
+		<field name="name">Cup of Jo,</field>
+		<field name="phone">+1 541-765-7641</field>
+		<field name="address">530 NE Hwy 101</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105380</field>
+		<field name="title">Depoe Bay</field>
+		<field name="main">drinks.taffy.candy.treats</field>
+		<field name="name">Pirate Coffee,</field>
+		<field name="content">@ Hwy 101.</field>
+		<field name="phone">+1 541-765-4373</field>
+		<field name="address">10 Vista St</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

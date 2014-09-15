@@ -1,0 +1,43 @@
+<add>
+	<doc>
+		<field name="id">98184</field>
+		<field name="title">West Chester (Pennsylvania)</field>
+		<field name="main">by air</field>
+		<field name="name">Brandywine Airport</field>
+		<field name="content">Small, private airport for corporate or personal flights.</field>
+		<field name="directions">1205 Ward Ave. West Chester, PA 19380</field>
+		<field name="phone">+1 610 692-6100</field>
+		<field name="fax">1 610 692-6213</field>
+		<field name="email">airportmanager@n99.com</field>
+		<field name="url">http://n99.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">98185</field>
+		<field name="title">Ridgecrest</field>
+		<field name="main">by air</field>
+		<field name="name">by air</field>
+		<field name="content">Inyokern Airport   - Ridgecrest is served by the Inyokern Airport (KIYK) which is a regional airport in the Indian Wells Valley Airport District. It is served by United Airlines via Skywest Airlines. It has one direct route to Los Angeles International Airport of which the connections are endless. The airport also has rental car services. Private planes are welcomed and stored as well. For flight info see  United Airlines .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">98186</field>
+		<field name="title">West Chester (Pennsylvania)</field>
+		<field name="main">by air</field>
+		<field name="name">by air</field>
+		<field name="content">Philadelphia International Airport.  About 45 minutes away from West Chester, the Philadelphia International Airport is much bigger than the Brandywine Airport. It has many commercial airlines that fly in from all over the world.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">98187</field>
+		<field name="title">Fond du Lac</field>
+		<field name="main">by air</field>
+		<field name="name">by air</field>
+		<field name="content">Fond du Lac has one airport, the Fond du Lac County Airport (FDL). Charter flights are available, however no major commercial airline serves the airport.   About 15 minutes North of the city, in Oshkosh, is Wittman Regional Airport (OSH). The airport no longer has commercial service, but charter flights may be available.   Outagamie County Regional Airport (ATW), located about 40 minutes away in Appleton, is the nearest airport with regularly scheduled commercial service. Flights are available to many U.S. destinations.   Other airports with commercial service include Austin Straubel International (GRB) in Green Bay, General Mitchell International (MKE) in Milwaukee, and Dane County Regional (MSN) in Madison. All are about 1 hour away.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

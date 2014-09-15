@@ -1,0 +1,80 @@
+<add>
+	<doc>
+		<field name="id">98266</field>
+		<field name="title">Baxter Springs</field>
+		<field name="main">get in/get around</field>
+		<field name="name">get in/get around</field>
+		<field name="content">Route 66 visitor info   14px  Baxter Springs is accessible by motorcar on the former US  Route 66 , where it is sixteen miles (22km) west of  Joplin , Missouri. There is no local transit service.   14px  When Interstate 44 bypassed Route 66, it avoided  Kansas  entirely by crossing directly from  Missouri  to  Oklahoma . To get back to Route 66 (Alternate US 69) from I-44, exit to US Route 400 at the Missouri state line and drive 8 miles (13km) west to Baxter Springs.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">98267</field>
+		<field name="title">Miami (Oklahoma)</field>
+		<field name="main">get in/get around</field>
+		<field name="name">B B Cab</field>
+		<field name="content">Local taxi service.</field>
+		<field name="phone">+1 918 542-1233</field>
+		<field name="address">128 C St NE, Miami 74354</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">98268</field>
+		<field name="title">Galena (Kansas)</field>
+		<field name="main">get in/get around</field>
+		<field name="name">get in/get around</field>
+		<field name="content">Access is by motorcar on  Route 66 ; Galena is eight miles west of  Joplin , Missouri.  This road is marked as state highway 66 from Joplin through Galena. Interstate 44 diverges from Route 66 in Duenweg (a Joplin suburb), bypassing Kansas entirely. There is no public transit of any kind in Galena.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">98269</field>
+		<field name="title">Adrian (Texas)</field>
+		<field name="main">get in/get around</field>
+		<field name="name">get in/get around</field>
+		<field name="content">Adrian TX as midpoint of USnbsp;66  Access is by highway. Adrian is on Route 66, a once-famous US Highway which was bypassed long ago by Interstate 40. In the Texas Panhandle, the old road still exists in the individual towns as "Interstate 40 BUS" but otherwise was "upgraded in place" (or replaced) by mainline I-40.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">98270</field>
+		<field name="title">Miami (Oklahoma)</field>
+		<field name="main">get in/get around</field>
+		<field name="name">Pelivan Transit</field>
+		<field name="content">Rural bus transportation over a wide area from Tulsa northeast to the state boundary.</field>
+		<field name="phone">+1 918 783-5791</field>
+		<field name="fax">+1 918-783-5786</field>
+		<field name="address">333 Oak Street, Big Cabin OK 74332-0302</field>
+		<field name="url">http://www.pelivantransit.org</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">98271</field>
+		<field name="title">Miami (Oklahoma)</field>
+		<field name="main">get in/get around</field>
+		<field name="name">get in/get around</field>
+		<field name="content">By car, Miami may be reached by old US 66, US Route 69 or Interstate 44.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">98272</field>
+		<field name="title">Amboy</field>
+		<field name="main">get in/get around</field>
+		<field name="name">get in/get around</field>
+		<field name="content">Amboy is located on the Santa Fe Railroad line between  Kingman , Arizona and  Barstow , California. It was originally founded as one of an alphabetical series of railway outposts but trains no longer stop mdash; not even to deliver water to this tiny desert point. A few cinema stars have used private aircraft to reach a private landing strip in the area, as the towns deserted and remote location has been used in movie location shooting.  Most travellers, however, will arrive by motorcar on what was once  Route 66 . The modern Interstate highway which bypassed US 66 does not go through (or near) Amboy, a key factor leading to the towns demise.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">98273</field>
+		<field name="title">Peach Springs</field>
+		<field name="main">get in/get around</field>
+		<field name="name">get in/get around</field>
+		<field name="content">Peach Springs location matches that of the cartoon village Radiator Springs in the 2006 Pixar film "Cars". The tiny village is served by the famed US  Route 66 , which originally followed the railway across the Arizona desert.  When Interstate 40 bypassed US 66 between  Kingman  and  Seligman , it took a shorter but divergent route far to the south. US 66 is separated from I-40 by twenty miles or more through much of the section through Peach Springs, Hackberry, Valentine and Truxton. The only major cross street joining I-40 to US 66 in this area is Hackberry Road, which has no I-40 offramp.  The steady stream of traffic westward through Peach Springs to California died overnight with most affected villages in the area becoming ghost towns. Peach Springs barely held on, primarily to serve the Hualapai Nation and as a point of depart for travel to the Grand Canyon. When US 66 entirely disappeared from standard road maps in 1985, the section from Kingman to Seligman was numbered as Arizona State Highway 66.  The only way in is by motorcar; leave I-40 at Kingman (in the west) or Seligman (in the east) to return to highway 66. The old road is fourteen miles longer than I-40 from Kingman to Seligman but is one of the largest continuous, intact portions of historic Route 66 in Arizona.  The Atchison, Topeka and Santa Fe Railway once served both Hackberry and Peach Springs. The train no longer stops, instead going directly from Kingman to Williams Junction. One must disembark at Kingman to travel the last 42 miles by car on Route 66.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

@@ -1,0 +1,30 @@
+<add>
+	<doc>
+		<field name="id">87521</field>
+		<field name="title">Alton (Missouri)</field>
+		<field name="main">campgrounds, canoe rentals, and guides</field>
+		<field name="name">Hufstedlers Canoe Rental</field>
+		<field name="url">http://www.hufstedlers.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87522</field>
+		<field name="title">Alton (Missouri)</field>
+		<field name="main">campgrounds, canoe rentals, and guides</field>
+		<field name="name">Richards Canoe Rental</field>
+		<field name="url">http://richardscanoerental.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87523</field>
+		<field name="title">Alton (Missouri)</field>
+		<field name="main">campgrounds, canoe rentals, and guides</field>
+		<field name="name">Eleven Point Canoe Rental</field>
+		<field name="content">Offers canoe and kayak rentals, flyfishing guide services in a custom driftboat, and cottage rentals.</field>
+		<field name="url">http://www.11pointcanoe.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

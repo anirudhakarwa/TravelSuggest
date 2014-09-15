@@ -1,0 +1,741 @@
+<add>
+	<doc>
+		<field name="id">75198</field>
+		<field name="title">Hartsfield–Jackson Atlanta International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">by car</field>
+		<field name="name">parking</field>
+		<field name="content">Both short-term (hourly and daily) and long-term (economy) parking are available from both terminals. There are also off-site parking lots with shuttles.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75199</field>
+		<field name="title">Hartsfield–Jackson Atlanta International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">by car</field>
+		<field name="name">by rental car</field>
+		<field name="content">When picking up your car, the ATL SkyTrain will take you to the Hartsfieldndash;Jackson Rental Car Center, a dedicated complex with rental check-in desks and parking decks for the rental cars.  The road signs for rental car return are not obvious; follow the signs toward both the terminals, and you will see much smaller signs pointing you to rental car return. When you reach the Rental Car Center, drive around the loop until you see the parking deck entrance for your rental car agency. Then, after youve returned the car, take the ATL SkyTrain to the airport.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75200</field>
+		<field name="title">Hartsfield–Jackson Atlanta International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by car</field>
+		<field name="content">The airport is easily reached from I-85 (domestic terminals) or I-75 (international terminal), where there are well-labeled signs directing you to the airport.  At the domestic terminals, you will need to know whether youre going to South Terminal (Delta and its partners) or North Terminal (all other airlines), because the road divides. Fortunately there are signs posted listing the airlines for each terminal.  If you just want to drop someone off quickly, the curbside drop-off lanes are quick in spite of the heavy traffic. Surly police officers will not let you linger for too long, so if you want a longer goodbye, pay a few dollars for the hourly parking lot.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75201</field>
+		<field name="title">O'Hare International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by train</field>
+		<field name="content">The CTA Blue Line terminates at the space-age station for OHare, designed by the firm of architect Helmut Jahn. Trains run 24 hours a day, as frequently as every six minutes during peak periods and as infrequently as every half-hour overnight. The trip to the  Loop  should take about 48 minutes, but never cut things close with the CTA. The station is located beneath the Bus/Shuttle Center, closest to Terminal 2 but easily accessible by underground passages, with moving walkways, from Terminals 1 and 3. Those arriving at or departing from Terminal 5 (international) must take the automated Airport Transit System between Terminals 2 and 5.    Metra  North Central Service trains stop at the "OHare transfer" station, located adjacent to parking lot F (with shuttle bus service connecting to the ATS).  The train reaches Chicagos Union Station in approximately 30 minutes, but service is infrequent, operates only on weekdays and is concentrated in the peak commute direction.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75202</field>
+		<field name="title">O'Hare International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by bus</field>
+		<field name="content">Pace routes 250 (Dempster Street for  Evanston  and  Skokie ) and 330 (Mannheim/La Grange) stop at the terminus of the Airport Transit System in parking lot E.    Several bus companies run scheduled and charter services to other communities; these usually drop passengers off at the departure-level curb and pick passengers up at the Bus/Shuttle Center.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75203</field>
+		<field name="title">O'Hare International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by taxi</field>
+		<field name="content">Chicago taxis  charge a metered rate based on time and distance. Expect to pay around $45 (plus tip) from OHare to the the  Loop . It is illegal for Chicago taxis to charge a non-metered flat rate except for special shared-ride services. Taxi drivers rarely participate in shared-ride services.  Except for a few suburbs immediately adjacent to the airport, Chicago taxis charge one and a half times the meter rate for non-Chicago destinations. Most suburban taxi companies have flat-rate taxi service to their respective suburbs. It is illegal for a suburban taxi to take you from OHare to a point within the City of Chicago.   American Taxi  and  303 Taxi  are two large suburban taxi associations that have taxis stationed near the airport.  But the suburban taxis cannot come to the airport unless you call them after you arrive.  Of the many shuttle/limo services,  Go Airport Express  vans are the most commonly seen doing the rounds of downtown hotel pick-ups. Fares to the downtown business district are $32/46/54 (plus tip) for a party of one/two/three persons, with a discount for a return ticket if bought in advance and lower fares for children under 14.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75204</field>
+		<field name="title">O'Hare International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by plane</field>
+		<field name="content">American Airlines loading up   The  Omega Airport Shuttle  provides transfer service to  Midway Airport  for $45 (plus tip), with hourly departures from the Bus/Shuttle Center. Service is offered 7:50AM-11:50PM, daily. Chicago taxis metered rates for the Midway/OHare trip are in  the vicinity of $65.  If time is not of the essence, the OHare to Midway trip can be made via CTA L lines for $5 (and only $2.25 from Midway to OHare). Take the CTA Blue Line from the lower level of the domestic terminals to the Clark/Lake stop and follow the signs on the platform to go upstairs to the CTA Orange Line which goes to Midway.  There is no charge for changing trains at Clark/Lake.  The typical time is about an hour and a half, although extra time should be allowed for delays.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75205</field>
+		<field name="title">O'Hare International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">by car</field>
+		<field name="sub-section">parking</field>
+		<field name="name">short-term</field>
+		<field name="content">Level one of the main garage (lot A) is designated for short-term parking, charging $2 for the first hour, and $4 for stays of up to three hours. But keep an eye on the clock, as a fourth hour sees the rate jump to $21, and it doesnt take long to reach the $50/day maximum. Other lots (under long-term, below) also charge $2 for the first hour, but rates increase faster, and as they are further away from the terminals, this option really only benefits you if the hourly parking area is full.   Lot D, adjacent to Terminal 5, also offers short-term parking: $2 for an hour, $6 for two hours.  A portion of remote lot F is now the cell phone lot where you can park for free and wait in your car for an arriving passenger to call your cell phone, at which point you can pick up your friend curbside without circling endlessly. Shuttle buses run from lot F to E.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75206</field>
+		<field name="title">O'Hare International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">by car</field>
+		<field name="sub-section">parking</field>
+		<field name="name">long-term</field>
+		<field name="content">If leaving a vehicle at the airport during a trip, numerous options are available.   The upper levels of the main garage (lot A) and the adjacent surface lots (lots B and C) charge $31/day.  International Lot D charges $51/day.  Remote economy lot E charges $17/day, remote lot F charges $9/day. A shuttle takes you between lots F, G, and the ATS terminus in lot E.  And if money is no object, valet parking is available at $10/$17 for one/two hours and $46 for the day. Visitors are advised to notify the parking hotline if they plan to park for longer than thirty days.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75207</field>
+		<field name="title">O'Hare International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">by car</field>
+		<field name="name">parking</field>
+		<field name="content">OHare runs a parking hotline (+1 773 686-7530) and broadcasts parking information on 800 AM radio within two and a half miles of the airport. Needless to say, then, parking at OHare is no simple affair. If youre the sort of person who likes to meet friends at baggage claim with a cordial "Come on, run with those bags!" youll be glad to know that parking in the main garage is free for stays of under 10 minutes. For the rest of us...</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75208</field>
+		<field name="title">O'Hare International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by car</field>
+		<field name="content">Access to OHares terminals is via I-190, which originates near the interchange between I-294 (the Tri-State Tollway) and I-90 (the  Northwest Tollway to the northwest and the Kennedy Expressway to the east). From downtown Chicago, follow I-90/94 northwest, continue on I-90 when I-94 splits off, then follow I-190 into the airport, which splits eventually into arrival (lower-level) and departure (upper-level) roadways serving Terminals 1, 2, and 3 in turn. For Terminal 5, exit on Bessie Coleman Drive. This exit also serves numerous rental car companies and the economy parking lots. To drop off a passenger without the harrowing experience of navigating the departures roadway, try Kiss nFly: follow signs for remote lot E where you can leave your friend at the terminus of the Airport Transit System, just a short ride away from the terminals.  Most major car rental companies have gigantic lots at OHare and offer complimentary shuttle buses to and from the passenger terminals.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75209</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">road connections</field>
+		<field name="content">Most tolled expressways in the Orlando area require drivers paying cash to exit off the right side of the highway at toll plazas, while drivers with electronic transponders ("SunPass") or registered to be billed/pay by mail continue on a straight path at highway speeds through the plaza. Most rental vehicles either include use of a transponder or are registered to use the SunPass lanes, with the rental company billed later and billing tolls to your credit card.  Orlando International Airport is sandwiched between two tolled expressways (motorways), with easy access to several major roads crossing the Orlando metro area. The airport is conveniently located within the Orlando metro area and without traffic congestion, it should take no more than 30 minutes to reach most of Orlando and the Kissimmee/Disney World area. Cities towns on the northern side of the Orlando metro are, such as  Sanford , should take no longer than 45 minutes to reach (again, without traffic congestion). The cities and beaches of the  Space Coast ,  Daytona Beach , and  Polk County  are roughly 45-90 minutes from the airport. Further away,  Tampa ,  St. Petersburg ,  Ocala ,  Gainesville ,  Vero Beach ,  Fort Pierce  are roughly 1.5-2 hours away.  The main airport terminal and parking structures are surrounded by a circular drive, which has numerous off-ramps (off both the left right) leading to the various parking structures and to connecting roads. This can be confusing/disorienting for some drivers, especially foreign drivers leaving the airport in rental vehicles and unfamiliar with the area, road system, and the vehicle they are driving. Be especially alert to signage and it is better to circle the terminal than swerve across multiple lanes of traffic and risk having an accident.  The Beachline Expressway (also State Road 528) runs along the northern edge of the airport and runs west to Interstate 4 (the primary north-south artery through the Orlando metropolitan area) and runs east to the beaches of the  Space Coast , which includes towns such as  Cocoa Beach ,  Titusville ,  Melbourne .   The Central Florida GreeneWay (also State Road 417) forms a half-loop around the eastern side of the Orlando metro area, beginning at Interstate 4 near  Kissimmee / Walt Disney World  and running north to Interstate 4 near  Sanford . It passes a couple miles south of the airport and is reached via Boggy Creek Rd. State Road 417 is the fastest way to reach Kissimmee, Walt Disney World, and Polk County (via I-4). If using S.R. 417 to travel north to eastern suburbs of Orlando or to Sanford or Daytona Beach (via I-4), take the Beachline Expressway east to reach the GreeneWay.  At the airport, you can drop off departing passengers on Level 3, and pick up arriving passengers on the baggage claim level, Level 2.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75210</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">bus connections</field>
+		<field name="content">Public transportation in the Orlando area is provided by Lynx (  , +1nbsp;407-841-5969) bus system. Lynx buses can be found on the Ground Transportation Level (Levelnbsp;1) of the Main Terminals "A"nbsp;side at Commercial Lane spaces A38-A41. Fares are $2/ride with free transfers within 90nbsp;minutes. Day passes are $4.50 and a 7-day pass costs $16. Discounted fares for Youth/Elderly requires riders to present a Lynx-issued ID, available only by applying at the Central Station Terminal with a 5-7nbsp;day turnaround and therefore not viable for short-term visitors. Routes (known as links) from the airport are:   Linknbsp;11—Downtown Orlando ( Map/Schedule ; departures every 40nbsp;minutes 6AM-midnightnbsp;M-F, 6AM-10PMnbsp;Sa, 6:30AM-9:30PMnbsp;Su/holidays) Linknbsp;41— Apopka  ( Map/Schedule ; departures 5:15AM-22:45PMnbsp;M-Sa 5:30AM-21:30PMnbsp;Su/holidays) Linknbsp;42—International Drive ( Map/Schedule ; departures every 60nbsp;minutes 5:30AM-11:30PMnbsp;M-Sa, 6:30AM-11PMnbsp;Su/holidays) Linknbsp;51—Downtown Orlando ( Map/Schedule ; departures every 40 minutes 5:30AM-10:30PMnbsp;M-Sa, 5:15AM-9PMnbsp;Su/holidays) Linknbsp;111— Walt Disney World  ( Map/Schedule ; departures every 75nbsp;minutes 5AM-midnight daily/holidays)</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75211</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">airport shuttles</field>
+		<field name="name">Mears Transportation</field>
+		<field name="content">Provides shuttle service from Orlando International to many hotels in and around the region, including those in the Disney area that are not served by Magical Express.</field>
+		<field name="phone">+1 407-423-5566</field>
+		<field name="url">http://www.mearstransportation.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75212</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">airport shuttles</field>
+		<field name="content">Almost every medium to high priced hotel in the city offers airport transfers. Additionally, there are several shuttle services options that run from the airport to various points, including Kissimmee, theme parks, University of Central Florida, and the cruise port at  Port Canaveral . Approximate rates for shuttle vans range from $18-26 depending on your destination (see  OIA website  for details on local transport). You may wish to contact your hotel or cruise line (if leaving from Port Canaveral) to inquire about discounts on certain shuttles or possibly free airport transfers.           Out-of-town shuttles provide service to destinations  within about 1-2nbsp;hours drive. These shuttles are prohibited from serving Orange, Seminole, and northern Osceola counties. A full, up-to-date list of these may be found on the  OIA website .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75213</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">airport shuttles</field>
+		<field name="name">InterPlex Transportation - Orlando</field>
+		<field name="content">Provides limousine and car services from Orlando International Airport.</field>
+		<field name="tollfree">+1 888-398-5392</field>
+		<field name="url">http://www.interplextransportation.com/usa/orlando.php</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75214</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">airport shuttles</field>
+		<field name="name">Disneys Magical Express</field>
+		<field name="content">Complimentary shuttle and luggage delivery service for guests staying at a Walt Disney World Resort hotel. Advance reservations are required.</field>
+		<field name="phone">+1 407-939-6244</field>
+		<field name="url">http://disneyworld.disney.go.com/planning-guides/in-depth-advice/airport-service/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75215</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">taxis</field>
+		<field name="content">Taxi Cabs/Vans may carry up to 9nbsp;passengers/luggage and may be found on the Ground Transportation Level (Level) of both the "A" and "B" sides of the Main Terminal. Rates are determined by a taximeter, regardless of the number of passengers, and flat fares are prohibited. Taxi Cab companies at the airport include:</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75216</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">taxis</field>
+		<field name="name">Star Taxi</field>
+		<field name="phone">+1 407 857-9999</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75217</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">taxis</field>
+		<field name="name">Yellow/City Cab</field>
+		<field name="phone">+1 407 422-2222</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75218</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">taxis</field>
+		<field name="name">Diamond Cab Company</field>
+		<field name="phone">+1 407 523-3333</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75219</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">taxis</field>
+		<field name="name">Town Country Transport</field>
+		<field name="phone">+1 407 828-3035</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75220</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">taxis</field>
+		<field name="name">Quick Cab</field>
+		<field name="phone">+1 407 447-1444</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75221</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">taxis</field>
+		<field name="name">Ace Metro/Luxury Cab</field>
+		<field name="phone">+1 407 855-1111</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75222</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">vehicle rentals</field>
+		<field name="name">Enterprise Rent-A-Car</field>
+		<field name="tollfree">+1-800-325-8007</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75223</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">vehicle rentals</field>
+		<field name="name">National</field>
+		<field name="tollfree">+1-800-227-7368</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75224</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">vehicle rentals</field>
+		<field name="content">Orlando is the "rental car capital of the world" and, as can be expected, there are many car rental agencies offering a large number and wide range of vehicles for rental. These agencies have desks on the first level of the main terminal, on both A and B sides. Additionally, there are numerous car rental agencies located off-site which provide free airport transfers from their location and may offer lower prices (See  OIA website ). Rental agencies at the airport are:                         Beware: Several gas stations near the airport prey on visitors topping off the tanks of rental cars by charging extraordinarily high prices ($2-3/gallon above local prices)! The practice has made national news and local ordinances require all stations to conspicuously display their prices on road-side displays. Nonetheless, there are still many unsuspecting visitors who are shocked to pull up to a gas pump with regular unleaded gas for $6.50/gallon, when stations 2-3nbsp;miles away are charging just $3.50!!</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75225</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">vehicle rentals</field>
+		<field name="name">Budget</field>
+		<field name="tollfree">+1-800-527-0700</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75226</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">vehicle rentals</field>
+		<field name="name">Advantage Rent A Car</field>
+		<field name="phone">+1 407 857-1999</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75227</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">vehicle rentals</field>
+		<field name="name">Dollar Car Rental</field>
+		<field name="phone">+1-800-800-6000(international)</field>
+		<field name="tollfree">+1-800-800-4000</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75228</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">vehicle rentals</field>
+		<field name="name">L and M Car Rental</field>
+		<field name="phone">+1 407 888-0515</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75229</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">vehicle rentals</field>
+		<field name="name">E-Z Rent A Car</field>
+		<field name="tollfree">+1-800-277-5171</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75230</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">vehicle rentals</field>
+		<field name="name">Thrifty</field>
+		<field name="tollfree">+1-800-800-367-2277</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75231</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">vehicle rentals</field>
+		<field name="name">Alamo</field>
+		<field name="tollfree">+1-800-327-9633</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75232</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">vehicle rentals</field>
+		<field name="name">Hertz Car Rental</field>
+		<field name="tollfree">+1-800-654-3131</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75233</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">vehicle rentals</field>
+		<field name="name">Avis</field>
+		<field name="tollfree">+1-800-831-2847</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75234</field>
+		<field name="title">Miami International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by car</field>
+		<field name="content">Your best option is to take a taxi from the airport or rent a car, depending on what your stay involves (if you need to get around parts of Miami with no nearby Metrorail stations). MIAs car rental facilities are scattered around the airport and connected to the terminal by shuttle buses.   If you are approaching or leaving MIA via the Airport Expressway (Florida State Road 112), beware of the at-grade railroad crossing on the ramps connecting the Expressway to the airport terminals.  Normally such crossings are grade-separated, but this one sits directly east of one of the runways. Thus, be prepared for the possibility of a 10-15 minute delay if a train happens to be there at the same time as you.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75235</field>
+		<field name="title">Miami International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by public transportation</field>
+		<field name="content">At MIA, public transportation includes a free shuttle to the nearby Tri-Rail station, as well as to Metrorail    and Metromover   .   Also, riders can take the recently created 150 express bus if they are staying in Miami Beach. Or, they can transfer from the 150 (or the J or 238 bus, which charges a slightly cheaper $2 fare as opposed to a $2.35 fare) to the MetroRail at the Earlington Heights station. From there, riders can take the MetroRail to various places, including Government Center in Downtown Miami, where transfers are available to buses to most destinations. Many hotels are along the MetroMover which is one level down from the MetroRail Government Center station. Consult a map for the closest MetroMover station or bus route to your hotel.  Also, riders can take the J or 150 bus to Biscayne Boulevard and transfer to a southbound bus to  Downtown Miami .     Miami offers different fare types for different amounts of rides. Beware that unless you purchase an EASY Card or EASY Ticket, you will have to pay twice in order to transfer between buses and between the bus and MetroRail.  The full list of available fares can be found at http://www.miamidade.gov/transit/fares_schedule.asp  EASY Cards and EASY Tickets can be bought at Terminal E of MIA.  A map of transit run by Miami-Dade is available at</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75236</field>
+		<field name="title">Los Angeles International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by public transportation</field>
+		<field name="content">Public transportation connections for the airport are not the greatest. LAX is located 16 miles from downtown Los Angeles and sadly does not connect with the citys metro rail system. There is a free shuttle bus from the airport to the Aviation/LAX station on the Metro Green Line. The  LAXFlyAway bus  takes you from LAX to Union Station for $7, Westwood, and Van Nuys.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75237</field>
+		<field name="title">Los Angeles International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">by car</field>
+		<field name="name">Central Terminal Area Parking Structures</field>
+		<field name="content">This option is useful for those making pick-ups or drop-offs.  Approximately 8000 parking spaces are available in multiple structures in the center of the airport.</field>
+		<field name="price">$3 for the first hour, $2 for each 30 minutes thereafter, $30 maximum for each 24 hours</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75238</field>
+		<field name="title">Los Angeles International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">by car</field>
+		<field name="name">Economy Parking - Lot C</field>
+		<field name="content">7300 open-air parking spaces located just outside of the main airport.  Shuttle buses run regularly to bring passengers to and from this enormous lot.</field>
+		<field name="directions">96th Street and Sepulveda Boulevard</field>
+		<field name="price">$4 per hour, maximum $12 per day</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75239</field>
+		<field name="title">Los Angeles International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by car</field>
+		<field name="content">Being that you are in Southern California, renting a car may be your best option for getting about. If you rent a car, there are around 10 different companies with very frequent shuttle buses picking up on the lower level around all terminals and going to large offsite lots. If you want to compare prices, you will need to do so using the telephones in the arrivals area or on the internet in advance of arriving. There are no details from the shuttle drivers or negotiable prices. Signing up to one the car rental club schemes can get the shuttle bus to drop you at your car, thus saving substantial time.  Most traffic enters the airport from (West) Century Boulevard exit of the 405.  The airport operates a long-term parking lot that located outside of the main airport and accessible by shuttle bus.  Private companies including hotels offer many additional options and include everything from open-air lots to garage parking with car washes.  For those waiting to pick up passengers there is a cell-phone waiting lot adjacent to Lot C where you can wait in your car for up to two hours.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75240</field>
+		<field name="title">Los Angeles International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by car hire</field>
+		<field name="content">Most car hire company drop off and pick-up points are on Aviation Boulevard north of Century Boulevard. Shuttle buses are available to and from the airport terminals (about 10 minutes ride). For car return there are a couple of fuel stations on Aviation Blvd. but other a little further away may be cheaper.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75241</field>
+		<field name="title">Los Angeles International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by taxi</field>
+		<field name="content">Taxis to Downtown cost $45.00 and take 30 min in good traffic but can be far slower (and more expensive) in rush hour.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75242</field>
+		<field name="title">Newark Liberty International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by bus</field>
+		<field name="content">New Jersey Transit Bus 62  - The most inexpensive option, New Jersey Transit bus 62 runs from in front of the airport terminals to Newark Penn Station (one-way fare $1.50; exact change only; 25 minutes). From there, you may take a PATH subway train ($2) either to World Trade Center station in lower Manhattan (25 minutes), or, to Journal Square, where you can transfer to the Journal Square-33rd Street train across the platform, which runs to the following stops along 6th Avenue: Christopher St in Greenwich Village, 9th St, 14th St, 23rd St, and 33rd St. Plan on 90 minutes including waiting times. As a word of caution, note that this is not a well-publicized option; you may well find yourself to be the only tourist on the bus, so dont expect much help or companionship in finding your way.     Newark Airport Express Bus  - ($16 one way, $28 round-trip) runs every 15 minutes to 42nd street in Manhattan. The trip takes about 40 minutes depending on traffic.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75243</field>
+		<field name="title">Newark Liberty International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by train</field>
+		<field name="content">AirTrain Newark  - easily accessed from the airport terminals via elevator/escalators and runs 24-hour service to the Newark Airport Rail Station, 10 minutes away, costing $5.50. From here you can take a NJ Transit train ($12.50 including AirTrain, 30-minute ride, every 15–30 minutes) to New York Penn Station (34th St 8th Ave in Manhattan) or Amtrak train to other destinations along the east coast. Amtrak also runs trains to Manhattan, but they cost $20–$30. NJ Transit tickets are not valid on Amtrak trains. NJ Transit trains stop at both Penn Station in Newark and at Penn Station in New York, so if traveling to Manhattan, stay on till the second Penn Station, in New York.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75244</field>
+		<field name="title">Newark Liberty International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by taxi</field>
+		<field name="content">Taxis  - Travelers from EWR to New York City are charged a flat rate based on the destination (the dispatcher will note the fare and destination on the taxi form). The fare to most parts of Manhattan is $50–70. Tips and round trips tolls ($8 to/from Manhattan) are extra. You may also pay a ~$2 toll if the driver uses the New Jersey Turnpike. A $5 surcharge is added for trips to New York, except Staten Island, during weekday rush hours or weekend afternoons. There is also a 10% discount for people above age 62.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75245</field>
+		<field name="title">Newark Liberty International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by van and private car service</field>
+		<field name="content">Private Car Service  - An alternative to taxis, car services are useful for getting to the airport from the outer boroughs where taxis are harder to find, or if you prefer to have transportation reserved in advance.  Typically $50 between EWR and Manhattan, $70–80 to/from Brooklyn.    Supershuttle  - Country-wide, shared van door-to-door service. $19 to Manhattan.     Go Airlink Shuttle  - Shared van door-to-door service. $18 to Manhattan. 10% discount for online purchase.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75246</field>
+		<field name="title">Newark Liberty International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">to and from newark</field>
+		<field name="content">AirTrain Newark  shuttles between the airports parking facilities, three terminals, and train station, where frequent New Jersey Transit (NJT) service is a ten minute ride to downtown. NJT  bus 62  and the limited stop  GoBus 28  also both travel to downtown, the latter with continuing service to North Newark.   Taxi service  is based on a flat-fee determined by destination and paid before the trip begins.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75247</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by road</field>
+		<field name="content">The main way most travelers use to get to DFW is by driving to the airport. The  Dallas-Fort Worth Metroplex  has grow up around the airport to the point that major expressways form a complete (though oddly-shaped) loop around airport, with a spiderweb freeways and toll roads going in all directions. Routes to the airport are noted on road signs 10 miles or more from the airport, though the numerous multilevel interchanges will make it difficult to just head to the airport without looking at a map or using a GPS device.  While there are many different parking areas and 5 terminals, all the terminals and the express and garage parking are on International Parkway, a toll road that goes from the north entrance to the south entrance and connects to all the major highways. The North Entrance connects to the DFW Connector, a several mile long interchange of SH 121, 114, and 26, as well as Interstate 635. A recently completed $1 B construction untangled what was a confusing and disjointed mix of highways that often hopelessly congested. However, the redesigned interchange eliminated the exit to the airport loop road for using the North Remote parking lot from International Parkway, so you should take Texas Trail exit from 121/114 from the west or Freeport exit on 114 from the east. The South Entrance meets with an SH 183 near interchanges with SH 360 to the west and President George Bush Turnpike (PGBT) to the east. South remote parking and the car rental center are both easily reached from the south entrance before the toll plaza.  From Downtown Dallas take I-35E north to S.H. 114/183 ("Airport Freeway"). When 114 and 183 split, you have a choice to go the north or south entrance of the airport. SH 183 (Airport Freeway goes to the south entrance, while 114 goes the north entrance.  From Downtown Fort Worth take SH 121 to SH 183 (Airport Freeway). When 121 and 183 split, you can either take 121 to the north entrance or 183 to the south entrance.  From Collin County or anywhere north take either SH 121 (toll road in Collin Co) to the north entrance or PGBT to 114 westbound to the north entrance.  From Arlington and anywhere south take either SH 360 or PGBT north to the south entrance interchange.  From Denton or further north take either I-35W south to SH 114 eastbound or I-35E to SH 121 toll road south bound to the north entrance.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75248</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by bus</field>
+		<field name="content">Once youve arrived at the airport, you will probably do best to take one of the Shared Ride shuttle services. They offer door to door pickup and drop off, probably costing ~$30 for ~20 miles, which will get you to most places.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75249</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">by rental car</field>
+		<field name="name">Dollar</field>
+		<field name="tollfree">+1 800 800-4000</field>
+		<field name="url">http://www.dollar.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75250</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">by rental car</field>
+		<field name="name">E-Z Rent-A-Car</field>
+		<field name="email">reservations@ezrac.com</field>
+		<field name="tollfree">+1 800 277-5171</field>
+		<field name="url">http://www.e-zrentacar.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75251</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">by rental car</field>
+		<field name="name">National</field>
+		<field name="tollfree">+1 877 222-9058</field>
+		<field name="url">https://www.nationalcar.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75252</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">by rental car</field>
+		<field name="name">Enterprise</field>
+		<field name="tollfree">+1 800 261-7331</field>
+		<field name="url">http://www.enterprise.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75253</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">by rental car</field>
+		<field name="name">Alamo</field>
+		<field name="tollfree">+1 888 233-8749</field>
+		<field name="url">http://www.alamo.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75254</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">by rental car</field>
+		<field name="name">Thrifty</field>
+		<field name="tollfree">+1-800-847-4389</field>
+		<field name="url">http://www.thrifty.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75255</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">by rental car</field>
+		<field name="name">Budget</field>
+		<field name="tollfree">+1 800 218-7992</field>
+		<field name="url">http://www.budget.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75256</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">by rental car</field>
+		<field name="name">Avis</field>
+		<field name="tollfree">+1 800 633-3469</field>
+		<field name="url">http://www.avis.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75257</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by rental car</field>
+		<field name="content">DFW Terminal Map  Another option is to pickup a car rental at DFW. To do so, you will take the shared shuttle from the airport terminal to the consolidated car rental facility. The following companies are located inside the facility:                      For DFW, there are courtesy phones that will let you ring them directly (for free), and they are usually pretty quick about pickups and drop offs. (at most adding an extra 30-40 minutes while you wait for them to pick up more people, or to drop your fellow passengers off on the way to your place or hotel).  terminal D</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75258</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">by rental car</field>
+		<field name="name">Hertz</field>
+		<field name="url">http://www.hertz.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75259</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">by rental car</field>
+		<field name="name">Advantage Rent A Car</field>
+		<field name="tollfree">+1 800 777-5500</field>
+		<field name="url">http://www.advantage.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75260</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by dart</field>
+		<field name="content">A less expensive option, to some places, would be  DART , Dallas Area Rapid Transit, which offers regular daytime bus service (route 500   ) from DFW Airport to a commuter rail station located south of the airport and a light rail station east of the airport.  Dont be fooled by the airport transportation information service, who will tell you that there isnt any public transport available to get you out of the airport. As you walk out of the arrivals hall at DFW, turn right and wait under the sign for the Remote South shuttle. This free service takes you to the Remote South station, where you can either take the  TRE or DART bus 408 . The TRE commuter train connects to  Downtown Dallas  or  Downtown Fort Worth  everyday except Sunday.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75261</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">parking</field>
+		<field name="name">short-term</field>
+		<field name="content">Since International Parkway cuts through the center of the airport, anyone entering the airport for less than 8 minutes will have to pay a toll of $2 ($1 with a TollTag from the NTTA). Tolls are $1 for 8 to 30 minutes, and $2 for 30 minutes to 2 hours. Tolls increase to $5 after 2 hours, $7 after 4 hours, and $20 (or $18 with a TollTag) after 6 hours. You can park in the covered parking at any of the terminals, except the valet areas. There is also 1-hour parking on the 1st level nearest the gates.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75262</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">parking</field>
+		<field name="name">long-term</field>
+		<field name="content">If you are leaving your vehicle at the airport, there are many options.  Leave it in the covered parking at any terminal for $20 a day (or $18 with a TollTag).  Park in Express Parking and get picked up at your car for $11 a day, or $13 for covered parking. Located on the north and south sides of the airport after the toll plazas.  Remote Parking costs $9 a day and is located before the toll plazas on both the north and south side of the airport. Buses run from the lot entrance to all the terminals.  For a not too outrageous $25 a day, you can Valet your car at any of the terminals. Its kept inside a secure area of the covered terminal parking. You can even get your car washed and detailed for an extra fee.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75263</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">parking</field>
+		<field name="content">There are several different levels of pricing for parking at the airport depending on proximity to the terminal and level of service. In addition, there are private parking services located near the airport that will drop you off at a terminal like  the Parking Spot  and  Park N Fly .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75264</field>
+		<field name="title">Detroit Metropolitan Wayne County Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by car</field>
+		<field name="content">Located on the south-east quadrant of the I-94 I-275 interchange.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75265</field>
+		<field name="title">Detroit Metropolitan Wayne County Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">by hire car</field>
+		<field name="content">All the major rental companies are located on Lucas Drive, a 10 minute free shuttle bus ride from the terminals (need to go up and down a couple of floors to get to the bridge between the terminal and the pick-up/drop-off point).  For refuelling hire car returns there is a gas station near the companies corner of Middlebelt Road and Wick Road, however is often difficult to get to a pump at busy times. Alternatives off the I-94: from the east- Telegraph Road (north of exit) and from the west- Wayne Road (south of exit).</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75266</field>
+		<field name="title">Detroit Metropolitan Wayne County Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">by bus</field>
+		<field name="name">to/from detroit and suburbs</field>
+		<field name="content">The public transit service to Metro Airport is, to be frank, lousy, and should only be considered as a last resort.  SMART  is the transit operator for suburban Detroit. Route 125 Fort St-Eureka Rd alternates between serving the McNamara and North Terminals, but no single trip will serve both terminals; each terminal is served roughly once an hour during weekdays (give or take a few minutes), one to two hours on Saturdays, and a pitiful two to three hours on Sundays. The route continues through Southgate, Wyandotte, Lincoln Park, Ecorse, and River Rouge; only during weekday rush hours does the bus continue into downtown Detroit. At all other times, downtown-bound passengers should exit the bus at Fort Street and Outer Drive (please note this is not at the terminus of Route 125, but a little before it) and transfer to a  DDOT  bus (DDOT is the transit operator in Detroit city proper), specifically Route 25 Jefferson/Fort. There is one other SMART route serving the airport, and that is the 280 Middlebelt South, which only serves the North Terminal and travels mostly along Middlebelt Road through Romulus, Inkster, and Garden City; the service operates hourly on weekdays and Saturdays, and about once every 70 minutes on Sundays.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75267</field>
+		<field name="title">Detroit Metropolitan Wayne County Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">by bus</field>
+		<field name="name">to/from ann arbor</field>
+		<field name="content">AirRide , a joint operation between Michigan Flyer (see below) and Ann Arbors public transit authority, provides coach service to Ann Arbor, serving both terminals. Service operates about once every 1-2 hours daily, with more limited schedules on holidays. Fares reserved in advance are $12 one-way and $22 round trip. Walk-on fares are $15 one-way, cash only and exact change required. Advance reservations will receive seating priority.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75268</field>
+		<field name="title">Detroit Metropolitan Wayne County Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="section">by bus</field>
+		<field name="name">to/from east lansing</field>
+		<field name="content">Michigan Flyer  provides coach service to East Lansing via Ann Arbor, serving both terminals. Service operates about once every two hours daily, with more limited schedules on holidays. Fares reserved in advance are $30 one-way and $50 round trip for a single passenger, or $50 one-way and $80 round trip for two passengers. Walk-on fares are $35 one-way for a single passenger or $60 one-way for two passengers, cash only and exact change required.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75269</field>
+		<field name="title">John F. Kennedy International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">ground transportation</field>
+		<field name="content">To travel between the city and JFK:   MTA NYC Bus - costing $2.50 (with MetroCard, $2.75 single-ride ticket), these are the cheapest methods of transport, although the slowest to Manhattan. The buses depart from a new ramp near Terminal 5 (signs inside Terminal 5 will point the way). These buses have little room for luggage and go to non-touristy neighborhoods in Queens and Brooklyn. However, they offer connections to the subway and Long Island Railroad. Note that free transfers between bus and subway are available only with a MetroCard; the single ride ticket does not allow free transfers. Coins (not bills) are needed to board the buses without a MetroCard. MetroCards are sold at Hudson Newsstands in Terminals 1 and 5. If the newsstands are closed and you would like to spend 30 minutes to save $2.50, take the Airtrain to the Howard Beach Station where you can buy a multiple ride Metrocard from the vending machines without leaving the station (free). Then take the Airtrain back one stop to the Lefferts Boulevard station, where you can cross the street for the Q10 and B15 buses. (The signage here is not as good as in Terminal 5.) Bus to subway/LIRR transfers include:   Q10  to:  Ozone Park-Lefferts Blvd (20 minutes): "A" Train  - the subway connection closest to the airport  Jamaica Ave Lefferts Blvd: "J" "Z" Trains (walk 3 blocks east to 121st st Jamaica Ave Station)  Kew Gardens (30 minutes): Transfer here to the Long Island Railroad (Austin Street Station) with service to Penn Station ($6.50 peak, $4.50 off-peak, $3.75 weekend with CityTicket), Brooklyn, and Long Island. While this option is cheaper than taking the AirTrain to Jamaica and connecting there to the LIRR, LIRR service from here is much less frequent than LIRR service from Jamaica.  Kew Gardens-80 Road-Union Turnpike (Last Stop) (35 minutes): "E" "F" Trains. During rush hours, from this stop, you can take express buses X63, X64, X68, QM18, and QM21 to Manhattan. While these routes are slower and more expensive than taking the subway, they do offer a ride on cloth seats without the crowding. Ask where the bus stops are located. One ride on an express bus costs $6.00, but it is $3.50 as step-up fare if you transfer from the Q10 bus and pay for both with a MetroCard.   Q3  to:  Jamaica-179th Street (45 minutes): "F" Train   B15  to:  Ashford Street New Lots Avenue (30 minutes): "3" Train.  Van Sinderen Ave New Lots Avenue (35 minutes): "L" Train.  Fulton Street Kingston-Throop Avenues (60 minutes): "C" Train.   Flushing Ave.: "J" Train all times except weekdays 7AM-1PM towards Manhattan 1PM-8PM away from Manhattan, "M" Train weekdays (at Broadway) Note that transfers from the B15 to the subway are in some of Brooklyns roughest neighborhoods, so this route is not recommended at night or for people unfamiliar with the city.   JFK AirTrain    JFK AirTrain  - a people mover system that runs 24h, connecting all airport terminals with nearby rail and metro stations for $5. Runs service to Howard Beach Station to connect with the "A" Train to Brooklyn and Lower Manhattan, and Jamaica Station to connect with the "E" Train to Queens and Lower Manhattan, the "J/Z" Train, and the Long Island Railroad to Penn Station ($4.00 weekend with CityTicket, $7.00 weekday off-peak, $9.50 peak times), Brooklyn, or  Long Island . Elevators are available at Jamaica and Penn Stations. Total time to Manhattan using the subway is 60 minutes; using the Long Island Railroad is 45 minutes. This is sometimes faster than taking a taxi. If you do go to Jamaica and want to reach downtown, the J/Z run above ground over a scenic route passing over the Williamsburg Bridge albeit through some rough neighborhoods, are marginally faster than the E and can be much less crowded during peak times than the E. During AM rush towards Manhattan and PM rush away from it, the J and Z do skip-stop service, meaning that some stations are J-only and Z-only. Keep this in mind if you are waiting at one of those stations. If returning to the airport on the "A" train, make sure the destination signs read Far Rockaway or Rockaway Park.  Trains to Lefferts Blvd. do not connect to the airport! If you board the wrong train, transfer at any station at or before Rockaway Blvd. If you forget and overshoot, go to the end of the line and either backtrack or take the Q10 bus directly to the airport. As with the "J" and "Z" trains, when taking the "A" train during the overnight hours be alert of your surroundings as the train passes through some rough neighborhoods.     New York City Airporter Bus  - provides services to/from Grand Central Terminal and the Port Authority Bus Terminal for $16 one-way, $29 round-trip (return ticket). Buses depart every 20–30 minutes and the trip to Grand Central Terminal can take up to 90 minutes. Note that while the schedule online shows stops at Penn Station, the bus does not go there between noon and 6 p.m.; however, SuperShuttle offers a free connecting service between Penn Station and Grand Central Terminal.    SuperShuttle  - blue vans provide door-to-door service to Manhattan hotels for about $25.    Go Airlink Shuttle  - Shared van service to or from most of Manhattan for $17–20 one way. 10% discount for online booking.    Taxi  - The most flexible route into the city from JFK is a taxi, although the wait for one can be long when many flights arrive simultaneously. Taxi fare runs a flat $45 to anywhere in Manhattan, not including tolls (up to $5.50) or tips. Taxis to points other than Manhattan and taxis to the airport from anywhere use the meter (see taxis in Getting Around). During peak periods, you may have to wait up to 30 minutes for a taxi. The arrivals terminals are filled with drivers hawking illegal livery rides - if you want to take one of these, be sure to negotiate the fare in advance and make sure that it is cheaper than the taxi fare noted above. This also saves the wait in the taxi line. In general, though, it is not recommended if you are unfamiliar with the city.   Car Service/Limousines - An alternative to taxis, car services are useful for getting to the airport from the outer boroughs where taxis are harder to find, or if you prefer to have transportation reserved in advance. Typically $60+ between JFK and Manhattan.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75270</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">ground transportation</field>
+		<field name="content">Overview of Orlando International Airport.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75271</field>
+		<field name="title">Los Angeles International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">ground transportation</field>
+		<field name="content">Be sure to arrive at the airport at least 1 1/2 - 2 hours before your flight (2-3 hours if traveling internationally) as check in procedures and lines for security can be long and time-consuming.  The upper level of the airport structure is used for drop-offs (departures) while the lower level is used for pick-ups (arrivals). The lower level roadway is divided into an inner and outer roadway, with private vehicles using the outer (right-hand side) roadway and commercial vehicles (including shuttles), circling the inner (left-hand side) roadway and stopping at islands that divide the two roadways.   When departing the airport, the area outside of each terminal is divided into zones indicating the transportation options available. The different pickup zones are clearly marked by brightly colored signs corresponding to the type of transportation you are looking for:   Blue - LAX shuttle airline connections  Red - Hotel and parking lot shuttles  Orange - Shared ride vans  Purple - Rental car shuttles  Green - Long distance vans and FlyAway buses  Yellow - Taxis</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75272</field>
+		<field name="title">Hartsfield–Jackson Atlanta International Airport</field>
+		<field name="main">ground transportation</field>
+		<field name="name">ground transportation</field>
+		<field name="content">Hartsfieldndash;Jackson is the terminus of the southern branch of MARTA, the city rail system. For travel to  downtown ,  midtown , or  northern Atlanta , this is a convenient and economical way of getting there, although usually one of the slowest. To/from Five Points Station travel time is about 20 minutes; to/from Lindbergh Station its about 30 (not including waiting for a train). Walk past baggage claim to get to the MARTA station. All fares are $2.50 one-way (not including a $1 fare card) and include free transfers for both rail and bus. Departing trains alternate between Doraville-bound and Northnbsp;Springsndash;bound; but unless you are going north of Lindbergh Station on either the Red or Gold line, it does not matter which one you take.  Most MARTA stations have taxi stands, and some hotels have free shuttles which will collect from the nearest MARTA station on telephone request.  Taxis are fixed-rate when going to/from the airport and major business areas (Downtown $30, Midtown $32, Buckhead $40; excluding fees); be sure to insist on this fare.  Shuttles to nearby hotels and other attractions are located past the MARTA station.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

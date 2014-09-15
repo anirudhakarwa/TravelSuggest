@@ -1,0 +1,123 @@
+<html>
+<body>
+<?php
+function queryProcessing($activities,$level)
+{
+	if($level==1){
+	
+		$activityFinal = array();
+		$activity = array();
+		$arrayFlag = 0;
+		for($x=1;$x<=count($activities);$x++)
+		{
+			$url= "http://localhost:8983/solr/select/?q=".$activities[$x].":[%22%22%20TO%20*]&fl=id,title&wt=json&indent=true";
+			$content = file_get_contents($url);
+			if($content) {
+				$result = json_decode($content,true);
+			}
+
+			$jsonIterator = new RecursiveIteratorIterator(
+			    new RecursiveArrayIterator(json_decode($content, TRUE)),
+			    RecursiveIteratorIterator::SELF_FIRST);
+
+			$i=0;
+			$flag = 0;
+			foreach ($jsonIterator as $key => $val) {
+			    if(is_array($val)) {
+				//echo "key:$key:\n";
+				//echo "value:$val:\n";
+			    } 
+			    else {
+			       
+				if($key == "title"){
+					$flag = 0;  
+				  	for($y=0;$y<$i;$y++){
+				    		if($activity[$y] == $val){
+				     			$flag = 1;
+				    		}
+				   	}
+				   	if ($flag == 0){ 
+				    		$activity[$i]=$val;
+				    		$i++;
+				   	}
+				}
+				   
+			    }
+			}//inner for
+			if($arrayFlag == 0){
+				$activityFinal = $activity;
+				$arrayFlag = 1;
+			}
+
+			$activityFinal = array_intersect($activityFinal,$activity);
+			$activity = null;
+
+		}//outer for
+		return $activityFinal;
+	}
+	else if($level==2){
+		$tit=$activities["title"];
+		$act=$activities["activity"];
+
+		$url="http://localhost:8983/solr/collection1/select?q=".$tit."&fl=museum_name%2Csee_place_name&df=title&wt=json&indent=true";	
+			
+		$content = file_get_contents($url);
+		if($content) {
+			$result = json_decode($content,true);
+		}
+
+		$jsonIterator = new RecursiveIteratorIterator(
+		    new RecursiveArrayIterator(json_decode($content, TRUE)),
+		    RecursiveIteratorIterator::SELF_FIRST);
+
+		foreach ($jsonIterator as $key => $val) {
+		    if(is_array($val)) {
+			//echo "key:$key:\n";
+			//echo "value:$val:\n";
+		    } 
+		    else {
+		       
+			if($key == "museum_name" || $key == "see_place_name" ){
+				echo $val;
+				echo "</br>";
+			}
+		    }
+		}		
+	}
+}
+
+ini_set('display_errors', '1');
+$act=array();
+$ind=1;
+while(true==true){
+	$var="activity".$ind;
+	//echo $var;
+	if(isset($_GET[$var])){
+		$act[$ind]=$_GET[$var];
+		$ind++;
+	}
+	else{
+		break;
+	}	
+}
+//$act=array(0=>$_GET["activity1"],1=>$_GET["activity2"]);
+//$act=array("title"=>"Buffalo","activity"=>$aaa);
+
+$activityF=queryProcessing($act,1);
+$arrlength=count($activityF);
+?>
+<form action="showHotels.php" method="get">
+<?
+for($z=0;$z<$arrlength;$z++){
+?>
+	<input type="submit" name="city" value="<?echo $activityF[$z];?>" />
+	</br>
+<?
+}
+?>
+</form>
+
+</body>
+</hmtl>
+
+

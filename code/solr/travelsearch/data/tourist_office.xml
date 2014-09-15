@@ -1,0 +1,35 @@
+<add>
+	<doc>
+		<field name="id">87731</field>
+		<field name="title">Hartville</field>
+		<field name="main">tourist office</field>
+		<field name="name">Discover Hartville</field>
+		<field name="phone">+1 330 877-5500</field>
+		<field name="address">11924 King Church Avenue, Uniontown, Ohio 44685</field>
+		<field name="url">http://www.discoverhartville.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87732</field>
+		<field name="title">Hartville</field>
+		<field name="main">tourist office</field>
+		<field name="name">Canton/Stark County Convention Visitors Bureau</field>
+		<field name="phone">+1 330 454-1439</field>
+		<field name="address">222 Market Ave. N. (Located inside the Millennium Centre), Canton, Ohio 44702</field>
+		<field name="url">http://www.visitcantonstark.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87733</field>
+		<field name="title">Stark County (Ohio)</field>
+		<field name="main">tourist office</field>
+		<field name="name">Canton/Stark County Convention Visitors Bureau</field>
+		<field name="phone">+1 330 454-1439</field>
+		<field name="address">222 Market Ave. N. (Located inside the Millennium Centre)</field>
+		<field name="url">http://www.visitcantonstark.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

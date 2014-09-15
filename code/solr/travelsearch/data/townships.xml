@@ -1,0 +1,20 @@
+<add>
+	<doc>
+		<field name="id">51303</field>
+		<field name="title">Greene County (Ohio)</field>
+		<field name="main">townships</field>
+		<field name="name">townships</field>
+		<field name="content">Bath Beavercreek Caesarscreek Cedarville Jefferson Miami New Jasper Ross Silvercreek Spring Valley Sugarcreek Xenia</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">51304</field>
+		<field name="title">Clark County (Ohio)</field>
+		<field name="main">townships</field>
+		<field name="name">townships</field>
+		<field name="content">Bethel German Green Harmony Mad River Madison Moorefield Pike Pleasant Springfield</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

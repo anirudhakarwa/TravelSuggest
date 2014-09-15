@@ -1,0 +1,146 @@
+<add>
+	<doc>
+		<field name="id">87525</field>
+		<field name="title">Delaware Valley</field>
+		<field name="main">counties</field>
+		<field name="name">pennsylvania</field>
+		<field name="content">Bucks County    Chester County    Delaware County    Montgomery County    Philadelphia County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87526</field>
+		<field name="title">Delaware Valley</field>
+		<field name="main">counties</field>
+		<field name="name">new jersey</field>
+		<field name="content">Burlington County    Camden County    Cumberland County    Gloucester County    Salem County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87527</field>
+		<field name="title">Delaware Valley</field>
+		<field name="main">counties</field>
+		<field name="name">delaware</field>
+		<field name="content">New Castle County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87528</field>
+		<field name="title">Delaware Valley</field>
+		<field name="main">counties</field>
+		<field name="name">maryland</field>
+		<field name="content">Cecil County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87529</field>
+		<field name="title">Piedmont (Georgia)</field>
+		<field name="main">counties</field>
+		<field name="name">metro atlanta counties</field>
+		<field name="content">Cherokee  - includes Lake Alatoona  Henry  - location of the Atlanta Motor Speedway in Hampton.  Rockdale  - includes Conyers, famous for horse races and the annual cherry blossom festival.  Cowetta  - includes  Newman .  Forsyth  - includes  Cumming .  Paulding  - includes  Dallas .  Spalding  - includes  Griffin . Barrow  Bartow  - includes Cartersville and the Etowah Mounds. Carroll - includes Carrolton, Villa Rica, and Mt. Zion Douglas - rolling hills at the south end of the Appalachians, includes Douglasville and Sweetwater Creek State Park. Newton - includes Covington  Walton  - includes the historic village of  Social Circle . Haralson Butts  Meriwether  - includes  Warm Springs , the location of FDRs Little White House. Pike Lamar Jasper Heard</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87530</field>
+		<field name="title">Piedmont (Georgia)</field>
+		<field name="main">counties</field>
+		<field name="name">other counties</field>
+		<field name="content">Banks  Clarke  - includes  Athens . Elbert Franklin Greene  Hall  - includes  Gainesville  and Lake Lanier Islands.  Hart  - Lake Hartwell.  Jackson  - includes Jefferson. Madison Morgan Oconee Oglethorpe Troup</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87531</field>
+		<field name="title">Southern Shore</field>
+		<field name="main">counties</field>
+		<field name="name">counties</field>
+		<field name="content">Cape May County    Cumberland County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87532</field>
+		<field name="title">Gold Country</field>
+		<field name="main">counties</field>
+		<field name="name">counties</field>
+		<field name="content">Amador County    Calaveras County    El Dorado County    Madera County    Mariposa County    Nevada County    Placer County    Sierra County    Tuolumne County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87533</field>
+		<field name="title">Alleghenies and Susquehanna Valley</field>
+		<field name="main">counties</field>
+		<field name="name">counties</field>
+		<field name="content">Bedford County  Blair County   Cambria County  Columbia County   Fulton County  Huntingdon County  Juniata County  Mifflin County  Montour County  Northumberland County  Schuylkill County  Snyder County  Union County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87534</field>
+		<field name="title">Sand Hills</field>
+		<field name="main">counties</field>
+		<field name="name">counties</field>
+		<field name="content">Arthur  Blaine  Boyd  Brown  Cherry  Custer  Garfield  Grant  Greeley  Holt  Hooker  Howard  Keya Paha  Logan  Loup  McPherson  Rock   Sherman   Thomas  Valley  Wheeler</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87536</field>
+		<field name="title">Central Coast (California)</field>
+		<field name="main">counties</field>
+		<field name="name">counties</field>
+		<field name="content">Monterey County  - Monterey Peninsula is home to the Monterey Bay Aquarium, 17-Mile Drive, Cannery Row and downtown Pacific Grove.    San Benito County    San Luis Obispo County  - Hearst Castle   Santa Barbara County    Santa Cruz County    Ventura County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87537</field>
+		<field name="title">North Coast (California)</field>
+		<field name="main">counties</field>
+		<field name="name">counties</field>
+		<field name="content">Del Norte County    Humboldt County    Lake County    Mendocino County    Sonoma County    Trinity County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87538</field>
+		<field name="title">Rhode Island</field>
+		<field name="main">counties</field>
+		<field name="name">counties</field>
+		<field name="content">There are five counties in Rhode Island:</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87539</field>
+		<field name="title">Erie Region</field>
+		<field name="main">counties</field>
+		<field name="name">counties</field>
+		<field name="content">Crawford County  Erie County  Mercer County  Venango County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87540</field>
+		<field name="title">Delaware River Region</field>
+		<field name="main">counties</field>
+		<field name="name">counties</field>
+		<field name="content">Burlington County    Camden County    Gloucester County    Mercer County    Salem County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87541</field>
+		<field name="title">Skylands</field>
+		<field name="main">counties</field>
+		<field name="name">counties</field>
+		<field name="content">Hunterdon County    Morris County    Somerset County    Sussex County    Warren County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

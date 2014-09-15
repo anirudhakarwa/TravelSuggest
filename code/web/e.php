@@ -1,0 +1,92 @@
+<html>
+<head>
+	<link href="css/style.css" rel="stylesheet" type="text/css"  media="all" />
+		<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Waiting+for+the+Sunrise|Engagement' rel='stylesheet' type='text/css'>
+		<script type="text/javascript" src="js/move-top.js"></script>
+		<script type="text/javascript" src="js/easing.js"></script>
+		<script type="text/javascript">
+						jQuery(document).ready(function($) {
+							$(".scroll").click(function(event){		
+								event.preventDefault();
+								$('html,body').animate({scrollTop:$(this.hash).offset().top},1200);
+							});
+						});
+					</script>
+		<script>
+			$("#slideshow > div:gt(0)").hide();
+			setInterval(function() { 
+			  $('#slideshow > div:first')
+			    .fadeOut(500)
+			    .next()
+			    .fadeIn(500)
+			    .end()
+			    .appendTo('#slideshow');
+			},  2000);
+		</script>
+		
+</head>
+<body>
+<?
+
+include 'qp.php';
+include 'example.php';
+
+ini_set('display_errors', '1');
+
+$city=$_GET["city"];
+echo $city;
+
+$act=array();
+$ind=1;
+while(true==true){
+	$var="activity".$ind;
+	if(isset($_GET[$var])){
+		$act[$ind]=$_GET[$var];
+		echo $act[$ind];
+		$ind++;
+	}
+	else{
+		break;
+	}	
+}
+
+$requestObject = new QueryPacket();
+
+$requestObject->inputCategory[0] = "city";
+$requestObject->inputValue[0] = $city;
+			
+for($i=1;$i<=count($act);$i++)	
+{
+	$requestObject->inputCategory[$i] = "activity";
+	$requestObject->inputValue[$i] = $act[$i];
+}
+
+$requestObject->expectedResponse[0] = "name";
+//$requestObject->expectedResponse[1] = "content";
+
+$responseObjectArray=queryProcessing($requestObject, "activity");
+if(empty($responseObjectArray)){
+	echo "null";
+}
+else{
+
+echo "</br>";
+echo "</br>";
+for($outer=1;$outer<=count($act);$outer++){
+
+$actvalues=$responseObjectArray[$act[$outer]];
+print_r($actvalues);
+echo "</br>";
+echo "</br>";
+}
+
+}
+?>
+
+</body>
+</hmtl>
+
+

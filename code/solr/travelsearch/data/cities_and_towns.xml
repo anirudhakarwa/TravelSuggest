@@ -1,0 +1,128 @@
+<add>
+	<doc>
+		<field name="id">105524</field>
+		<field name="title">Shenandoah Valley</field>
+		<field name="main">cities and towns</field>
+		<field name="name">north</field>
+		<field name="content">Bentonville    Berryville    Front Royal    Middletown    Warren County    Winchester    White Post</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105525</field>
+		<field name="title">Shenandoah Valley</field>
+		<field name="main">cities and towns</field>
+		<field name="name">central</field>
+		<field name="content">Basye    Bridgewater    Edinburg    Harrisonburg    Luray    New Market    Staunton    Strasburg    Stuarts Draft    Waynesboro</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105526</field>
+		<field name="title">Shenandoah Valley</field>
+		<field name="main">cities and towns</field>
+		<field name="name">south</field>
+		<field name="content">Roanoke    Salem   In addition to these cities  Charles Town ,  Hedgesville ,  Martinsburg  and  Harpers Ferry  in  West Virginia  are considered to be part of the valley.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105527</field>
+		<field name="title">Panhandle (Nebraska)</field>
+		<field name="main">cities and towns</field>
+		<field name="name">cities and towns</field>
+		<field name="content">Scottsbluff  - a decent sized town located near Scotts Bluff National Monument   Chadron  - a mid-sized town known for Chadron State College   Crawford  - near historic Fort Robinson   Sidney  - home of Cabelas, Nebraskas largest flagpole, and Historic Fort Sidney   Alliance  - home of the imfamous Carhenge   Bayard  - near Chimney Rock National Historic Site</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105528</field>
+		<field name="title">Fairfield County</field>
+		<field name="main">cities and towns</field>
+		<field name="name">cities and towns</field>
+		<field name="content">Bridgeport    Darien    Fairfield    Greenwich    Mianus    New Canaan    Norwalk    Ridgefield    Shelton    Stamford    Stratford    Trumbull    Westport    Wilton</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105529</field>
+		<field name="title">Buncombe County</field>
+		<field name="main">cities and towns</field>
+		<field name="name">cities and towns</field>
+		<field name="content">Asheville  (seat)   Biltmore Forest    Black Mountain    Montreat    Weaverville    Woodfin</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105530</field>
+		<field name="title">Ocean County</field>
+		<field name="main">cities and towns</field>
+		<field name="name">cities and towns</field>
+		<field name="content">Barnegat Light    Bay Head    Beach Haven    Jackson Township    Lakewood    Lavallette    Mantoloking    Ortley Beach    Point Pleasant    Point Pleasant Beach    Ship Bottom    Seaside Heights    Toms River</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105531</field>
+		<field name="title">Tuscarawas County</field>
+		<field name="main">cities and towns</field>
+		<field name="name">cities and towns</field>
+		<field name="content">Baltic   Dover   Gnadenhutten   New Philadelphia  is the county seat.  Newcomerstown   Sugarcreek   Strasburg  Stonecreek  Uhrichsville   Zoar</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105532</field>
+		<field name="title">Kent County (Rhode Island)</field>
+		<field name="main">cities and towns</field>
+		<field name="name">cities and towns</field>
+		<field name="content">Coventry   East Greenwich   Warwick   West Greenwich   West Warwick</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105533</field>
+		<field name="title">Napa Valley</field>
+		<field name="main">cities and towns</field>
+		<field name="name">cities and towns</field>
+		<field name="content">From north to south the main locales are:    Calistoga    St. Helena    Rutherford    Oakville    Yountville    Napa    American Canyon</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105534</field>
+		<field name="title">Dutchess County</field>
+		<field name="main">cities and towns</field>
+		<field name="name">cities and towns</field>
+		<field name="content">Amenia   Beacon   Fishkill   Millerton   Poughkeepsie   Rhinebeck</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105535</field>
+		<field name="title">Grant County (South Dakota)</field>
+		<field name="main">cities and towns</field>
+		<field name="name">cities and towns</field>
+		<field name="content">Albee    Big Stone City    La Bolt    Marvin    Milbank    Revillo    Stockholm    Strandburg    Twin Brooks</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105536</field>
+		<field name="title">South Shore (Massachusetts)</field>
+		<field name="main">cities and towns</field>
+		<field name="name">cities and towns</field>
+		<field name="content">Abington   Braintree  - A city on the I-95 beltway with a large mall.  Bridgewater  - Home of Bridgewater State College.  Brockton  - The "City of Champions" largely because of its boxing native sons.  Carver  - A fast-growing residential town in cranberry country.  Cohasset  - Home of South Shore Music Circus.  Duxbury  - A year round seaside community.  East Bridgewater   Halifax   Hanover   Hanson   Hingham  A wealthy bedroom community.  Holbrook   Hull  - Located on narrow Nantasket Peninsula, a beach town.  Kingston  - Nearby to Plymouth with its own harbor.  Marshfield  - A coastal residential and beach town.  Middleborough  - The second largest town in Massachusetts with some colonial history.  Norwell   Pembroke   Plymouth  - Famous for its Pilgrim history and Plimoth Plantation.  Plympton  - A small, rural town.  Randolph  - A city on the I-95 beltway.  Rockland  - Chain hotels available in this town.  Scituate  - A coastal town.  West Bridgewater    Whitman  - Where Toll House cookies were invented.  Weymouth</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105537</field>
+		<field name="title">North Shore (Massachusetts)</field>
+		<field name="main">cities and towns</field>
+		<field name="name">cities and towns</field>
+		<field name="content">Beverly    Boxford    Danvers    Essex  - Shipbuilding history and antique shoppes   Georgetown    Gloucester  Artist colony and historical fishing center   Hamilton    Ipswich    Lynn    Lynnfield    Marblehead    Manchester-by-the-Sea  - home of popular Singing Beach   Middleton    Nahant    Newbury  - Scenic beach town including Plum Island   Newburyport  - a coastal town and popular tourist destination with beautiful natural areas, water activities and fine dining.    Peabody    Rockport  - Scenic artist colony and Motif No. 1   Rowley    Salem  - House of the Seven Gables and famous for witches   Salisbury    Topsfield  - Best known for the Topsfield Fair and Ipswich River Wildlife Sanctuary.   Wenham</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

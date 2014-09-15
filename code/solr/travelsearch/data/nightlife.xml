@@ -1,0 +1,29 @@
+<add>
+	<doc>
+		<field name="id">64921</field>
+		<field name="title">McAllen</field>
+		<field name="main">nightlife</field>
+		<field name="name">entertainment district</field>
+		<field name="content">McAllen has a lively entertainment district in downtown along 17th Street.  Multiple bars and nightclubs have recently opened in the area.      Bar 201 - 201 S 17th St. The Boiler Room - 118 S 17th St. The Dive - 216 S 17th St. Flesh - 200 S 17th St. Not many people until after 10PM and later. People look better at closing time. Rythem and Brews - 214 S 17th St. Shine Martini Lounge - 100 S 17th St. Speakeasy Piano Bar - 316 S 17th St. Vicio - 204 S 17th St.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64922</field>
+		<field name="title">McAllen</field>
+		<field name="main">nightlife</field>
+		<field name="name">other downtown spots</field>
+		<field name="content">Club M - 1704 Dallas Ave. Element - 1110 Austin Ave. House. Wine. - 1117 W Business 83.  A unique concept, one side is a wine bar, the other side is a fine furniture shop. Roosevelts at Seven - 821 N Main St. Specializes in a wide variety of beers from around the world.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64923</field>
+		<field name="title">McAllen</field>
+		<field name="main">nightlife</field>
+		<field name="name">other night spots</field>
+		<field name="content">Fast Eddies - 400 E Nolana Ave. Large pool hall and sports bar. Havana Club - 500 E Nolana Ave. Cuban restaurant with bar and large dance floor.  Hillbillys  - 6000 N 10th St. Metropolis - 2021 Orchid Ave. Thirsty Monkey - 119 W Nolana Ave. New Orleans-style bar and grill. Trade Bar - 2010 W Nolana Ave.  Gay bar with drag queen shows on Thursday nights.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

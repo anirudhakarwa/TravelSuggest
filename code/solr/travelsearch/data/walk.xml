@@ -1,0 +1,11 @@
+<add>
+	<doc>
+		<field name="id">63478</field>
+		<field name="title">West Bend (Wisconsin)</field>
+		<field name="main">walk</field>
+		<field name="name">walk</field>
+		<field name="content">A popular method in the summer. Almost every street has a sidewalk. There are also many walking paths throughout various parks in the city.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

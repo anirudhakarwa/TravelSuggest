@@ -1,0 +1,101 @@
+<add>
+	<doc>
+		<field name="id">64924</field>
+		<field name="title">Apple Valley (Minnesota)</field>
+		<field name="main">get it in</field>
+		<field name="name">by plane</field>
+		<field name="content">Minneapolis - Saint Paul  International Airport, (, ),   . Apple Valley is just minutes south of MSP. The airport is divided into two terminals: Terminal 1 - Lindbergh and Terminal 2 - Humphrey, with most flights arriving at the former. Savvy travelers should check to make sure they know which terminal they are arriving at/departing from. MSP is the former home of the now defunct Northwest Airlines. Since the recent merge of  Delta  and Northwest, it has become a major hub for connections in  Atlanta ,  Tokyo  and  Fargo .  Sun Country Airlines  also uses MSP as its hub for  North America  - getting here by plane, from essentially anywhere, is a cinch. Think twice about making purchases at the duty free shop (see By taxi section).</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64925</field>
+		<field name="title">Apple Valley (Minnesota)</field>
+		<field name="main">get it in</field>
+		<field name="section">by plane</field>
+		<field name="name">Surdyk’s Flights</field>
+		<field name="content">Located past security, so you can bring it on the plane with you. Eat (and booze) like a king 40,000 miles up – choose from a selection of cheese plates, fresh salads, paninis, delectable desserts and fine wines. Sister shop of the famous Twin Cities liquor café.</field>
+		<field name="directions">inside Main Concourse Mall</field>
+		<field name="phone">+1 612 727-2323</field>
+		<field name="price">$10-20</field>
+		<field name="address">MSP</field>
+		<field name="hours">10AM-9PM daily</field>
+		<field name="url">http://www.shopsatmsp.com/page/1/Surdyk-s-Flights.jsp</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64926</field>
+		<field name="title">Apple Valley (Minnesota)</field>
+		<field name="main">get it in</field>
+		<field name="name">by bus</field>
+		<field name="content">Apple Valley is serviced by the  Minnesota Valley Transit Authority . The newly constructed Apple Valley Transit Station serves as a launching point for not only adventures, but also dreams. Routes 420, 440, 441, 442, 465, 477 and 477 will all get you out of Dodge. Bus stops and stations are conveniently located in major parts of the city for easy access and have several coin-operated luggage lockers for personal storage. There is also a nearby  Megabus  station in Minneapolis.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64927</field>
+		<field name="title">Apple Valley (Minnesota)</field>
+		<field name="main">get it in</field>
+		<field name="name">by train</field>
+		<field name="content">This is the twenty-first century, there are no trains in Apple Valley.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64928</field>
+		<field name="title">Apple Valley (Minnesota)</field>
+		<field name="main">get it in</field>
+		<field name="name">by car</field>
+		<field name="content">There are two main highways through the city. Interstate 35E runs parallel to city lines. Beware of heavy southbound traffic coming out of the Twin Cities during afternoon hours. County Road 77 terminates in the city. Feel free to drive your gas guzzling SUV through the pristine hills of Apple Valley.  It is illegal to drive and text in Minnesota. If you need to contact a friend or acquaintance from the previous night, while on the road, use a hands-free cellular phone and try to stay in your own lane, though this is rarely practiced. By all means, if there is an accident or someone is pulled over on the shoulder, slow down immediately: this is something that only happens every other day. Contact your closest family members to alert them of what you have just witnessed.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64929</field>
+		<field name="title">Apple Valley (Minnesota)</field>
+		<field name="main">get it in</field>
+		<field name="section">by taxi</field>
+		<field name="name">Aspen Limousine Service</field>
+		<field name="content">If you prefer a vehicle with a bit more starch in its suspenders, then arrive in Apple Valley with utmost style and class with Aspen Limousine Service. Featuring an unmatched fleet of luxury vehicles and exotic sports cars, the cream of their crop is hands-down the Hummer H2 stretch limousine. Beware of women throwing their undergarments at you when you pull-up in this elephantine truck as your head can get caught in one of the plus-sized panty leg-holes and create a choking hazard. Tip the driver well and he might share his flask of whiskey with you. Tip him really well and he’ll even let you drive.</field>
+		<field name="phone">+1 952 405-8400</field>
+		<field name="url">http://aspenlimo.net/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64930</field>
+		<field name="title">Apple Valley (Minnesota)</field>
+		<field name="main">get it in</field>
+		<field name="section">by taxi</field>
+		<field name="name">Airport Taxi</field>
+		<field name="content">Besides offering unmatched transportation service to the MSP International Airport, Airport Taxi can also drive you to wherever your heart desires. Drivers are not from the area but still do an excellent job of helping you find what you are looking for. Due to increasing occurrences of theft, drivers no longer equip their cabs with GPS navigation units. Rather, they dial a family member or good friend and have them Google the address of your destination. Craving sushi but dont know the names of any restaurants? Mohammed the driver can tell Mohammed on the phone to search for "sushi" and within milliseconds (speeds may vary, dependent upon Google.com traffic) Mohammed can reel off a list of sushi restaurants in Apple Valley and provide reviews as well.</field>
+		<field name="phone">+1 952 928-0000</field>
+		<field name="hours">24 hours a day</field>
+		<field name="url">http://www.airporttaxicabs.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64931</field>
+		<field name="title">Apple Valley (Minnesota)</field>
+		<field name="main">get it in</field>
+		<field name="name">by taxi</field>
+		<field name="content">In the past few years travelers carrying alcohol on their persons or in their luggage have been inconvenienced by local taxi drivers. It is recommended by out-of-state travelers that have been troubled to avoid bringing any alcoholic or illegal substances if you will be using taxis to get around the city.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64932</field>
+		<field name="title">Apple Valley (Minnesota)</field>
+		<field name="main">get it in</field>
+		<field name="section">by taxi</field>
+		<field name="name">Suburban Taxi</field>
+		<field name="content">Serving the majority of Apple Valley, these unmistakable green and white taxis are centrally located outside of business centers and bars/clubs. Convenient for business people wanting to grab lunch at one the many fine lunch establishments around town or for taking home that person you hooked up with at Bogarts on Guys Night. Drivers are seasoned veterans when it comes to the ins and outs of Apple Valleys roads, as well as its women, and are pseudo town ambassadors; they can get you anywhere for whatever the occasion or point you in the right direction for whatever you need.</field>
+		<field name="phone">+1 952 884-8888</field>
+		<field name="hours">24 hours a day</field>
+		<field name="url">http://www.suburbantaxi.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

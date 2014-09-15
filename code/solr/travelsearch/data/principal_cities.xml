@@ -1,0 +1,11 @@
+<add>
+	<doc>
+		<field name="id">87747</field>
+		<field name="title">Chicagoland</field>
+		<field name="main">principal cities</field>
+		<field name="name">principal cities</field>
+		<field name="content">Chicagoland, though centered around Chicago, is anchored by many regional cities which have their own distinct cultures, economics and traditions.  These are a few of the noteworthy cities and communities in the region:    Aurora : Illinoiss second largest city and one of the two anchors of the  Fox River Valley , Aurora is a major city and often considered the gateway to the region on I-88.   Chicago : The principle city of the region and its main economic engine.    Elgin : A historic community and second of the two anchors of the  Fox River Valley , Elgin is the gateway to the region on I-90.   Joliet : The anchor of the  South Suburbs , Joliet is a gateway to the region.   Naperville : The primary city of the  Western Suburbs , Naperville is often noted for its urban downtown.   Waukegan : Birthplace of Ray Bradbury, Waukegan is the anchor of the  Far North Suburbs .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

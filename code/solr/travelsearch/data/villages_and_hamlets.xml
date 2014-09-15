@@ -1,0 +1,65 @@
+<add>
+	<doc>
+		<field name="id">98259</field>
+		<field name="title">East Hampton</field>
+		<field name="main">villages and hamlets</field>
+		<field name="name">villages</field>
+		<field name="content">East Hampton (village)   Sag Harbor</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">98260</field>
+		<field name="title">East Hampton</field>
+		<field name="main">villages and hamlets</field>
+		<field name="name">hamlets</field>
+		<field name="content">Amagansett   Montauk   Napeague   Springs   Wainscott</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">98261</field>
+		<field name="title">Islip</field>
+		<field name="main">villages and hamlets</field>
+		<field name="name">villages</field>
+		<field name="content">Brightwaters   Islandia   Ocean Beach   Saltaire</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">98262</field>
+		<field name="title">Islip</field>
+		<field name="main">villages and hamlets</field>
+		<field name="name">hamlets</field>
+		<field name="content">Bay Shore   Bayport   Baywood   Bohemia   Brentwood   Central Islip   East Islip   Great River   Hauppauge  - partially in  Smithtown   Holbrook  - partially in  Brookhaven   Holtsville  - partially in  Brookhaven   Islip (village)   Islip Terrace   Kismet   Lake Ronkonkoma   Lonelyville   North Bay Shore   North Great River   Oakdale   Ronkonkoma   Sayville   West Bay Shore   West Islip  - partially in  Babylon   West Sayville</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">98263</field>
+		<field name="title">Shelter Island</field>
+		<field name="main">villages and hamlets</field>
+		<field name="name">villages and hamlets</field>
+		<field name="content">Dering Harbor   Shelter Island Heights</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">98264</field>
+		<field name="title">Orleans County (New York)</field>
+		<field name="main">villages and hamlets</field>
+		<field name="name">villages and hamlets</field>
+		<field name="content">Albion  mdash; the county seat and largest village, home to Historic Courthouse Square and Mount Albion  Childs  mdash; a tiny hamlet with an excellent restaurant and the Cobblestone Museum  Holley  mdash;   Kendall  mdash;   Lyndonville  mdash;   Medina  mdash; a thriving canalside village with a fantastic railroad museum  Waterport  mdash; fishing and boating on Lake Alice</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">98265</field>
+		<field name="title">Niagara County</field>
+		<field name="main">villages and hamlets</field>
+		<field name="name">villages and hamlets</field>
+		<field name="content">Lockport  mdash; the county seat, known for its historic set of five canal locks  Barker  mdash;   Gasport  mdash;   Lewiston  mdash; home to Artpark  Middleport  mdash;   Niagara Falls  mdash; the honeymoon capital of the world  North Tonawanda  mdash;   Olcott  mdash; a beach community  Somerset  mdash;   Wilson  mdash;</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

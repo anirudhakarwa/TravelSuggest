@@ -1,0 +1,38 @@
+<add>
+	<doc>
+		<field name="id">63169</field>
+		<field name="title">Black Hawk</field>
+		<field name="main">casinos/hotels</field>
+		<field name="name">Isle of Capri Casino, Black Hawk</field>
+		<field name="phone">+1 303-998-7777</field>
+		<field name="address">401 Main Street</field>
+		<field name="tollfree">800-843-4753</field>
+		<field name="url">http://black-hawk.isleofcapricasinos.com/index.aspx</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63170</field>
+		<field name="title">Black Hawk</field>
+		<field name="main">casinos/hotels</field>
+		<field name="name">The Lodge Casino</field>
+		<field name="phone">+1 303-582-1771</field>
+		<field name="address">240 Main Street</field>
+		<field name="url">http://www.thelodgecasino.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63171</field>
+		<field name="title">Black Hawk</field>
+		<field name="main">casinos/hotels</field>
+		<field name="name">Ameristar Black Hawk Casino</field>
+		<field name="content">One of the newer casino/hotels in Blackhawk, There are over 1,100 slot machines: 5¢ - $5 denominations,5¢ - $5 progressive video poker,12 live blackjack tables,12 live poker tables, 3 Roulette tables and 3 Craps tables</field>
+		<field name="phone">+1 720  946-4000</field>
+		<field name="fax">(303) 582-0300</field>
+		<field name="address">111 Richman Street, Black Hawk, Colorado 80422</field>
+		<field name="url">https://www.ameristar.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

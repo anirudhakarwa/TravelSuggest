@@ -1,0 +1,11 @@
+<add>
+	<doc>
+		<field name="id">87504</field>
+		<field name="title">Quad Cities</field>
+		<field name="main">publications</field>
+		<field name="name">publications</field>
+		<field name="content">Dispatch Argus  - Moline-based newspapers.  Quad-City Times  - Davenport-based newspaper.  River Cities Reader  - independently owned alternative newspaper</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

@@ -1,0 +1,39 @@
+<html>
+<body>
+<?php
+include 'qp.php';
+ini_set('display_errors', '1');
+$act=array();
+$ind=1;
+while(true==true){
+	$var="activity".$ind;
+	//echo $var;
+	if(isset($_GET[$var])){
+		$act[$ind]=$_GET[$var];
+		$ind++;
+	}
+	else{
+		break;
+	}	
+}
+//$act=array(0=>$_GET["activity1"],1=>$_GET["activity2"]);
+//$act=array("title"=>"Buffalo","activity"=>$aaa);
+
+$activityF=queryProcessing($act,1);
+$arrlength=count($activityF);
+?>
+<form action="showpref.php" method="get">
+<?
+for($z=0;$z<$arrlength;$z++){
+?>
+	<input type="submit" name="city" value="<?echo $activityF[$z];?>" />
+	</br>
+<?
+}
+?>
+</form>
+
+</body>
+</hmtl>
+
+

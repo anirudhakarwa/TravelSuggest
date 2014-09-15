@@ -1,0 +1,20 @@
+<add>
+	<doc>
+		<field name="id">98209</field>
+		<field name="title">Houston</field>
+		<field name="main">visitor information</field>
+		<field name="name">climate</field>
+		<field name="content">Houstons climate generally ranges from a hot humid summer to a mild winter. The months of October to April make for fantastic times to visit to avoid the heat.  Visitors from areas with mild summers or dry climates should be extremely careful if planning to travel there in the summer months, especially around August.  The combination of high heat and thick humidity can result in stifling and oppressive weather.  Its by no means "a dry heat"!  Even some lifelong residents of Houston complain about the August weather. If visiting in the summer, stay hydrated and try to limit outdoor exposure during the hours between 10:00 AM and 7:00 PM.  The nights are very hot too, but not as dangerously hot as during the day. Visitors from cooler, drier places will be amazed at the tolerance levels of some of the locals.  You can see people wearing long sleeve shirts, boots and jeans when the temperature is above 100 °F and humidity is in the 90% range.  But it can not be stressed enough: this place is extremely hot and if youre not prepared or used to this type of heat, youre in for one rude awakening.  But have fun!</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">98210</field>
+		<field name="title">Houston</field>
+		<field name="main">visitor information</field>
+		<field name="name">visitor information</field>
+		<field name="content">The Greater Houston Convention and Visitors Bureau operates the Houston Visitors Center,  .  The center is located in the heart of downtown Houston at 901 Bagby (corner of Bagby and Walker St.), on the first floor of the historic City Hall.  Find information on Houstons history, attractions, restaurants, hotels, directions, maps, purchase Houston merchandise and watch an 11-minute film on Houston.  Youll find over 10,000 brochures and magazines to help plan your visit to the Houston area. The center is open Monday - Saturday, 9 a.m. to 4 p.m.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

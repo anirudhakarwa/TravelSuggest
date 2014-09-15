@@ -1,0 +1,81 @@
+<add>
+	<doc>
+		<field name="id">51322</field>
+		<field name="title">New England</field>
+		<field name="main">states</field>
+		<field name="name">Vermont</field>
+		<field name="region6color">b6bc4d</field>
+		<field name="region3description">The birthplace of Americas revolution, home to the  Pioneer Valley , the vacation hotspot of  Cape Cod , and the always-interesting city of  Boston .</field>
+		<field name="region4color">8a84a3</field>
+		<field name="region6description">The fall foliage Vermont is not-to-be missed, while during the rest of the year the state offers a rural charm unique in America.</field>
+		<field name="region2color">d09440</field>
+		<field name="regionmap">Map-USA-New_England01.png</field>
+		<field name="region1description">Home to Hartford and the  Knowledge Corridor , Mystic Seaport, the restaurant and nightlife scene in downtown  New Haven , the Maritime Aquarium, and two major Native American casinos.</field>
+		<field name="region2description">Known for its seacoast fishing villages, wooded and remote interior, and stunning vistas such as that found in  Acadia National Park .</field>
+		<field name="region3color">678888</field>
+		<field name="region5color">e0fa92</field>
+		<field name="region5description">The smallest state in the United States, but has many miles of coastline and islands, and home to  Providence  and  Newport .</field>
+		<field name="region4description">A fiercely independent state that offers the rugged  White Mountains , idyllic lakes, and a handful of ocean resorts.</field>
+		<field name="regionmaptext">Map of New England</field>
+		<field name="regionmapsize">300px</field>
+		<field name="region1color">e25c5c</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">51323</field>
+		<field name="title">South (United States of America)</field>
+		<field name="main">states</field>
+		<field name="name">states</field>
+		<field name="content">Note:  Texas  and  Florida  are southern states, but are distinct regions in their own right.  Oklahoma  is also often considered southern, though it is on the  Great Plains .  Eastern  and  Southern Maryland  have a distinctly southern culture, but the rest of the state falls firmly in the  North .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">51324</field>
+		<field name="title">Great Plains</field>
+		<field name="main">states</field>
+		<field name="name">states</field>
+		<field name="content">Paralleling the  Rocky Mountains , this vast stretch of grasslands extends from a tiny pocket of northern  Mexico , through  Texas  and all the way north to the  Canadian  provinces of  Alberta ,  Manitoba  and  Saskatchewan .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">51325</field>
+		<field name="title">South (United States of America)</field>
+		<field name="main">states</field>
+		<field name="name">West Virginia</field>
+		<field name="region6color">c17da7</field>
+		<field name="region4color">a8ae41</field>
+		<field name="region8color">8a84a3</field>
+		<field name="region2color">d09440</field>
+		<field name="regionmap">Map-USA-South01.png</field>
+		<field name="region10color">e0fa92</field>
+		<field name="region7color">e25c5c</field>
+		<field name="region3color">d8d036</field>
+		<field name="region9color">4f93c0</field>
+		<field name="region5color">678888</field>
+		<field name="region11color">e0a17b</field>
+		<field name="regionmaptext">Map of the South</field>
+		<field name="regionmapsize">350px</field>
+		<field name="region1color">569e3f</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">51326</field>
+		<field name="title">Great Plains</field>
+		<field name="main">states</field>
+		<field name="name">Oklahoma</field>
+		<field name="region3color">d8d036</field>
+		<field name="region4color">569e3f</field>
+		<field name="region5color">c17da7</field>
+		<field name="region2color">e25c5c</field>
+		<field name="regionmapsize">250px</field>
+		<field name="regionmaptext">States and cities of the Great Plains region</field>
+		<field name="regionmap">Map-USA-Great_Plains01.png</field>
+		<field name="region1color">4f93c0</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

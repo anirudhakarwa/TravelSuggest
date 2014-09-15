@@ -1,0 +1,22 @@
+<add>
+	<doc>
+		<field name="id">87721</field>
+		<field name="title">Tenney</field>
+		<field name="main">buy, eat, drink</field>
+		<field name="name">buy, eat, drink</field>
+		<field name="content">There are no stores in Tenney, but the former James Bigsby General Store is currently being remodeled and is scheduled to open as a tavern and restaurant Summer 2007.  More details will follow.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87722</field>
+		<field name="title">Southworth (Washington)</field>
+		<field name="main">buy, eat, drink</field>
+		<field name="name">Southworth Grocery</field>
+		<field name="content">has stood the test of time providing basic food and supplies near the Southworth Ferry Terminal since 1932.  Last chance to stock up on beer and marshmallows for your camping trip.</field>
+		<field name="phone">+1 360  871-1150</field>
+		<field name="address">3985 Cherry St SE Port Orchard, WA 98366</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

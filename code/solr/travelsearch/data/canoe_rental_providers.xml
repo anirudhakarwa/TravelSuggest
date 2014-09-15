@@ -1,0 +1,20 @@
+<add>
+	<doc>
+		<field name="id">51297</field>
+		<field name="title">Eleven Point National Scenic River</field>
+		<field name="main">canoe rental providers</field>
+		<field name="name">fishing</field>
+		<field name="content">Blue Ribbon Trout Area</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">51298</field>
+		<field name="title">Eleven Point National Scenic River</field>
+		<field name="main">canoe rental providers</field>
+		<field name="name">canoe rental providers</field>
+		<field name="content">Eleven Point Canoe Rental Hufstedlers Canoe Rental Richards Canoe Rental</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

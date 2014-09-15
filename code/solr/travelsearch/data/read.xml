@@ -1,0 +1,20 @@
+<add>
+	<doc>
+		<field name="id">105370</field>
+		<field name="title">Ankeny</field>
+		<field name="main">read</field>
+		<field name="name">newspapers</field>
+		<field name="content">Ankeny Press Citizen - Similar to Datebook it also features information about local shows, concerts, movie showtimes and releases, and restaurant reviews.  Released on Tuesdays and is free.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105371</field>
+		<field name="title">Des Moines</field>
+		<field name="main">read</field>
+		<field name="name">newspapers</field>
+		<field name="content">The Des Moines Register  - Iowas most-circulated daily newspaper.    City View  - Free alternative newsweekly with features on social issues and heated political talk.    Juice  - Free weekly which focuses on fashion, events, and light-hearted issues for their young adult readers.    Datebook  - Features information about local shows, concerts, movie showtimes and releases, and restaurant reviews.  Released weekly and is free.  Also appears as an insert in The Des Moines Register towards the end of the week.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

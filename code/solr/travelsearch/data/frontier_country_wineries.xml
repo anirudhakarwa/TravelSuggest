@@ -1,0 +1,23 @@
+<add>
+	<doc>
+		<field name="id">30585</field>
+		<field name="title">Frontier Country</field>
+		<field name="main">frontier country wineries</field>
+		<field name="name">frontier country wineries</field>
+		<field name="content">There are several wineries offering tours and tastings:  Grape Ranch Winery in  Okemah   Stableridge Vineyards and Winery in  Stroud</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">30586</field>
+		<field name="title">Frontier Country</field>
+		<field name="main">frontier country wineries</field>
+		<field name="name">Canadian River Winery</field>
+		<field name="phone">+1 405  872-5565</field>
+		<field name="address">Slaughterville</field>
+		<field name="email">crwinery@aol.com</field>
+		<field name="url">http://www.canadianriverwinery.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

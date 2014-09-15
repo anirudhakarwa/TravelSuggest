@@ -1,0 +1,29 @@
+<add>
+	<doc>
+		<field name="id">63474</field>
+		<field name="title">McAllen</field>
+		<field name="main">shopping</field>
+		<field name="name">shopping</field>
+		<field name="content">Convention Center District at the corner of Ware Rd and Expressway 83.  Large number of shops and restaurants surround the convention center.  Downtown has lots of shopping available especially along Main Street.    La Plaza Mall  at 2200 S 10th St.  This is a large, very popular mall near the airport.  Department stores include Dillards, Macys, JCPenny, Joe Brand, and Sears.      Rio Grande Premium Outlets: the outlet mall located in nearby Mercedes, TX.    10th Street is a designated retail street with many shops both near downtown and the North 10th area from Dove to Trenton and the  surrounding area. 10th Street near downtown has many eclectic and locally owned stores, and as you go north, these mix with more national retailers: Lowes Kohls, Target, HEB, Home Depot, and so forth.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63475</field>
+		<field name="title">Lehighton</field>
+		<field name="main">shopping</field>
+		<field name="name">shopping</field>
+		<field name="content">The states 6% sales tax does not apply to clothing or groceries.  Most of the shopping in the Lehighton area is actually located in Mahoning Township on SR 443 just west of town.  Some of the businesses include: Wal-Mart recently openned a new Supercenter 1/2 mile west of the Carbon Plaza Mall.  The previous location, across 443 form the Carbon Plaza Mall, is being developed by Lowes. The Carbon Plaza Mall has a Chinese restaurant, Italian restaurant, drug store, Giant food store, a Hallmark, a nail salon, hair salon, bank, dollar store and 8 screen movie theater. In the same strip there is a notary service, Rent-A -Center, dry cleaner, and Big Lots. The First Street business district is undergoing a revitalization process.  It is currently home to a discount store, music store, tattoo parlor, pet store, and several other shops and eateries. Nearby  Jim Thorpe  is a touristy area with small shops on Broadway.  Country Junction , This is the worlds largest general store with an  Ace Hardware , a Ashley Furniture, a winery, a pet shop, a restaurant cafe that has a pizzeria, ice cream, and a big screen television, and the most unique gifts around. Be sure to stop in during October for there world famous Great Pumpkin Festival. They are located on route 209 The Lehigh Valley Mall in  Whitehall , a suburb of  Allentown , is much larger.  Many speciality stores such as Macys, JCPenney, Boscovs, Baker Shoes, Go! Games, EB and American Eagle and others. In the general area of the mall, there are many restaurants, such as The Olive Garden, Ruby Tuesdays and Ground Round. There are also many stand alone stores, like Best Buy, Borders and Staples. About 30 minutes from Lehighton by car.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63476</field>
+		<field name="title">Palmdale</field>
+		<field name="main">shopping</field>
+		<field name="name">shopping</field>
+		<field name="content">Palmdale has many of the stores found in the typical middle-class cities across the United States. Most of these stores are found at the intersection of Rancho Vista Blvd. and 10th Street West in and around the Antelope Valley Mall. There is also another heavy retail shopping cooridor growing on 47th Street East at Avenue S. The third main shopping area is located along Palmdale Blvd. between 17th Street East and 30th Street East.  As far as shopping unique to Palmdale, there really isnt any. You may find local area postcards in some of the stores like WalMart or Target, but thats about as far as it goes.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

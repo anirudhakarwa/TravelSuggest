@@ -1,0 +1,70 @@
+<add>
+	<doc>
+		<field name="id">87751</field>
+		<field name="title">Sycamore</field>
+		<field name="main">community events</field>
+		<field name="name">Treasures From the Attic</field>
+		<field name="content">City-wide Estate, Yard and Sidewalk Sales. Pick up a map of Yard Sales from the downtown sidwalk sales. List your houses sale for free by calling 895-3456. Treasures From the Attic is brought to you by OC Imageworks</field>
+		<field name="directions">July 17th-19th</field>
+		<field name="phone">+1 815 895-3456</field>
+		<field name="address">Sycamore, Il</field>
+		<field name="alt">Presented by O.C.Image works</field>
+		<field name="url">http://www.DiscoverSycamore.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87752</field>
+		<field name="title">Sycamore</field>
+		<field name="main">community events</field>
+		<field name="name">Cruise Night</field>
+		<field name="content">free concert by Vintage Vinyl, food, beverages, 50s costume contest, remote control car races and a swing dancing competition. Cruise Night is brought to you by Auto Meter.</field>
+		<field name="directions">July 25th</field>
+		<field name="phone">+1 815 895-3456</field>
+		<field name="address">Corner of Somonauk and Elm Street</field>
+		<field name="hours">4-11pm</field>
+		<field name="alt">Presented by Auto Meter</field>
+		<field name="url">http://www.discoversycamore.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87753</field>
+		<field name="title">Sycamore</field>
+		<field name="main">community events</field>
+		<field name="name">Summer on State: Back to the Future</field>
+		<field name="content">Free outdoor screening of Back to the Future. Real De Lorean cars will be there!Bring your lawn chairs and blankets and curl up under the stars. Summer on State movies are brought to you by the Sycamore Park District</field>
+		<field name="directions">Friday, July 24th</field>
+		<field name="phone">+1 815 895-3456</field>
+		<field name="price">Free!</field>
+		<field name="address">Corner of Somonauk and Elm Street</field>
+		<field name="hours">Dusk</field>
+		<field name="alt">Presented by the Sycamore Park District</field>
+		<field name="url">http://www.DiscoverSycamore.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87754</field>
+		<field name="title">Sycamore</field>
+		<field name="main">community events</field>
+		<field name="name">community events</field>
+		<field name="content">For information on local events check the Discover Sycamore website!</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87755</field>
+		<field name="title">Sycamore</field>
+		<field name="main">community events</field>
+		<field name="name">Discover Sycamores Farmers Market</field>
+		<field name="content">Support our local Farmers and discover quality fare. Every Sunday 10am - 2pm at the corner of Somonauk and Elm Streets in downtown Sycamore.</field>
+		<field name="directions">Every Sunday June-September</field>
+		<field name="phone">+1 815 895-3456</field>
+		<field name="address">Corner of Somonauk and Elm Street</field>
+		<field name="hours">10am-2pm</field>
+		<field name="url">http://www.DiscoverSycamore.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

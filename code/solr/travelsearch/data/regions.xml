@@ -1,0 +1,1753 @@
+<add>
+	<doc>
+		<field name="id">64655</field>
+		<field name="title">Appalachia</field>
+		<field name="main">regions</field>
+		<field name="name">the 13 states of the appalachian region</field>
+		<field name="content">Alabama  (AL)  Georgia  (GA)  Kentucky  (KY)  Maryland  (MD)  Mississippi  (MS)  New York  (NY)  North Carolina  (NC)  Ohio  (OH)  Pennsylvania  (PA)  South Carolina  (SC)  Tennessee  (TN)  Virginia  (VA)  West Virginia  (WV)</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64656</field>
+		<field name="title">Channel Islands (California)</field>
+		<field name="main">regions</field>
+		<field name="name">northern islands</field>
+		<field name="content">Anacapa Island - part of  Channel Islands National Park   San Miguel Island - part of  Channel Islands National Park    Santa Cruz Island - part of  Channel Islands National Park    Santa Rosa Island - part of  Channel Islands National Park</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64657</field>
+		<field name="title">Channel Islands (California)</field>
+		<field name="main">regions</field>
+		<field name="name">southern islands</field>
+		<field name="content">San Clemente Island  - US Navy controlled   San Nicolas Island - small island, relatively flat, located in the northeastern-most position of the southern group. Owned by the US Navy, and is used for an instrumentation range. San Nicolas is the furthest of the Channel Islands from the mainland, located 7-8 hours by boat from Long Beach.  The island itself is not accessible to civilians, because it houses numerous classified facilities. However, the waters off San Nicolas are used for scuba diving. Large spiny lobsters are the target of the eager divers. However, the diving environs are quite rough and available to experienced/certified divers only. Because of its hostile but productive dive environment, it has become legendary among California divers. This island is best known as the setting of the legend of Juana Maria, as told in the novel Island of the Blue Dolphins.  Santa Barbara Island - part of  Channel Islands National Park     Santa Catalina Island  - the only island with significant permanent civilian settlements and tourist accomodations: the resort town of  Avalon  and the unincorporated village of  Two Harbors .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64658</field>
+		<field name="title">Eastern Oregon</field>
+		<field name="main">regions</field>
+		<field name="name">counties</field>
+		<field name="content">Harney County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64659</field>
+		<field name="title">Metro New York</field>
+		<field name="main">regions</field>
+		<field name="name">new york</field>
+		<field name="content">New York City  — possibly the most well known and celebrated city in the world, New York is a city of towering skyscrapers, ethnic diversity, international corporations, and incomparable culture  Long Island  — a mostly suburban area famous for its miles of great beaches  Rockland County   Westchester County  — home to the countrys only government-operated theme park - Rye Playland - as well as beautiful neighborhoods</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64660</field>
+		<field name="title">Metro New York</field>
+		<field name="main">regions</field>
+		<field name="name">connecticut</field>
+		<field name="content">Fairfield County   Greater New Haven</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64661</field>
+		<field name="title">Metro New York</field>
+		<field name="main">regions</field>
+		<field name="name">new jersey</field>
+		<field name="content">Gateway   Jersey Shore   Skylands</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64662</field>
+		<field name="title">North America</field>
+		<field name="main">regions</field>
+		<field name="name">non-caribbean territories</field>
+		<field name="content">Bermuda  mdash; overseas territory of the  United Kingdom    Saint-Pierre and Miquelon  mdash; overseas department of  France</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64663</field>
+		<field name="title">North Bay (Bay Area)</field>
+		<field name="main">regions</field>
+		<field name="name">counties</field>
+		<field name="content">Marin County    Solano County    Sonoma County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64664</field>
+		<field name="title">North Bay (Bay Area)</field>
+		<field name="main">regions</field>
+		<field name="name">other regions</field>
+		<field name="content">Napa Valley</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64665</field>
+		<field name="title">Panhandle (Nebraska)</field>
+		<field name="main">regions</field>
+		<field name="name">counties</field>
+		<field name="content">Banner  Box Butte  Cheyenne  Dawes  Deuel  Garden  Kimball  Morrill  Scotts Bluff  Sheridan  Sioux</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64666</field>
+		<field name="title">Colorado</field>
+		<field name="main">regions</field>
+		<field name="name">Southwestern Colorado</field>
+		<field name="region6color">afc79d</field>
+		<field name="region3description">follows the northern part of the Rockies, including Boulder and such well-known attractions as  Rocky Mountain National Park</field>
+		<field name="region4color">6594b2</field>
+		<field name="region6description">There is a special mystique about the southwest region of Colorado. It can be felt among ancient Anasazi Indian cliff dwellings at  Mesa Verde National Park  and in the quiet of rugged mining ghost towns high in the San Juan Mountains.  From the sheer depths of the  Black Canyon of the Gunnison National Park  to the exhilarating vistas from Grand Mesa, worlds largest flattop mountain, the region is rich in western history, Victorian architecture and Native American cultures.</field>
+		<field name="region2color">c5ca7d</field>
+		<field name="regionmap">Colorado regions map.png</field>
+		<field name="region1description">most populous part of the state, with the large metro capital-city of  Denver  and its many suburbs</field>
+		<field name="region2description">the least populated flat eastern half of the state, western agricultural country</field>
+		<field name="region3color">79ac81</field>
+		<field name="region5color">c3787e</field>
+		<field name="region5description">the high country in the southern part of the Rockies, home to many ski resorts, including the towering San Juan Mountains, ("American Alps") with a broad, pleasant valley between them</field>
+		<field name="region4description">spectacular canyon-and-mesa country reminiscent of neighboring  Utah</field>
+		<field name="regionmaptext">Colorado regions</field>
+		<field name="regionmapsize">350px</field>
+		<field name="region1color">b58ab5</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64667</field>
+		<field name="title">New York (state)</field>
+		<field name="main">regions</field>
+		<field name="name">The  Niagara Frontier</field>
+		<field name="region6color">806699</field>
+		<field name="region3description">The state capital of Albany and its surrounding cities anchor the upper part of the Hudson Valley, one of the most educated and most rapidly growing areas of Upstate.</field>
+		<field name="region4color">669966</field>
+		<field name="region8color">8d9253</field>
+		<field name="region6description">With hills and rivers, cities and farms, hard work and recreation, Central New York is a microcosm of New York as a whole.  Syracuse is the regions cultural and economic center.</field>
+		<field name="region2color">639595</field>
+		<field name="region7description">The Finger Lakes are 11 long, thin bodies of water that provide waterfront activities and sightseeing opportunities.  Hundreds of wineries dot the region, and the city of Rochester is a center of industry and innovation.</field>
+		<field name="regionmap">New York regions map.png</field>
+		<field name="region1description">The area surrounding  New York City , the largest city in the United States and possibly the most well known and celebrated city in the world. It also includes suburban  Westchester County  and  Long Island  with great beaches.</field>
+		<field name="region8description">Bordering Pennsylvanias Northern Tier, the Southern Tier is a largely rural area with a few medium-sized cities, but with several cultural and industrial attractions.</field>
+		<field name="region7color">9c6363</field>
+		<field name="region2description">The wilderness of the Catskills and the bucolic colonial communities of the middle Hudson offer two different types of getaways popular with New Yorkers.</field>
+		<field name="region9description">The city of Buffalo and the world-famous Niagara Falls are the major destinations in the Niagara Frontier, but the eastern areas of the region also offer attractions focusing on history, agriculture, industry, and the local waterways.</field>
+		<field name="region3color">b5704a</field>
+		<field name="region9color">5a6da5</field>
+		<field name="region5color">9d814c</field>
+		<field name="region4description">The Adirondack Mountains are the true wilderness of New York, protected by an enormous park that encompasses most of the upper third of the state.  Only scattered small settlements and the occasional roadway break up the stunning vistas.</field>
+		<field name="region5description">The North Country is dominated by large open areas between widely spaced cities, with a culture that borrows from neighboring Canada.  The St. Lawrence River and its Thousand Islands are a major destination in this region.</field>
+		<field name="regionmapsize">400px</field>
+		<field name="region1color">996686</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64668</field>
+		<field name="title">Iowa</field>
+		<field name="main">regions</field>
+		<field name="name">South Central Iowa</field>
+		<field name="region7color">6c9892</field>
+		<field name="region6color">81b689</field>
+		<field name="region3color">77a7c6</field>
+		<field name="region4color">d1d685</field>
+		<field name="region8color">b7cea6</field>
+		<field name="region5color">d17e85</field>
+		<field name="region2color">b68fb6</field>
+		<field name="regionmapsize">350px</field>
+		<field name="regionmap">Iowa regions map.png</field>
+		<field name="region1color">cd9d5a</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64669</field>
+		<field name="title">Illinois</field>
+		<field name="main">regions</field>
+		<field name="name">Western Illinois</field>
+		<field name="region6color">d1d685</field>
+		<field name="region3color">669cc0</field>
+		<field name="region4color">649297</field>
+		<field name="region5color">cd9d5a</field>
+		<field name="region2color">b0709a</field>
+		<field name="regionmapsize">200px</field>
+		<field name="regionmaptext">Illinois regions</field>
+		<field name="regionmap">Illinois regions map.png</field>
+		<field name="region1color">81b589</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64670</field>
+		<field name="title">Louisiana</field>
+		<field name="main">regions</field>
+		<field name="name">North</field>
+		<field name="region3description">Alexandria and historic Natchitoches</field>
+		<field name="region4color">orange</field>
+		<field name="region2color">red</field>
+		<field name="regionmap">Louisiana regions map.png</field>
+		<field name="region1description">New Orleans surrounding towns, bayous, the lower Mississippi</field>
+		<field name="region2description">The center of Cajun culture, with distinctive food and music</field>
+		<field name="region3color">blue</field>
+		<field name="region5color">teal</field>
+		<field name="region5description">North Louisiana is the most "Southern"; Shreveport, historic Indian mounds</field>
+		<field name="region4description">Baton Rouge and the Lake Pontchartrain North Shore</field>
+		<field name="regionmaptext">Louisiana regions</field>
+		<field name="regionmapsize">300px</field>
+		<field name="region1color">darkred</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64671</field>
+		<field name="title">Mississippi</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Regions of Mississippi</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64672</field>
+		<field name="title">Catskills</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">A view of the Catskill Mountains from Soyuzivka Ukrainian Resort in Kerhonkson .]]  Delaware County  - The least densely populated county in New York outside of the Adirondacks, Delaware County offers endless bucolic landscapes in the ranges western foothills  Greene County  - The Catskills became "Americas First Wilderness" here on the Escarpment, rising up dramatically from the  Hudson Valley   Orange County  - The transition to the Catskills begins here, in the northwestern exurbs of the New York metropolitan area, where farms and woodlands nestle with small cities and commuter rail stations.  Sullivan County  - For many people, the home of Woodstock, the Beaverkills fly-fishing and hundreds of bungalow colonies and summer camps is still synonymous with the Catskills.  Ulster County  - Thousands of acres of wilderness in the western half of the county are home to some of the ranges highest peaks, their streams feeding New York Citys oldest reservoir in the region.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64673</field>
+		<field name="title">Upper Peninsula</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Western U.P. :Cities include Iron Mountain, Ironwood, Bessemer, LAnse, Michigamme   Keweenaw Peninsula  :Cities include Houghton, Hancock  Middle U.P. :Cities include Marquette, Big Bay, Manistique, Munising, Ishpeming, Channing, Garden   Eastern U.P.   :Whitefish Point, Whitefish Bay, Sault Ste Marie ("the Soo"), Newberry, St. Ignace</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64674</field>
+		<field name="title">Great Lakes</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Ohio Fall Colors  The following regions lie around the Great Lakes.  American Midwest  ( Illinois ,  Indiana ,  Michigan ,  Minnesota ,  Ohio ,  Wisconsin )  New York   Ontario   Erie Region  of  Pennsylvania</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64675</field>
+		<field name="title">Mississippi</field>
+		<field name="main">regions</field>
+		<field name="name">Mississippi Hills</field>
+		<field name="region3color">339966</field>
+		<field name="region4color">660033</field>
+		<field name="region5color">996633</field>
+		<field name="region2color">663366</field>
+		<field name="region1color">336699</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64676</field>
+		<field name="title">Northern Arizona</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Counties:  Apache  Coconino   Navajo  Yavapai  Mohave</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64677</field>
+		<field name="title">Mount Desert Island</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">"The Backside"   Southwest Harbor   Tremont   Bass Harbor</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64678</field>
+		<field name="title">Florida</field>
+		<field name="main">regions</field>
+		<field name="name">South Florida</field>
+		<field name="region2description">The most culturally  "Southern"  part of Florida, anchored by the city of Jacksonville. Historic St. Augustine and the college town of Gainesville are other destinations.</field>
+		<field name="region3color">cbcc51</field>
+		<field name="region4color">8e6c96</field>
+		<field name="region3description">Theme park capital of the world, hosting Walt Disney World, SeaWorld, Universal Studios Florida, Busch Gardens, Legoland Florida, Kennedy Space Center, Daytona International Speedway, and Gatorland.</field>
+		<field name="region2color">b17373</field>
+		<field name="region4description">Home to the beaches of Miami, the swamps of the Everglades, and the beauty of the Florida Keys.</field>
+		<field name="region1description">Cities include the State Capital of Tallahassee, Destin, Pensacola, and Panama City Beach.</field>
+		<field name="regionmapsize">410px</field>
+		<field name="regionmap">Map of Florida Regions with Cities.png</field>
+		<field name="region1color">6ca26c</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64679</field>
+		<field name="title">Linn County</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Linn County is almost entirely centered around  Cedar Rapids , which covers about one fifth of the total area and has about half of the total population of the County.  Most other communities serve as bedroom communities for  Cedar Rapids  and nearby  Iowa City .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64680</field>
+		<field name="title">Porcupine Mountains</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">The Porcupine Mountains are the remains of an ancient mountain range, formed over a billion years ago.  They rise along the south shore of Lake Superior and remain relatively unspoiled.  They are encompassed in Porcupine Mountains Wilderness State Park which is affectionately known to the locals as "The Porkies".  The Porkies is a 60,000 acre park, the largest in the state of Michigan.  Though copper mining and logging occurred in the 1800s, 35,000 acres of the park have never been cut.  Lake Superior borders the park on the northeast, and much of its inland border is made up by the Ottawa National Forest.  It is truly a remote wilderness area. The Porkies have over 100 miles of hiking trails, 25 miles of shoreline, 4 inland lakes, rivers, waterfalls, and old growth hemlock forests.  The Park features four seasons of recreation including hiking, camping, mountain biking, kayaking, swimming, canoeing, fishing, nordic skiing, downhill skiing and snowboarding, snowshoeing, snowmobiling, and hunting.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64681</field>
+		<field name="title">Kauai</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">The major regions of Kaua`i can be defined by their location on the island relative to the prevailing trade winds.  The north and east sides of the island are on the "windward" side of the island, where the winds blow onto the shore.  These parts of the island tend to get the most rain, and as a result, are the greenest and most tropical parts of the island.  The south and west sides of the island are on the "leeward" side of the island, which receive less rain since most clouds have already dropped their rain on the windward side of the island.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64682</field>
+		<field name="title">Appalachian Mountains</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">The range runs though the following US States and Canadian provinces. (North - South)   Newfoundland and Labrador ,  Canada   Quebec ,  Canada   Maine ,  USA   New Hampshire ,  USA   Vermont ,  USA   Massachusetts ,  USA   Connecticut ,  USA   New York ,  USA   New Jersey ,  USA   Pennsylvania ,  USA   Maryland ,  USA   West Virginia ,  USA   Virginia ,  USA   Kentucky ,  USA   North Carolina ,  USA   Tennessee ,  USA   South Carolina ,  USA   Georgia ,  USA   Alabama ,  USA</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64683</field>
+		<field name="title">Lower Peninsula</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Southeast Michigan   Central Michigan   Northern Michigan   West Michigan       Wikipedia:Lower Peninsula of Michigan        Commons:Lower Peninsula of Michigan</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64684</field>
+		<field name="title">Oregon</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Oregons regional makeup is largely defined by its impressive natural features; most importantly its mountain ranges which not only provide convenient dividing lines, but which even create a distinct climate in each of the states regions.  Travelers who cover multiple regions during their stay will find the differences between regions stark and remarkable in that by traveling throughout the state a great variety of experiences may be gained.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64685</field>
+		<field name="title">New Mexico</field>
+		<field name="main">regions</field>
+		<field name="name">Southeast New Mexico</field>
+		<field name="region6color">ffff99</field>
+		<field name="region3description">Here, the Rocky Mountains meet the Great Plains. The  Santa Fe Trail , railroads, and  Route 66  all passed through here.</field>
+		<field name="region4color">d09440</field>
+		<field name="region6description">Elevation-wise, this is the lowest region of the state, mostly desert but with some strange geologic phenomena.</field>
+		<field name="region2color">669900</field>
+		<field name="regionmap">New mexico regions.png</field>
+		<field name="region1description">Situated along the Middle Rio Grande Valley and home to  Albuquerque , the Central region contains most of the states population.</field>
+		<field name="region2description">This scenic mountainous region has many of the better-known tourist destinations of New Mexico, such as  Santa Fe  and  Taos .</field>
+		<field name="region3color">b6bc4d</field>
+		<field name="region5color">b2cc7f</field>
+		<field name="region4description">Part of the Four Corners region, this area is home to many unusual geological formations, red rocks, and part of the  Navajo Nation .</field>
+		<field name="region5description">Home to scenic low-lying mountains and much of the agricultural production in the state, along the Rio Grande.</field>
+		<field name="regionmapsize">250px</field>
+		<field name="region1color">e0fa92</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64686</field>
+		<field name="title">Walworth County</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Walworth County has four population centers:  Lake Geneva ,  Elkhorn ,  Delavan  and  Whitewater .  The rest of the County is dotted with smaller cities and unincorporated areas and farmland.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64687</field>
+		<field name="title">Hamptons</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">The Hamptons are a series of small communities which all lie in the towns of  Southampton  and  East Hampton .  Southampton is the first town in the Hamptons, and is one of five towns which comprise the larger Suffolk County of New York State.  East Hampton is the other town which constitutes the Hamptons.    Southampton itself is comprised of a number of villages and hamlets.  The areas which are popularly viewed as part of the Hamptons include Southampton Village, Water Mill, Bridgehampton, Sagaponack and Sag Harbor.  These towns include areas ranked among the top ten nationally in terms of real estate values.  Southampton Village in particular is noted for its luxurious homes in its estate area, the high end retailing establishments in the Village and its cultural offerings (including the Parrish Art Museum and the Southampton Arts Center).  Water Mill, the adjacent hamlet, is the future home of the Parrish Art Museum as well as the current home to the Water Mill Center, an artists retreat and exhibition space.   East Hampton has many small villages and hamlets that are settled on the furthest end of the peninsula of Long Island, New York. The hamlets in East Hampton are Wainscot, East Hampton Village, Amangansett and a portion of Sag Harbor Village.  East Hampton town has eight state parks as well as many historic locations such as Camp Wyckoff which was used in World War II by the United States Air Force, Army and Navy.  Similar to Southampton Village, East Hampton Village is renowned for the large homes in its estate area, luxury boutiques and local museums and galleries.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64688</field>
+		<field name="title">Holmes County (Ohio)</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Ohios Amish Country</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64689</field>
+		<field name="title">Georgia (state)</field>
+		<field name="main">regions</field>
+		<field name="name">Coastal Georgia</field>
+		<field name="region3color">b5d29f</field>
+		<field name="region4color">c5be62</field>
+		<field name="region5color">84abb0</field>
+		<field name="region2color">d98a5f</field>
+		<field name="regionmapsize">320px</field>
+		<field name="regionmap">Georgia (state) regions map.png</field>
+		<field name="region1color">82bc8b</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64690</field>
+		<field name="title">Eastern Shore (Virginia)</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Accomack County   Northampton County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64691</field>
+		<field name="title">Central New York</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Chenango County   Cortland County   Herkimer County   Madison County   Oneida County   Onondaga County   Oswego County   Otsego County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64692</field>
+		<field name="title">Oregon Coast</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Northern Oregon Coast    Central Oregon Coast    Southern Oregon Coast</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64693</field>
+		<field name="title">Arizona</field>
+		<field name="main">regions</field>
+		<field name="name">Western Arizona</field>
+		<field name="region2description">The Fourteenth Biggest metropolitan area in the United States has artsy urban communities, ritzy resorts, the countrys largest university and resulting college town, beautiful desert wilderness on the outskirts and miles upon miles of suburban sprawl.</field>
+		<field name="region3color">ff7f00</field>
+		<field name="region4color">7f7f3f</field>
+		<field name="region3description">Including  Grand Canyon  and the "Arizona Strip."  The  Navajo Nation  and numerous beautiful deserts and forests populate the region.</field>
+		<field name="region5color">7f3f7f</field>
+		<field name="region2color">007f3f</field>
+		<field name="region5description">Mostly high desert and irrigated farmland, especially off the Colorado River along the border with California, on the western edge. Includes  Yuma  in the southwest, Arizonas third most populous metro region after Phoenix and Tucson.</field>
+		<field name="region4description">The corridor from Tucson to the biggest port of entry into Arizona,  Nogales , has some beautiful high desert, interesting cities and sparse wilderness.</field>
+		<field name="region1description">High desert lands, Wild West history galore and small towns near the border.</field>
+		<field name="regionmapsize">250px</field>
+		<field name="regionmap">Arizona regions map.png</field>
+		<field name="region1color">7f7f00</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64694</field>
+		<field name="title">Inyo County</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Eastern Sierra    Owens Valley  - One of the earliest American explorers described the Owens Valley as containing "ten thousand acres (40 km2) of fine grass.", but due to its use as part of the water supply for Los Angeles it is mostly arid.  Court rulings and actions by the Los Angeles Department of Water and Power have helped restore fish habitat along the river, making it again one of the finest fly fishing streams in the West.   White Mountains    Death Valley  - The national park is the largest in the lower 48 states at 3.3 million acres/1.3 million hectares, and with the southeastern corner of Inyo County, comprises more than half the landmass of the county.  The Badwater Basin salt pan is the lowest point in North America (282nbsp;ft/86 m) below sea level, and the highest point in the national park is Telescope Peak at 11,049nbsp;ft./3,315 m.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64695</field>
+		<field name="title">Arctic Alaska</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">North Slope Borough   Brooks Range mountains</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64696</field>
+		<field name="title">Emerald Coast</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Bay County    Escambia County    Okaloosa County    Santa Rosa County    Walton County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64697</field>
+		<field name="title">Colorado</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">There is no universally agreed-upon breakdown of regions in Colorado.  Youll often hear natives speak of a very simple structure comprised of the Eastern Slope (meaning everything east of the crest of the  Rockies ), or the Western Slope (everything west of the range crest), and anomalous Denver or the "valley". The breakdown below is a bit more complex, partly for reasons of style and partly because the simple east/west/Denver formulation lumps areas together that are really very disparate. Its also roughly whats used by the Colorado Department of Tourism. If you are confused by some of the boundaries, simply consult a map of Colorado counties, as many of the regions follow county lines.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64698</field>
+		<field name="title">Panhandle (Texas)</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">High Plains  - 180 degrees of sky, wheat and corn as far as the eye can see, and the rich legacy of pioneers and cowboys.   Llano Estacado  - The heart of Panhandle cotton country, with bustling  Lubbock  at its center.   North Central Plains  - The Texas Heartland.   Northern Edwards Plateau</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64699</field>
+		<field name="title">Montana</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Montana is generally divided into two main regions: Eastern Montana and Western Montana. The Continental Divide of the  Rocky Mountains  separate the smaller western portion from the larger eastern portion.  Western Montana is characterized by higher rainfall in some areas, and terrain dominated by mountains, making for picturesque scenery such as that found in  Glacier National Park .  Eastern Montana is flatter, with isolated "island ranges" of lower mountains intermixed with prairie and a more arid climate, balanced by the presence of several significant rivers including the Missouri River and the Yellowstone River.  Some areas feature erosion-built features such as buttes and badlands.  The Montana board of tourism splits the state into 6 regions:</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64700</field>
+		<field name="title">United States of America</field>
+		<field name="main">regions</field>
+		<field name="name">Hawaii</field>
+		<field name="region6color">80a8ae</field>
+		<field name="region3description">The South is celebrated for its hospitality, down-home cooking and its blues, jazz, rock n roll, and country music traditions.  This lush, largely subtropical region includes cool, verdant mountains, agricultural plantations, and vast cypress swamps.</field>
+		<field name="region11items">Washington ,  Oregon</field>
+		<field name="region6description">The second biggest state is like a separate country (indeed, it once was), with strong cultural influences from its Spanish and Mexican past.  The terrain ranges from southeastern swamplands to the cattle-ranching South Plains to the sandy beaches of South Texas to the mountains and deserts of West Texas.</field>
+		<field name="region12color">578e86</field>
+		<field name="region2color">a9a567</field>
+		<field name="region8description">The spectacular snow-covered  Rockies  offer hiking, rafting, and excellent snow skiing as well as deserts, and some large cities.</field>
+		<field name="region10description">Like the Southwest, California has a history under Spanish and Mexican rule and is heavily influenced by Spanish and Mexican culture.  California offers world-class cities, deserts, rain forests, snowy mountains, and beautiful beaches. Northern California (around the San Francisco Bay Area) and Southern California (around Los Angeles) are culturally distinct.</field>
+		<field name="region9color">d7a35a</field>
+		<field name="region9items">Arizona ,  New Mexico ,  Nevada ,  Utah</field>
+		<field name="region5color">4da9c4</field>
+		<field name="region13description">A volcanic archipelago in the tropical Pacific, 2,300 miles south west of California (the nearest state), laid-back Hawaii is a vacation paradise.</field>
+		<field name="region4description">Northern Florida is similar to the rest of the South, but is not so in the resorts of  Orlando , retirement communities, tropical Caribbean-influenced  Miami , the  Everglades , and 1,200 miles of sandy beaches.</field>
+		<field name="region2items">Delaware ,  Maryland ,  New Jersey ,  New York ,  Pennsylvania</field>
+		<field name="region5items">Illinois ,  Indiana ,  Iowa ,  Michigan ,  Minnesota ,  Missouri ,  Ohio ,  Wisconsin</field>
+		<field name="regionmapsize">475px</field>
+		<field name="regionmaptext">Map of the United States</field>
+		<field name="region4color">ffd0d0</field>
+		<field name="region8color">80bb89</field>
+		<field name="region13color">4f93c0</field>
+		<field name="region11description">The pleasantly mild Pacific Northwest offers outdoor pursuits as well as cosmopolitan cities.  The terrain ranges from spectacular rain forests to scenic mountains and volcanoes to beautiful coastlines to sage-covered steppes and deserts.</field>
+		<field name="region7description">Travel westward through these supposedly flat states, from the edge of the eastern forests through the prairies and onto the High Plains, an enormous expanse of steppes (shortgrass prairies) nearly as desolate as in the frontier days.</field>
+		<field name="region1description">Home to gabled churches, rustic antiques, and steeped in American history, New England offers beaches, spectacular seafood, rugged mountains, frequent winter snows, and some of the nations oldest cities, in a territory small enough to tour (hastily) in a week.</field>
+		<field name="regionmap">Map-USA-Regions02.png</field>
+		<field name="region10color">d56d76</field>
+		<field name="region3items">Alabama ,  Arkansas ,  Georgia ,  Kentucky ,  Louisiana ,  Mississippi ,  North Carolina ,  South Carolina ,  Tennessee ,  Virginia ,  West Virginia</field>
+		<field name="region2description">Ranging from New York in the north to  Washington, D.C. , the Mid-Atlantic is home to some of the nations most densely populated cities, as well as historic sites, rolling mountains, the New Jersey  Pine Barrens , the  Lehigh Valley , and seaside resorts like the  Long Island  beaches and the  Jersey Shore .</field>
+		<field name="region7color">d5dc76</field>
+		<field name="region9description">Heavily influenced by Spanish and Mexican culture, this area is home to some of the nations most spectacular natural attractions and some flourishing artistic communities.  Although mostly empty, the regions deserts have some of the nations largest cities.</field>
+		<field name="region3color">c39dc3</field>
+		<field name="region8items">Colorado ,  Idaho ,  Montana ,  Wyoming</field>
+		<field name="region12description">One fifth as large as the rest of the United States, Alaska reaches well into the Arctic, and features mountainous wilderness, including North Americas tallest mountain, Mount Mckinley.</field>
+		<field name="region11color">9791ad</field>
+		<field name="region5description">The Midwest is home to farmland, forests, picturesque towns, industrial cities, and the  Great Lakes , the largest system of freshwater lakes in the world, forming the North Coast of the U.S.</field>
+		<field name="region7items">North Dakota ,  South Dakota ,  Nebraska ,  Kansas ,  Oklahoma</field>
+		<field name="region1items">Connecticut ,  Maine ,  Massachusetts ,  New Hampshire ,  Rhode Island ,  Vermont</field>
+		<field name="region1color">c68d98</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64701</field>
+		<field name="title">East Bay</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Alameda County    Contra Costa County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64702</field>
+		<field name="title">Oregon</field>
+		<field name="main">regions</field>
+		<field name="name">Willamette Valley</field>
+		<field name="region6color">ac5c91</field>
+		<field name="region3description">High waterfalls, steep precipices and high winds along the Columbia River make the Gorge a destination for sightseers and windsurfers alike.</field>
+		<field name="region4color">c19349</field>
+		<field name="region6description">Old-growth forests, world-class fishing, breath-taking waterfalls, and an emerging wine region are some of this regions diverse attractions.</field>
+		<field name="region2color">d5cc76</field>
+		<field name="region7description">Metro centers offer artistic, musical, and cultural diversions, while open farmland and numerous wineries provide ample tasting opportunities for food and drink connoisseurs.</field>
+		<field name="regionmap">OregonRegions.png</field>
+		<field name="region1description">Towering snow-covered peaks surrounded by thick forests offer plentiful skiing, hiking, and camping opportunities.</field>
+		<field name="region7color">b5d19f</field>
+		<field name="region2description">With broad vistas of the Cascades to the west and the High Desert to the east, offering year-round outdoor activities.</field>
+		<field name="region3color">4e92c1</field>
+		<field name="region5color">69999f</field>
+		<field name="region4description">Sparsely populated desert plains and rugged mountain ranges offer remote solitude with some unique surprises for intrepid explorers.</field>
+		<field name="region5description">The states spectacular rugged coastline is lined with plentiful public beaches and cozy coastal towns ideal for beach-combers and curio shoppers.</field>
+		<field name="region1color">b383b3</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64703</field>
+		<field name="title">Oahu</field>
+		<field name="main">regions</field>
+		<field name="name">North Shore</field>
+		<field name="region3description">The wetter and more lush part of the island, home to many secluded beaches, sleepy villages, and one of the largest Marine Corps bases in the Pacific.</field>
+		<field name="region4color">d56d76</field>
+		<field name="region2color">d5b66b</field>
+		<field name="regionmap">Map of Oahu.png</field>
+		<field name="region1description">The largest city in the Hawaiian Islands, the size of Minneapolis, Minnesota and home to the tourist hotspot of  Waikiki .</field>
+		<field name="region2description">A mostly suburban mix of bedroom communities for Honolulu and miles of pineapple fields.</field>
+		<field name="region3color">4da9c4</field>
+		<field name="region5color">71b37b</field>
+		<field name="region5description">Home to some of the largest waves on earth in the winter; the ocean and surfing are a way of life here.</field>
+		<field name="region4description">The drier part of the island, with four rural communities and two up-and-coming resort areas.</field>
+		<field name="regionmaptext">Regions of Oahu</field>
+		<field name="regionmapsize">500px</field>
+		<field name="region1color">b383b3</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64704</field>
+		<field name="title">Broome County</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Southern Tier</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64705</field>
+		<field name="title">Idaho</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">North Idaho is sometimes considered part of the  Pacific Northwest .  Its where the rolling grain-covered hills of the Palouse give way to the Bitterroot (Rocky) Mountains.  South Idaho is usually considered part of the Intermountain West, and is in the Mountain timezone.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64706</field>
+		<field name="title">Utah</field>
+		<field name="main">regions</field>
+		<field name="name">Western Utah</field>
+		<field name="region6color">ececa5</field>
+		<field name="region3description">High desert landscape, mining settlements, and the Uinta Mountains, home to Utahs highest peaks</field>
+		<field name="region4color">a4c883</field>
+		<field name="region6description">Endless desert, some high mountains, rugged terrain, salt flats, and the Great Salt Lake</field>
+		<field name="region2color">c79a50</field>
+		<field name="regionmap">Utah regions map.png</field>
+		<field name="region1description">The most urbanized area of the state - home to  Salt Lake City , the majority of Utahs population, a number of LDS temples, and world class skiing and snowboarding</field>
+		<field name="region2description">Mars on earth; few people reside here, but some of the worlds most extraordinary desert landscapes and enormous national parks await</field>
+		<field name="region3color">7f9b47</field>
+		<field name="region5color">94b261</field>
+		<field name="region4description">Utahs southwest is home to striking desert landscapes, forested mountains, ranchland, and the warmest spot in the state</field>
+		<field name="region5description">Rolling hills, agricultural land, and historic Mormon settlements abound in the Central region</field>
+		<field name="regionmapsize">280px</field>
+		<field name="region1color">a5c85d</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64707</field>
+		<field name="title">New York (state)</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Some people say that New York has two regions: New York City and "Upstate"—i.e., everything else. In fact, New York is a large state with a number of distinct travel regions.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64708</field>
+		<field name="title">New Hampshire</field>
+		<field name="main">regions</field>
+		<field name="name">White Mountains</field>
+		<field name="region7color">edb267</field>
+		<field name="region6color">84d5e4</field>
+		<field name="region3color">81b9e7</field>
+		<field name="region4color">bf96bb</field>
+		<field name="region5color">e5d25b</field>
+		<field name="region2color">88ccab</field>
+		<field name="regionmapsize">275px</field>
+		<field name="regionmaptext">Regions of New Hampshire</field>
+		<field name="regionmap">Map of New Hampshire Regions.png</field>
+		<field name="region1color">82c879</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64709</field>
+		<field name="title">Kansas</field>
+		<field name="main">regions</field>
+		<field name="name">Southeastern Kansas</field>
+		<field name="region2description">More rural, with very low population density and a lot of open land.  Farming forms the basis of the economy.  It is generally drier and flatter.</field>
+		<field name="region3color">babe74</field>
+		<field name="region4color">c8d690</field>
+		<field name="region3description">A mixture of farmland, rolling hills, and man-made lakes, it is a transition zone between the hilly east and the arid west. Home to Wichita, the largest city in the state.</field>
+		<field name="region5color">98b564</field>
+		<field name="region2color">b8ab6e</field>
+		<field name="region5description">Part of the  Ozarks  region, with beautiful hills, coal mining, and endemic rural poverty.  Ozark influence wanes the further you get from the southeast corner of the state.</field>
+		<field name="region4description">Down the center of Eastern Kansas run the Flint Hills, an area of great geological interest, with some of the last living grasslands of the true Great Plains</field>
+		<field name="region1description">Most of the larger cities are in this region, which is surprisingly hilly and has more trees and water than the other regions.</field>
+		<field name="regionmapsize">465px</field>
+		<field name="regionmap">Kansas regions map.png</field>
+		<field name="region1color">b1bc81</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64710</field>
+		<field name="title">Front Range</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Roughly speaking, this region is bounded on the:  South, by the metropolitan  Denver Area , Gilpin County and the northern half of Clear Creek County, bisected by east-west running Interstate 70 near  Georgetown .  West, by the Continental Divide, an imaginary line that marks the flow of precipitation. Rain falling on the west of the Divide makes its way to the Pacific Ocean. Rain on the east makes its way to the Gulf of Mexico and the Atlantic Ocean.   North, by the  Wyoming  State line.  East, by the eastern boundary of Weld County and the beginning of Colorados  Eastern Plains .  Region boundaries in Colorado are indistinct, and sometimes contentious.  If youre looking for a destination/attraction that you think should be in this region, but cant find it, check the pages for  Northwestern Colorado ,  Eastern Plains ,  Denver Area , and even  South Central Colorado  and  Southwestern Colorado .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64711</field>
+		<field name="title">Connecticut</field>
+		<field name="main">regions</field>
+		<field name="name">Mystic-Eastern</field>
+		<field name="region3description">South central Connecticut. Home to Yale University, and numerous museums and theaters. It includes cities such as  New Haven  and  Milford .</field>
+		<field name="region4color">ba5858</field>
+		<field name="region2color">61ba79</field>
+		<field name="regionmap">Map of Connecticut Regions.png</field>
+		<field name="region1description">Southwest Connecticut, near  New York City . This area has many beaches and lighthouses, and many of the states biggest cities, such as  Bridgeport ,  Stamford , and  Norwalk .</field>
+		<field name="region2description">Northwest Connecticut. Here you will find the less dense areas with colorful leaves in the autumn. There are some smaller cities such as  Torrington ,  Danbury , and  New Milford .</field>
+		<field name="region3color">d7983e</field>
+		<field name="region5color">53a0b2</field>
+		<field name="region5description">New London, Tolland and Windham Counties in eastern Connecticut. A good place to get a view of the Long Island Sound, with beaches, and the famous Mystic Seaport/Aquarium. Has two of the biggest casinos in the world. Includes cities such as  New London ,  Mystic ,  Uncasville , and  Ledyard .</field>
+		<field name="region4description">From North central Connecticut to the coast. Home to New Englands 2nd most populous region, the  Knowledge Corridor , featuring Connecticuts state capital  Hartford  and many historic sights.</field>
+		<field name="regionmaptext">Regions of Connecticut</field>
+		<field name="regionmapsize">300px</field>
+		<field name="region1color">8479b6</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64712</field>
+		<field name="title">California</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">California varies greatly, ranging from the forested northern coastal regions to the rugged interior mountains to the harsh southern desert.  Sandwiched in the center of California is the fertile Central Valley, home to a massive amount of agriculture.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64713</field>
+		<field name="title">Chicagoland</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Chain O Lakes : A region in northwestern Lake County made famous for the numerous lakes within the region.  A popular tourist area.  City of  Chicago : The actual city.   Far North Suburbs : Those suburbs generally located in Lake County.   Fox River Valley : The general region located between the Chain O Lakes and  Aurora , including the City of  Elgin .   Inner Suburbs : The suburbs in immediate proximity to Chicago.   North Shore : A general term used to describe the affluent communities along Lake Michigan between Chicago and  North Chicago    Northwestern Suburbs : The region generally on and in close proximity to the Union Pacific Northwest Metra Line.   South Suburbs : A region generally located along I-57 and south.   Western Suburbs : The region generally located west of I-294.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64714</field>
+		<field name="title">Central Florida</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">East Central Florida  - Ranges from the theme parks in the center of the state to the Atlantic coast.    West Central Florida  - Stretches from the Gulf Coast inland. May also be referred to as the Suncoast or the Tampa Bay area.  I-4 Corridor - The I-4 corridor overlaps the above and links the major population centers of Central Florida, stretching from  Daytona Beach  on the Atlantic coast, southwest through  DeLand , Seminole County,  Orlando ,  Lakeland , and into  Tampa .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64715</field>
+		<field name="title">Green Country (Oklahoma)</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Cherokee County   McIntosh County   Muskogee County   Okmulgee County   Sequoyah County   Tulsa County   Wagoner County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64716</field>
+		<field name="title">Ozarks</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Southwest Missouri    Arkansas Ozarks region    Green Country Oklahoma</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64717</field>
+		<field name="title">Wyoming</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Wyomings geography includes wide-open plains, swaths of high desert and sweeping mountain ranges. To help visitors get oriented and navigate around, the Wyoming Office of Tourism divides the state into five distinct regions:</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64718</field>
+		<field name="title">United States of America</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">The United States comprises 50 states, as well as the city of  Washington, D.C. , a federal district and the nations capital. The country also has a few territories, including the commonwealth of  Puerto Rico . Below is a rough grouping of these states into regions, from the Atlantic to the Pacific:    Politically, the U.S. is a federation of states, each with its own rights and powers (hence the name), with laws varying slightly from state to state.    The U.S. also administers a motley collection of non-state territories around the world, by far the largest of which is  Puerto Rico  (which has the special status of a "commonwealth"). Other territories include the  U.S. Virgin Islands , also in the  Caribbean , and  Guam ,  American Samoa , the  Northern Mariana Islands ,  Wake Island  and islands without permanent inhabitants such as the  Midway Islands  in  Oceania . As these are, from a travellers point of view, quite different from the 50 states, they are covered in separate articles.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64719</field>
+		<field name="title">North Dakota</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">North Dakota regions     Badlands :  Billings ,  Bowman ,  Golden Valley ,  McKenzie , and  Slope  counties.    Coteaus Plains :  Barnes ,  Burleigh ,  Dickey ,  Emmons ,  Foster ,  Griggs ,  Kidder ,  La Moure ,  Logan ,  McIntosh ,  Ransom ,  Sargent ,  Stutsman  counties.     Lakes Gardens :  Benson ,  Eddy ,  McHenry ,  McLean ,  Pierce ,  Ramsey ,  Renville ,  Sheridan ,  Towner ,  Ward ,  Wells  counties.     Red River Valley :  Cass ,  Cavalier ,  Grand Forks ,  Nelson ,  Pembina ,  Richland ,  Steele ,  Traill ,  Walsh  counties.     Turtle Mountains :  Bottineau ,  Rolette  counties.     Western North Dakota :  Adams ,  Burke ,  Divide ,  Dunn ,  Grant ,  Hettinger ,  Mercer ,  Morton ,  Mountrail ,  Oliver ,  Sioux ,  Stark ,  Williams  counties.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64720</field>
+		<field name="title">Oklahoma</field>
+		<field name="main">regions</field>
+		<field name="name">Red Carpet Country</field>
+		<field name="region6color">FC8072</field>
+		<field name="region3color">008000</field>
+		<field name="region4color">90EE90</field>
+		<field name="region5color">B0E0E6</field>
+		<field name="region2color">DCEEDC</field>
+		<field name="region1color">00BFFF</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64721</field>
+		<field name="title">Indiana</field>
+		<field name="main">regions</field>
+		<field name="name">Southwestern Indiana</field>
+		<field name="region6color">b58cb5</field>
+		<field name="region3description">A large section of the state, home to Notre Dame football pilgrimage mecca  South Bend  and the states second largest city,  Fort Wayne</field>
+		<field name="region4color">ce9b53</field>
+		<field name="region6description">Indianas heavily forested hilly highlands, dotted with caves, on the border with  Kentucky</field>
+		<field name="region2color">d27981</field>
+		<field name="regionmap">Indiana regions map.png</field>
+		<field name="region1description">The vast heartland of the state surrounding the capital region, home to  Purdue University</field>
+		<field name="region2description">The population core of the state, in the greater metropolitan area of  Indianapolis , home to the lions share of the states shopping, sights, dining, and nightlife</field>
+		<field name="region3color">7db585</field>
+		<field name="region5color">609ac0</field>
+		<field name="region4description">Where  Chicagoland  spills into and gradually fades into Indiana, with once sharply declining, but now rebuilding industrial cities like  Gary  and the beautiful  Indiana Dunes  on Lake Michigan.</field>
+		<field name="region5description">Where the farms run up against hills and forest, is where youll find enormous Indiana University in  Bloomington ; further south takes you to the Kentucky border at  Louisville</field>
+		<field name="regionmapsize">300px</field>
+		<field name="region1color">d2d881</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64722</field>
+		<field name="title">Metro Detroit</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Macomb County   Oakland County   Wayne County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64723</field>
+		<field name="title">Idaho</field>
+		<field name="main">regions</field>
+		<field name="name">Southeastern Idaho</field>
+		<field name="region7color">bbc9b0</field>
+		<field name="region6color">cba166</field>
+		<field name="region3color">89b790</field>
+		<field name="region4color">b795b7</field>
+		<field name="region5color">99b3b7</field>
+		<field name="region2color">71a0c0</field>
+		<field name="regionmapsize">250px</field>
+		<field name="regionmap">Idaho regions map.png</field>
+		<field name="region1color">ca8b90</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64724</field>
+		<field name="title">Humboldt County</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Humboldt County, located in Northwest California, is the southern gateway to the Pacific Northwest. The County is bound on the north by Del Norte County; on the east by Siskiyou and Trinity counties; on the south by Mendocino County and on the west by the Pacific Ocean. The County encompasses 2.3 million acres, 80 percent of which is forestlands, protected redwoods and recreation areas.  The southern part of the County includes Alton, Carlotta, Hydesville, Rio Dell and Scotia; the Avenue of the Giants communities; Garberville and Redway; the Eel, Mattole and Van Duzen River communities; Humboldt Redwoods, Richardson Grove and Grizzly Creek State Parks; and the King Range National Conservation Area. The northern part of the County includes the City of Trinidad, Orick; Redwood National Park; Prairie Creek and Humboldt Lagoons State Parks; and several State Beaches.   The eastern part of the County includes Willow Creek, Hoopa Valley Indian Reservation, Orleans, and a great deal of Six Rivers National Forest land.   The southern border of the County is located 225 miles north of San Francisco, the closest major metropolitan city. The County is linked by Coastal Highway 101 to the rest of California to the South and the Oregon Coast to the North. Highway 299 links the County to Interstate 5 to the east. The County airport in McKinleyville has daily flights to San Francisco, Sacramento, Portland and Seattle.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64725</field>
+		<field name="title">McHenry County (Illinois)</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">McHenry is unique in that its development and geography make classifying it in one particular region or another exceptionally difficult.  The southeastern portions, which are heavily developed, might be said to properly belong with the greater  Chicagoland  region, while the western and northern areas gravitate toward other region centers.  In general, McHenry County can be divided to belong to the following regions:   Chicagolands  Northwestern Suburbs : Algonquin, Crystal Lake, Cary, Huntley and Lake in the Hills share many characteristics with Chicagolands other northwestern suburbs and may be properly assigned there.  Chicagolands  Chain OLakes : The extreme northeastern portion of the County, including Spring Grove and Richmond, share many economic characteristics with the rest of the Chain OLakes communities.  Northern Illinoiss  Kishwaukee Valley : Woodstock, Marengo, Harvard and Hebron tend to be culturally and economically related to the Rockford area and may be assigned to the Kishwaukee River Valley.  The northern branch of the river rises near Woodstock.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64726</field>
+		<field name="title">Big Island</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">East Hawaii  - Generally referred to as just Hilo, as that is the major city. This Windward side of the island, has so much more precipitation than the Kona side, that as you travel across the terrain goes from black with dry brown patches to open fields grazed by horses and donkeys to planted eucalyptus forest to lush tropical vegetation and rainforest. Here you can see many waterfalls, walk through rainforest and enjoy the land.  West Hawaii  - or (Kailua) Kona, Leeward side of the island, warm with much less precipitation, more ocean based attractions. However, you will not find large beaches on this island, or massive waves. Good for beginner surfing, snorkelling, paddling, ocean swimming, Hawaiian outrigger canoe trips and scuba diving, as well as whale and dolphin watching!  Kohala  - the Northwest Part of the Island, is partially a vast green area artificially landscaped and including gorgeous golf clubs and resorts that most of us only dream of as well as some of the dryest land on the Big Island, where not altered by humans. There are many options for hotels, resorts and rental properties here that are convenient to the attractions nearby in Kona and Kailua Kona. The contrast between the green, watered at night with sprinklers, and the black volcanic surface of this area is a sight to behold.  Hamakua  - East side of the island North of Hilo is covered with gently rolling hills, spotted with smooth-old volcano tops, and terminates rather majestically in gallant cliffs over which spill dozens of tall thin waterfalls. These are seen best from the water which is quite rough, so a helicopter ride is the best way to see this awe inspiring site. The Waipio Valley overlook and the valley itself are truly special. If you are able, a day hike into the valley on foot or on horseback to see the amazing black beach are highly recommended!  Puna  - East side of the island South of Hilo, where the volcano is currently erupting (2012). You can walk on the black crust of newly volcano-formed earth and if you walk long enough you can see it pouring into the sea as a red-hot falls steaming on contact with the ever-rolling waves. (Absolutely incredible, but a challenging hike). The non-volcano area of the Puna distric is typically very lush and green with rainforest vegatation.   Kau  - the South part of the Island is much less visited, but progress on this has been rapid in the last years, as after the demise of sugar and coffee, tourism is the biggest part of their economy.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64727</field>
+		<field name="title">Southcentral Alaska</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Kenai Peninsula   Matanuska-Susitna Valley Also known as the Mat-Su Valley</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64728</field>
+		<field name="title">San Luis Obispo County</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Paso Robles  - wine country</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64729</field>
+		<field name="title">Ohio</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Comprising 88 counties, Ohio can be roughly characterized as having 5 regions:</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64730</field>
+		<field name="title">Poconos and Endless Mountains</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Bradford County  Carbon County  Coal Region   Endless Mountains   Lackawanna County  Luzerne County  Monroe County  Northeastern Poconos   Pike County  Sullivan County  Susquehanna County  Wayne County  Wyoming County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64731</field>
+		<field name="title">Montana</field>
+		<field name="main">regions</field>
+		<field name="name">Custer Country</field>
+		<field name="region6color">b5d29f</field>
+		<field name="region3description">Named for famed western artist Charles M. Russell, north central Montana including the cities of  Great Falls  and  Lewistown .</field>
+		<field name="region4color">d56d76</field>
+		<field name="region6description">The far southeast Montana, including the cities of  Billings ,  Miles City ,  Glendive  and the Little Bighorn Battlefield National Monument.</field>
+		<field name="region2color">bfc568</field>
+		<field name="regionmap">Montana regions map.png</field>
+		<field name="region1description">The far northwest portions of Montana, including Glacier National Park and the cities of  Missoula ,  Whitefish ,   Kalispell , and  Cut Bank .</field>
+		<field name="region2description">Southwest Montana, including the cities of  Butte  and  Helena .</field>
+		<field name="region3color">71b37b</field>
+		<field name="region5color">69999f</field>
+		<field name="region4description">South central Montana, the gateway to  Yellowstone National Park , including the cities of  Bozeman  and Red Lodge.</field>
+		<field name="region5description">The far northeast Montana, including  Glasgow .</field>
+		<field name="regionmapsize">400px</field>
+		<field name="region1color">4f93c0</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64732</field>
+		<field name="title">Ohio</field>
+		<field name="main">regions</field>
+		<field name="name">Southeast Ohio</field>
+		<field name="region3description">flat agricultural land surrounding the State capital,  Columbus .</field>
+		<field name="region4color">666699</field>
+		<field name="region2color">669999</field>
+		<field name="regionmap">Map of Ohio Regions.png</field>
+		<field name="region1description">flat agricultural land surrounding  Toledo  and stretching into Indiana to the west and Michigan to the north.</field>
+		<field name="region2description">rolling wooded foothills from the Allegheny Mountain range subside as they approach Lake Erie (definition of NEO includes 13 counties and 4.5 million people).</field>
+		<field name="region3color">996666</field>
+		<field name="region5color">CC9933</field>
+		<field name="region5description">very hilly, coal-mining country in the foothills of the Appalachian Mountains, rolling into Pennsylvania and West Virginia and including the  Wayne National Forest .</field>
+		<field name="region4description">hilly areas approaching the Ohio River, surrounding  Cincinnati  and rolling into Kentucky.</field>
+		<field name="region2items">also known as "Greater  Cleveland "</field>
+		<field name="regionmapsize">275px</field>
+		<field name="region1color">666633</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64733</field>
+		<field name="title">Wisconsin</field>
+		<field name="main">regions</field>
+		<field name="name">Northwest Wisconsin</field>
+		<field name="region2description">The major cities are  La Crosse  and  Madison  (capital city and campus of the University of Wisconsin).</field>
+		<field name="region3color">009999</field>
+		<field name="region4color">66ccff</field>
+		<field name="region3description">The major cities are  Appleton  (Houdini central),  Green Bay  (home of the intensely beloved football Packers), and  Oshkosh .The popular summer getaway destination of  Door County  is also included in this region.</field>
+		<field name="region5color">99cccc</field>
+		<field name="region2color">99ccff</field>
+		<field name="region5description">The major cities are  Eau Claire  and  Superior .</field>
+		<field name="region4description">The major city is  Wausau , gateway to the northwoods.</field>
+		<field name="region1description">Southeast Wisconsin is the states most populous region. The major cities are  Kenosha ,  Milwaukee  (Wisconsins largest city),  Racine , and  Waukesha . The popular summer getaway destination of  Lake Geneva  is also included in this region; as well as the scenic areas of the  Kettle Moraine , and  Lake Country, Waukesha Co .</field>
+		<field name="regionmapsize">300px</field>
+		<field name="regionmap">Wisconsin regions map.png</field>
+		<field name="region1color">66cc99</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64734</field>
+		<field name="title">Arkansas</field>
+		<field name="main">regions</field>
+		<field name="name">Timberlands</field>
+		<field name="region6color">71b37b</field>
+		<field name="region3description">The northwest and north central areas of the state that includes  Fayetteville ,  Bentonville  and  Eureka Springs . Also home to the University of Arkansas.</field>
+		<field name="region4color">b5d29f</field>
+		<field name="region6description">The southern section of the state and includes  El Dorado ,  Magnolia ,  Pine Bluff ,  Hope , and  Texarkana  (a city that is in both Arkansas and  Texas )</field>
+		<field name="region2color">69999f</field>
+		<field name="regionmap">Arkansas regions map.png</field>
+		<field name="region1description">The center of the state includes the state capital  Little Rock  and  Conway</field>
+		<field name="region2description">The eastern section of the state along the Mississippi River Delta and includes  Jonesboro  and  West Memphis</field>
+		<field name="region3color">578e86</field>
+		<field name="region5color">4f93c0</field>
+		<field name="region4description">West central part of the state that is home to the Ouachita mountains (including the states highest peak, Mt. Magazine) and Ouachita National Forest</field>
+		<field name="region5description">The area in northwest Arkansas along the Arkansas river and includes  Fort Smith  and  Russellville</field>
+		<field name="regionmapsize">330px</field>
+		<field name="region1color">ac5c91</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64735</field>
+		<field name="title">Vermont</field>
+		<field name="main">regions</field>
+		<field name="name">Southern Vermont</field>
+		<field name="region2description">Includes the Vermont part of the  Champlain Valley .  Home of  Burlington , the University of Vermont, and many dairy farms.</field>
+		<field name="region3color">a56da2</field>
+		<field name="region4color">6d97a5</field>
+		<field name="region3description">Exquisite ice cream, amazing skiing, and the world’s tallest granite quarry.</field>
+		<field name="region2color">a5846d</field>
+		<field name="region4description">Mega ski resorts, quaint villages, and old mill towns.</field>
+		<field name="region1description">The way Vermont used to be.</field>
+		<field name="regionmapsize">250px</field>
+		<field name="regionmap">Map of Vermont Regions.png</field>
+		<field name="region1color">75a56d</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64736</field>
+		<field name="title">North Carolina</field>
+		<field name="main">regions</field>
+		<field name="name">Coastal Plain</field>
+		<field name="region2description">From fast-growing and diverse cities to rolling farmland, this region includes  Charlotte , the Souths finance center and the home of NASCAR, the  Research Triangle  of  Raleigh ,  Durham , and  Chapel Hill , a hub of high-tech research and both quaint college towns and bustling college "cities", and the  Piedmont Triad  of  Greensboro ,  Winston-Salem , and  High Point , full of old-time Southern charm and world-class barbecue.</field>
+		<field name="region3color">5b739a</field>
+		<field name="region3description">Endless stretches of secluded beaches await visitors to the  Outer Banks  and the  Crystal Coast , aviation history and the birthplace of flight in  Kitty Hawk , the historic coastal city of  Wilmington , with its spanish-moss draped oaks and booming film industry, the beautiful and historic  New Bern , as well as the military bases of the interior coast, including Camp Lejeune in  Jacksonville .</field>
+		<field name="region2color">a4864e</field>
+		<field name="region1description">Home to the highest mountains in eastern North America, Great Smoky Mountain National Park, the Blue Ridge Parkway, and the vibrant mountain towns of  Asheville  and  Boone .</field>
+		<field name="regionmapsize">500px</field>
+		<field name="regionmap">North Carolina regions map.png</field>
+		<field name="region1color">699056</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64737</field>
+		<field name="title">San Diego County</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">right   San Diego  - The central, largest city of San Diego County  Inland  - The inland areas of San Diego County to the east of San Diego  North County  - The areas of the county to the north of San Diego  South Bay  - The cities surrounding the San Diego Bay to the south of San Diego</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64738</field>
+		<field name="title">Nebraska</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">State of Nebraska Regions  Nebraska can be roughly characterized as having 4 regions:</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64739</field>
+		<field name="title">Grand Traverse Bay Area</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Leelanau Peninsula</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64740</field>
+		<field name="title">Kentucky</field>
+		<field name="main">regions</field>
+		<field name="name">Western Waterlands</field>
+		<field name="region6color">b9cbac</field>
+		<field name="region3description">This rugged landscape is dominated by the  Daniel Boone National Forest  and it was here that the Wilderness Road was cut enabling the first wave of settlers to enter the state through the Cumberland Gap.</field>
+		<field name="region4color">81a29d</field>
+		<field name="region8color">a09caf</field>
+		<field name="region6description">An emerging economic power in Kentucky.  The cities of  Covington ,  Florence , and  Newport  are among the fastest growing in the state.</field>
+		<field name="region2color">caa673</field>
+		<field name="region7description">Containing many man made lakes, this rural region offers many opportunities for recreation.</field>
+		<field name="regionmap">Kentucky regions map.png</field>
+		<field name="region1description">Horses and bourbon sum up this region.  The gently rolling hills are the heart of the Thoroughbred industry and many distilleries can be found along its streams.</field>
+		<field name="region8description">This area of alternating ridges and valleys was mined extensively in the years after WWII.  Many of the mined lands were turned into wildlife management areas and the region has become a draw for sportsmen.   Owensboro  is the largest city in the region.</field>
+		<field name="region7color">cdd194</field>
+		<field name="region2description">A karst region containing the largest cave system in the world.   Bowling Green  is the regional hub.</field>
+		<field name="region9description">A mostly flat area of the state that lies within the floodplains of four major rivers.  This region contains the states largest agricultural operations as well as the recreational areas around Kentucky Lake and Lake Barkley.</field>
+		<field name="region3color">91b897</field>
+		<field name="region9color">cd8e94</field>
+		<field name="region5color">b484a4</field>
+		<field name="region4description">A rugged and rural portion of the state.</field>
+		<field name="region5description">The region centered around Kentuckys largest city,  Louisville</field>
+		<field name="regionmapsize">510px</field>
+		<field name="region1color">7ca5c0</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64741</field>
+		<field name="title">Acadiana</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Acadia Parish    Ascension Parish    Assumption Parish    Evangeline Parish    Iberia Parish    Lafayette Parish    Lafourche Parish    Pointe Coupee Parish    St. Charles Parish    St. John the Baptist Parish  St. James Parish   St. Landry Parish    St. Martin Parish    St. Mary Parish    St. James Parish    Terrebonne Parish    Vermilion Parish</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64742</field>
+		<field name="title">Maryland</field>
+		<field name="main">regions</field>
+		<field name="name">Western Maryland</field>
+		<field name="region3description">Marylands lowlands east of the  Chesapeake , home to the beach resort  Ocean City  as well as  Assateague Island</field>
+		<field name="region4color">8da1c2</field>
+		<field name="region2color">b5c58a</field>
+		<field name="regionmap">Maryland regions map.png</field>
+		<field name="region1description">The population core of Maryland—mostly suburbs and exurbs of  Washington, D.C.</field>
+		<field name="region2description">Including the quintessentially Maryland cities of  Baltimore  and  Annapolis</field>
+		<field name="region3color">d3b97b</field>
+		<field name="region5color">c9a78c</field>
+		<field name="region5description">Where Maryland gets mountainous and rugged, with some charming, laid-back, smaller cities, and outdoor opportunities at  Deep Creek Lake  and on the  Appalachian Trail</field>
+		<field name="region4description">A solidly  Chesapeake  region with charming bed breakfasts and bay island destinations, an easy drive from  D.C.</field>
+		<field name="regionmaptext">Marylands regions</field>
+		<field name="regionmapsize">450px</field>
+		<field name="region1color">93c4a8</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64743</field>
+		<field name="title">Wyoming</field>
+		<field name="main">regions</field>
+		<field name="name">Southwest Wyoming</field>
+		<field name="region3color">578e86</field>
+		<field name="region4color">d56d76</field>
+		<field name="region5color">ac5c91</field>
+		<field name="region2color">d09440</field>
+		<field name="regionmapsize">360px</field>
+		<field name="regionmap">Wyoming regions map.png</field>
+		<field name="region1color">4f93c0</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64744</field>
+		<field name="title">Monterey County</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Monterey Peninsula forms the southern end of Monterey Bay. The towns of  Monterey  and  Carmel  lie here, as does the tourist resort destination  Pacific Grove .  Big Sur  is the sparsely settled coastal region directly south of Carmel. It is served by Route 1.  Salinas  Valley is predominantly an agricultural area, with many wineries.  Carmel Valley  is a popular wine tourism area.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64745</field>
+		<field name="title">Nevada</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">State of Nevada Regions</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64746</field>
+		<field name="title">Kiamichi Country</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">The region includes seven counties.   Choctaw County  - Southwest part of the region, bordering  Texas .  Haskell County   Latimer County   Le Flore County   McCurtain County  - The furtherest southeast in the region and the state is borders both  Texas  and  Arkansas   Pittsburg County   Pushmataha County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64747</field>
+		<field name="title">Buncombe County</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">The county is divided into fifteen townships: Asheville, Avery Creek, Black Mountain, Broad River, Fairview, Flat Creek, French Broad, Ivy, Leicester, Limestone, Lower Hominy, Reems Creek, Sandy Mush, Swannanoa, and Upper Hominy.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64748</field>
+		<field name="title">North America</field>
+		<field name="main">regions</field>
+		<field name="name">United States of America</field>
+		<field name="region2description">White sandy beaches, crystal-clear water, and laid-back island culture make the Caribbean one of the worlds top vacation spots.</field>
+		<field name="region6color">68a9c4</field>
+		<field name="region3color">d56d76</field>
+		<field name="region4color">d5dc76</field>
+		<field name="region3description">The seven nations of this isthmus connecting North and South America blend elements of both American continents; youll find bustling cities, ancient jungle ruins, and a Spanish-tinged culture.</field>
+		<field name="region5color">71b37b</field>
+		<field name="region6description">One of the largest, most ethnically diverse and multicultural nations on Earth includes some of the worlds most famous cities, natural parks of unspeakable beauty, and virtually everything in between.</field>
+		<field name="region2color">ffd0d0</field>
+		<field name="region5description">Mexico is a big tourist attraction for sun-seekers, naturalists/ecotourists and historians alike; the first flock to Mexicos tropical beaches, while the latter will find everything from Mayan ruins to Spanish colonial history.</field>
+		<field name="region4description">A self-governing country, but still part of  Denmark , Greenland is a vast island of stark landscapes and midnight sun.</field>
+		<field name="region1description">The Great White North certainly has vast expanses of unspoiled wilderness, but it also features some of the worlds most modern, cosmopolitan cities.</field>
+		<field name="region1color">b383b3</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64749</field>
+		<field name="title">Oklahoma</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Oklahoma Regions</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64750</field>
+		<field name="title">Massachusetts</field>
+		<field name="main">regions</field>
+		<field name="name">Berkshire Hills</field>
+		<field name="region6color">cecf3f</field>
+		<field name="region4color">9a9ad1</field>
+		<field name="region6description">The three counties of the Connecticut River Valley, including the interstate  Knowledge Corridor</field>
+		<field name="region2color">e39d4e</field>
+		<field name="region7description">A Western Massachusetts area of great beauty.</field>
+		<field name="regionmap">Map of Massachusetts Regions.png</field>
+		<field name="region1description">The states premier summer vacation area of beaches, art and antiques.</field>
+		<field name="region7color">ad8db3</field>
+		<field name="region2description">The metropolitan area inside Interstate 95 also known as Route 128.</field>
+		<field name="region3items">South Shore ,  SouthCoast ,  Bristol-Norfolk</field>
+		<field name="region3color">51cf5b</field>
+		<field name="region5color">da7070</field>
+		<field name="region6items">Franklin County ,  Hampden County ,  Hampshire County</field>
+		<field name="region5items">Blackstone Valley ,  MetroWest ,  Quabbin ,  North County ,  South County</field>
+		<field name="regionmapsize">350px</field>
+		<field name="region4items">North Shore ,  Merrimack Valley</field>
+		<field name="region1color">69add2</field>
+		<field name="region1items">and the  Islands</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64751</field>
+		<field name="title">Nassau County</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Nassau County is generally divided into North Shore and South Shore. The North Shore is known for its hilly roads and rocky beaches. In comparison, the South Shore of the County is flat and contains sandy beaches. The Long Island Sound splits the North Shore of Nassau County from Connecticut while the South Shore leads to the Atlantic Ocean</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64752</field>
+		<field name="title">Alaska</field>
+		<field name="main">regions</field>
+		<field name="name">Arctic Alaska</field>
+		<field name="region2description">Anchorage Kenai Peninsula</field>
+		<field name="region3color">d0b292</field>
+		<field name="region4color">d09299</field>
+		<field name="region3description">Alaskan Peninsula Aleutian other islands</field>
+		<field name="region5color">92aed0</field>
+		<field name="region2color">d092cc</field>
+		<field name="region5description">Barrow, Nome, Kotzebue</field>
+		<field name="region4description">Fairbanks</field>
+		<field name="region1description">Panhandle Inland Passage</field>
+		<field name="regionmapsize">600px</field>
+		<field name="regionmap">Alaska regions map.png</field>
+		<field name="region1color">a1d092</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64753</field>
+		<field name="title">Ottawa County (Ohio)</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Ottawa County peninsula</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64754</field>
+		<field name="title">Frontier Country</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Greater Oklahoma City</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64755</field>
+		<field name="title">Chittenden County</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Urban Core  The urban core is comprised of the cities of Burlington, Winooski, and South Burlington.  This is the most densely populated part of  Vermont .  Most of the attractions are located in Burlington, but there are some good restaurants located in South Burlington and Winooski.  South Burlington is mostly nondescript sprawl right now, but Winooski has a pleasant and growing city center.  Inner Ring Suburbs  The towns of Colchester, Essex, Williston, and Shelburne are predominantly bedroom communities for Burlington.  The village at the center of Shelburne is picturesque and is home to the renowned Shelburne Museum.  Rural Areas  The rest of the county is predominantly rural with some scattered villages.  Technically still a suburb of Burlington since most residents commute there for work, it is much less densely populated.  The terrain changes from farmland to rolling hills to mountains the farther you get from Lake Champlain.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64756</field>
+		<field name="title">Piney Woods</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Northeastern Texas    Central Piney Woods    Deep East Texas</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64757</field>
+		<field name="title">North America</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">North America consists of three large nations and one large island territory that covers most of its area. They are  Canada , the  United States of America  (USA),  Mexico  and  Greenland . There are also seven smaller nations at its southern extreme (collectively known as  Central America ), around two dozen island nations and territories of various sizes in the  Caribbean , and one isolated French territory off the Canadian Atlantic coast.  Although the Central American and the Caribbean regions are technically part of the North American continent, they are commonly listed separately from their larger neighbors to the north and hence the distinctive region names for both cultural and geographical reasons.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64758</field>
+		<field name="title">Olympic Peninsula</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">The Olympic Peninsula is centered around the Olympic Mountains and the Olympic National Park.  To the east it is bordered by the Hood Canal which is one of the largest fiords in the United States.  To the north it is separated from Canada by the Admiralty Inlet and to the west it is bordered by the Pacific Ocean.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64759</field>
+		<field name="title">Missouri</field>
+		<field name="main">regions</field>
+		<field name="name">Southeast Missouri</field>
+		<field name="region6color">8e88a6</field>
+		<field name="region3description">Includes  Jefferson City  and  Columbia</field>
+		<field name="region4color">b383b3</field>
+		<field name="region6description">In the  Ozarks  and includes  Springfield ,  Joplin , and  Branson</field>
+		<field name="region2color">d5dc76</field>
+		<field name="region7description">Includes  Ste. Genevieve ,  Poplar Bluff  and  Cape Girardeau</field>
+		<field name="regionmap">Missouri regions map.png</field>
+		<field name="region1description">St. Louis metro area including  St. Louis  and  St. Charles</field>
+		<field name="region7color">b5d29f</field>
+		<field name="region2description">Kansas City metro area including  Kansas City ,  Independence  and  Lees Summit</field>
+		<field name="region3color">d09440</field>
+		<field name="region5color">71b37b</field>
+		<field name="region4description">Includes  Hannibal  and  Kirksville</field>
+		<field name="region5description">Includes  St. Joseph ,  Arrow Rock , and  Weston</field>
+		<field name="regionmapsize">330px</field>
+		<field name="region1color">4f93c0</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64760</field>
+		<field name="title">Virginia</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Regions of Virginia</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64761</field>
+		<field name="title">Ocean County</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Long Beach Island</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64762</field>
+		<field name="title">West Virginia</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">State of West Virginia Regions     Metro Valley  - The states urban center which includes the capital.  This region borders Ohio and Kentucky    Ohio Valley  - Bordering the Ohio River and the western panhandle of the state.    New River and Greenbrier Valleys  - The southernmost part of the state, with whitewater rafting and beautiful parklands.    Mountains and Lakes Country  - West Virginias technology corridor, bordering the south of Pennsylvania and the central part of the state, with lots of lakes, rivers and streams.    Potomac Highlands  - Tucked away in the Allegheny Mountains and the Monongahela National Forest, with much of the states skiing and caving, this region contains an important part of the states Civil War heritage.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64763</field>
+		<field name="title">Green County</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Green County sits on the eastern edge of the Driftless Zone where the flat lands near Lake Michigan transition to a more hilly region. The western portions of the County tend to be hillier and more scenic, but culturally and economically, the County is relatively homogenous.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64764</field>
+		<field name="title">Santa Clara County</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Silicon Valley</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64765</field>
+		<field name="title">Big Bend Country</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Area map     Permian Basin  - Grassy oil-drilling region extending west to the Pecos River.   Trans-Pecos  - West of the Pecos river, a large sweeping area that is part of the Chihuahua Desert.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64766</field>
+		<field name="title">Tennessee</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Each region is known for its distinctive musical heritage: Bluegrass (Eastern), Country-western (Central), and Blues (Western).   State of Tennessee Regions</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64767</field>
+		<field name="title">California</field>
+		<field name="main">regions</field>
+		<field name="name">Shasta Cascades</field>
+		<field name="region6color">5ea54a</field>
+		<field name="region3description">An isolated stretch of land that features cool mountains and rugged coastline.</field>
+		<field name="region4color">a0a0c0</field>
+		<field name="region8color">d06666</field>
+		<field name="region6description">Californias alpine and skiing region, including  Yosemite National Park  and  Lake Tahoe .</field>
+		<field name="region2color">d5a90b</field>
+		<field name="region7description">Historic foothills to the Sierras.</field>
+		<field name="regionmap">Ca-regions.png</field>
+		<field name="region1description">Home to  Los Angeles ,  San Diego ,  Disneyland , and miles of famous beaches.</field>
+		<field name="region8description">Home to  San Francisco ,  Oakland , and  San Jose / Silicon Valley .</field>
+		<field name="region10color">c375a0</field>
+		<field name="region7color">d2d20d</field>
+		<field name="region2description">Palm trees, blazing sun, and quirky resorts.</field>
+		<field name="region9description">Home to the worlds tallest trees, the coast redwoods as well rugged coastline and remote nature adventures.</field>
+		<field name="region3color">5fb388</field>
+		<field name="region10description">Hills and mountains in the states northeast corner that are off the beaten path for most visitors.</field>
+		<field name="region9color">b2b24d</field>
+		<field name="region5color">5bc7c0</field>
+		<field name="region5description">Home of  Sacramento . the state capital.</field>
+		<field name="region4description">Breadbasket of California and home to a large percentage of Americas fruit and vegetable supply.</field>
+		<field name="regionmaptext">Californias regions</field>
+		<field name="regionmapsize">350px</field>
+		<field name="region1color">ac663d</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64768</field>
+		<field name="title">Michigan</field>
+		<field name="main">regions</field>
+		<field name="name">Upper Peninsula</field>
+		<field name="region3color">cddda8</field>
+		<field name="region4color">808dd1</field>
+		<field name="region5color">8fb37b</field>
+		<field name="region2color">c69edc</field>
+		<field name="regionmapsize">350px</field>
+		<field name="regionmap">Michigan regions map.png</field>
+		<field name="region1color">c08281</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64769</field>
+		<field name="title">Pennsylvania</field>
+		<field name="main">regions</field>
+		<field name="name">Poconos and Endless Mountains</field>
+		<field name="region7color">7ca077</field>
+		<field name="region6color">b5888a</field>
+		<field name="region3color">ffbff3</field>
+		<field name="region4color">8fddc5</field>
+		<field name="region5color">b5b7a0</field>
+		<field name="region2color">cac4a4</field>
+		<field name="regionmapsize">350px</field>
+		<field name="regionmap">Pennsylvania regions map.png</field>
+		<field name="region1color">c4b066</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64770</field>
+		<field name="title">Kenosha County</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Kenosha County has two primary regions separated by Interstate 94: the developed eastern portion of the County in and around the City of  Kenosha  and the mostly rural western area.  The urbanized area is relatively similar to most other rust belt areas and is often the portion of the County considered to be possibly part of  Chicagoland .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64771</field>
+		<field name="title">Southern California</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">right  Southern California is most easily divisible by counties.  The following counties are completely in the Southern California region:   Santa Barbara County   Ventura County   Los Angeles County   Orange County   San Diego County   Due to their vast size (San Bernardino County is larger than nine of the states in the U.S.) and varied topography these counties are split among two different regions.  The westernmost urban portions are considered part of Southern California and the eastern desert sections are part of  Desert region .   San Bernardino County   Riverside County   Southern California is divided culturally, politically, and economically into distinctive regions, each containing its own culture and atmosphere. A region with both national and global recognition, Southern California is often considered the home to many tourist destinations and the hub of economic activity for its respective regions. Each region is further divided into many culturally distinct areas, but as a whole they combine to create the Southern California atmosphere.  Out of these regions, three are major metropolitan areas, each of which have over 3 million people. The Los Angeles area has over 12 million inhabitants, the Riverside-San Bernardino area has over 4 million inhabitants, and the San Diego area has over 3 million inhabitants. The region as a whole is practically identical in population to Texas, with more than 24.2 million people, and is the nations most populous region behind the urban seaboard of the Northeastern United States.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64772</field>
+		<field name="title">Long Island</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Nassau County    Suffolk County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64773</field>
+		<field name="title">Washington (state)</field>
+		<field name="main">regions</field>
+		<field name="name">Southwest Washington</field>
+		<field name="region6color">6da58f</field>
+		<field name="region3description">known for its rugged beauty with rain forests against a spine of dramatic mountains and miles of isolated beaches this area includes Olympic National Park.</field>
+		<field name="region4color">90d197</field>
+		<field name="region8color">7685a4</field>
+		<field name="region6description">This semi arid area includes the Lake Roosevelt National Recreation Area created by the Grand Coulee Dam.</field>
+		<field name="region2color">76b0d9</field>
+		<field name="region7description">a scattering of forested islands in the serene waters adjacent to  British Columbia . Ferries, private boats, kayaks, and orca (whales) criss-cross the waters, while float planes and bald eagles soar overhead</field>
+		<field name="regionmap">Washington regions map.png</field>
+		<field name="region1description">located on the southeastern side of the Cascades; this region features canyons, deserts and steppes set in hillside valleys. Cities included within this region are  Kennewick ,  Walla Walla , and  Yakima .</field>
+		<field name="region8description">known for its breathtaking coastline and amazing views along the Columbia River</field>
+		<field name="region7color">cb5dc8</field>
+		<field name="region2description">beautiful mountains and fresh water lakes, outdoor activities galore, national parks ( North Cascades National Park ) and secluded getaways await travelers to the North Cascades region. Cities included within this region are  Bellingham ,  Leavenworth , and  Wenatchee .</field>
+		<field name="region3color">d19097</field>
+		<field name="region5color">bfcf97</field>
+		<field name="region5description">with  Seattle , the states largest city;  Tacoma ,  Olympia  (capital), and the islands and waters between Seattle and the Olympic Peninsula including  Vashon Island  and the  Kitsap Peninsula</field>
+		<field name="region4description">this largely agricultural area includes the cities of  Spokane ,  Cheney  and  Pullman</field>
+		<field name="regionmaptext">Washington regions</field>
+		<field name="regionmapsize">370px</field>
+		<field name="region1color">d1be90</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64774</field>
+		<field name="title">New Jersey</field>
+		<field name="main">regions</field>
+		<field name="name">Southern Shore</field>
+		<field name="region3color">72b970</field>
+		<field name="region4color">c16161</field>
+		<field name="region5color">7376ac</field>
+		<field name="region2color">7db1de</field>
+		<field name="regionmapsize">180px</field>
+		<field name="regionmaptext">New Jersey regions</field>
+		<field name="regionmap">New Jersey regions map.png</field>
+		<field name="region1color">d0c56c</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64775</field>
+		<field name="title">San Juan Islands</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">There are 176 islands that are large enough to be named. The four largest — Orcas, San Juan, Lopez, and Shaw Islands — are served by ferry from the Washington mainland and Vancouver Island BC, and are the most heavily visited by tourists.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64776</field>
+		<field name="title">Florida Panhandle</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">The Panhandle region highlighted on a map of Florida.     Emerald Coast  - The Emerald Coast, also called the Miracle Strip, includes Bay, Okaloosa and Walton counties. The Pensacola area (Escambia and Santa Rosa counties) is also often included in this area.    Forgotten Coast  - This region is comprised of Franklin, Gulf, Jefferson, and Wakulla counties, some of the most rural of Floridas coastal counties.    West Florida  - This is the only part of an east coast state to be in the Central time zone and consists of the ten counties west of the Apalachicola River (Bay, Calhoun, Escambia, Gulf, Holmes, Jackson, Okaloosa, Santa Rosa, Walton, and Washington}. This region was once part of the Spanish and British colonies of West Florida (which included parts of Alabama, Mississippi, and Louisiana as far west as the Mississippi). Its capital was Pensacola.    Middle Florida  - This is the region of North Florida between the Apalachicola and Suwannee Rivers. It was once the core of antebellum Floridas slave-based cotton plantation economy. Only the western half of the Middle Florida region is actually in the Panhandle.  It includes the six easternmost counties of the Panhandle (Franklin, Gadsden, Jefferson, Leon, Liberty, and Wakulla) as well as some counties in the western part of the  North Florida  region.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64777</field>
+		<field name="title">South Texas Plains</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Duval County   Live Oak County   Starr County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64778</field>
+		<field name="title">Finger Lakes</field>
+		<field name="main">regions</field>
+		<field name="name">Eastern Finger Lakes</field>
+		<field name="region2description">There may not be any actual Finger Lakes in this area, but the communities along the Erie Canal and Lake Ontario have much in common with the lakeside villages to the south.</field>
+		<field name="region3color">bf7970</field>
+		<field name="region4color">cf8494</field>
+		<field name="region3description">The western six lakes are smaller and less well known than the eastern five, and you wont find nearly as many wineries, but the Western Finger Lakes have their own attractions.</field>
+		<field name="region2color">d46463</field>
+		<field name="region4description">The eastern five lakes are the most friendly to grapes, and multiple days can be spent just touring the wineries on circuits around the lakes.</field>
+		<field name="region1description">Although far from the lakes themselves,  Rochester  and its suburbs provide urban and suburban amenities in a region otherwise dominated by small towns and villages.</field>
+		<field name="regionmapsize">500px</field>
+		<field name="regionmap">New York - Finger Lakes region map with road shields.png</field>
+		<field name="region1color">d29696</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64779</field>
+		<field name="title">Willamette Valley</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Portland Metropolitan Area</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64780</field>
+		<field name="title">Orange County (California)</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Beach Cities   Inland Cities</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64781</field>
+		<field name="title">South Carolina</field>
+		<field name="main">regions</field>
+		<field name="name">Upcountry South Carolina</field>
+		<field name="region6color">71b37b</field>
+		<field name="region3description">around Charleston and the central coast</field>
+		<field name="region4color">aadf81</field>
+		<field name="region8color">8a84a3</field>
+		<field name="region2color">d5dc76</field>
+		<field name="regionmap">South Carolina regions map.png</field>
+		<field name="region1description">southern coast</field>
+		<field name="region8description">central South Carolina between the capital and Charleston</field>
+		<field name="region10color">4f93c0</field>
+		<field name="region7color">69999f</field>
+		<field name="region2description">northern coast</field>
+		<field name="region9description">south of the capital bordering  Georgia</field>
+		<field name="region3color">ac5c91</field>
+		<field name="region10description">the extreme western South Carolina bordering both Georgia and  North Carolina</field>
+		<field name="region9color">578e86</field>
+		<field name="region5color">b383b3</field>
+		<field name="region4description">the state capital and uplands</field>
+		<field name="regionmapsize">360px</field>
+		<field name="region1color">d09440</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64782</field>
+		<field name="title">Antelope Valley</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Kern County  – Northern portion of the Antelope Valley, including Mojave, Rosamond and most of Edwards Air Force Base   Los Angeles County  – Southern portion of the Valley, including major population centers of Lancaster, Palmdale and Quartz Hill</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64783</field>
+		<field name="title">Panhandle (Nebraska)</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Pine Ridge Indian Reservation  - home of the Oglala Lakota   Wildcat Hills  - known for its scenic rock formations  Niobrara River Valley - world renowned hunting and fishing, a must for any outdoorsman   Prairie Lakes</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64784</field>
+		<field name="title">South Dakota</field>
+		<field name="main">regions</field>
+		<field name="name">Badlands and Black Hills</field>
+		<field name="region2description">Northeast corner, largely agricultural landscape, home to numerous lakes and the Coteau des Prairies</field>
+		<field name="region3color">758eb1</field>
+		<field name="region4color">80ab7c</field>
+		<field name="region3description">Central area bordering the Missouri river</field>
+		<field name="region2color">7bbcc1</field>
+		<field name="region4description">Western quarter of the state, home to the big rugged national parks, forests, grasslands, frontier towns, Mount Rushmore and Crazy Horse, and the states largest Indian Reservations</field>
+		<field name="region1description">Most populous, includes South Dakotas largest city (Sioux Falls) and the junction of Interstate Highways 90 and 29</field>
+		<field name="regionmapsize">500px</field>
+		<field name="regionmap">South Dakota regions map.png</field>
+		<field name="region1color">c97878</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64785</field>
+		<field name="title">Sacramento Valley</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Butte County   Colusa County   Glenn County   Sacramento County   Sutter County   Yolo County   Yuba County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64786</field>
+		<field name="title">Prairies and Lakes</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">The Prairies and Lakes region of  Texas  is divided into 3 bands which run roughly northeast to southwest, plus the  metropolitan area  of  Dallas - Fort Worth .   Cross Timbers  - from the  Oklahoma  border west of Lake Texoma to southeast of  Fort Worth , including areas north, west, and southwest of the Metroplex.    Dallas-Fort Worth Metroplex  - wedged between the Cross Timbers and the Blackland Prairie, includes Dallas and Tarrant Counties.   Blackland Prairie  - from the  Oklahoma  border east of Lake Texoma to just north of  Austin , covers the northeast, east, and south sides of the Metroplex.   Post Oak Savannah  - from the edge of the  Piney Woods  down into the cradle between  Austin  and  Houston .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64787</field>
+		<field name="title">Alabama</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">State of Alabama Regions   Alabama can be characterized as having 4 regions:</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64788</field>
+		<field name="title">Mississippi Delta</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">There are numerous counties, including:   Leflore County    Sunflower County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64789</field>
+		<field name="title">St. Lucie County</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">From east to west, one can visualize St. Lucie County as:  Hutchinson Islands: two long, thin barrier islands--Hutchinson Island and North Hutchinson Island--line almost the entire coast of Saint Lucie County.  The countys only outlet to the sea is at Fort Pierce Inlet. The Indian River, part of the Intracoastal Waterway, separates the islands from the mainland.  Properly speaking, it is not a river but a saltwater lagoon. The Coastal Strip between the Indian River and Florida Turnpike is characterized by sprawling subdivisions and bland big-box stores surrounding US-1, the countys main artery.  Downtown Fort Pierce, on the Fort Pierce Inlet, is the countys only walkable downtown area. Inland Areas are sparsely populated and depend largely on agriculture.  Citrus and cattle are important here, and several large natural areas have been set aside for conservation and the enjoyment of hardy nature-lovers.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64790</field>
+		<field name="title">Lake Barkley</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Kentucky -  Western Waterlands   Tennessee -  Middle Tennessee</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64791</field>
+		<field name="title">Oahu</field>
+		<field name="main">regions</field>
+		<field name="name">regions</field>
+		<field name="content">Two mountain ranges make up the island of Oahu. The Koolau Range ( Hawaiian : Koʻolau) runs along the east side of the island and forms the backdrop for Honolulu; the Waianae Range ( Hawaiian : Waiʻanae) runs parallel to the Koolau Range along the west side.    The majority of visitors to Oahu stay in Honolulu and its Waikiki district. The rest of the island is less visibly touched by tourism, with only a few BBs among the houses and natural sites on the Windward Coast and the North Shore.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64792</field>
+		<field name="title">Minnesota</field>
+		<field name="main">regions</field>
+		<field name="name">Southern Minnesota</field>
+		<field name="region3color">77a7b6</field>
+		<field name="region4color">88ad90</field>
+		<field name="region2color">729a95</field>
+		<field name="regionmapsize">270px</field>
+		<field name="regionmap">Minnesota regions map.png</field>
+		<field name="region1color">7f8dbe</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64793</field>
+		<field name="title">Delaware</field>
+		<field name="main">regions</field>
+		<field name="name">Southern Delaware</field>
+		<field name="region3color">6DC284</field>
+		<field name="region2color">BCA336</field>
+		<field name="regionmapsize">150px</field>
+		<field name="regionmap">Delaware regions map.png</field>
+		<field name="region1color">B44B4B</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

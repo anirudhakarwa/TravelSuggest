@@ -1,0 +1,58 @@
+<add>
+	<doc>
+		<field name="id">8540</field>
+		<field name="title">Gilbertsville</field>
+		<field name="main">camping</field>
+		<field name="name">camping</field>
+		<field name="content">Buckhorn RV Park, 5053 Moors Camp Hwy., 362-3646. 37 sites. Kentucky Dam Village State Park, 113 Administration Dr. (PO Box 69), (800) 325-0146,    . 221 sites. Moors Resort Marina, 570 Moors Rd, (800) 626-5472. On Kentucky Lake. 117 sites.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8541</field>
+		<field name="title">Benton (Kentucky)</field>
+		<field name="main">camping</field>
+		<field name="name">camping</field>
+		<field name="content">Bee Spring Lodge, 626 Bee Spring Rd, 42025, (800) 732-0088. 12 sites. Big Bear Resort, 30 Big Bear Rd, 42025 (800) 922-BEAR. 75 sites. Birmingham Point RV Park, 5295 Barge Island Rd, 354-8482. 15 sites. Lakeside Campground Marina, 12363 US 68 E, (800) 842-9018. On Kentucky Lake. 110 sites. Malcolm Creek Resort, 325 Guthrie Dr, (800) 733-6713. On Kentucky Lake. 42 sites. Sportsmans Anchor Resort, 12888 US 68 E, (800) 326-3625. On Kentucky Lake. 55 sites. Southern Komfort Resort, 460 Southern Komfort Rd, (800) 526-4946. On Kentucky Lake. 200 sites.    Town Country Resort, 1425 Gardner Rd, (800) 347-1470. 31 sites.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8542</field>
+		<field name="title">Door County (Wisconsin)</field>
+		<field name="main">camping</field>
+		<field name="name">camping</field>
+		<field name="content">Door County offers campers a choice of 5 state parks.  Rock Island State Park  Newport State Park  Potawatomi State Park  Whitefish Dunes  Ahnapee State Trail</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8543</field>
+		<field name="title">Eleven Point National Scenic River</field>
+		<field name="main">camping</field>
+		<field name="name">camping</field>
+		<field name="content">Thomasville Access Cane Bluff Access Greer Access Turners South Access Whitten Access</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8544</field>
+		<field name="title">Minnesota</field>
+		<field name="main">camping</field>
+		<field name="name">camping</field>
+		<field name="content">Minnesota - the land of 10,000 Lakes - has beautiful wilderness and camping sites. It is home to the Boundary Waters Canoe Area Wilderness (BWCAW or BWCA), a 1,090,000-acre (4,400 km2) wilderness area within the Superior National Forest in northeastern Minnesota (USA). Northwest of the BWCA is Voyageurs National Park, Minnesota’s only National Park. There are also plenty of  state parks .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8545</field>
+		<field name="title">Aurora (Kentucky)</field>
+		<field name="main">camping</field>
+		<field name="name">Aurora Oaks RV Resort</field>
+		<field name="content">59 full hook up sites with daily, weekly, and yearly rates available.</field>
+		<field name="phone">+1 270 474-2778</field>
+		<field name="address">55 KOA Lane Aurora, KY 42048</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

@@ -1,0 +1,241 @@
+<add>
+	<doc>
+		<field name="id">8511</field>
+		<field name="title">Los Angeles International Airport</field>
+		<field name="main">wait</field>
+		<field name="section">lounges</field>
+		<field name="sub-section">tom bradley international terminal</field>
+		<field name="name">International Lounge (Japan Airlines)</field>
+		<field name="directions">Tom Bradley International Terminal, Departure Level 4</field>
+		<field name="hours">Daily 6AM to last departure</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8512</field>
+		<field name="title">Los Angeles International Airport</field>
+		<field name="main">wait</field>
+		<field name="section">lounges</field>
+		<field name="sub-section">tom bradley international terminal</field>
+		<field name="name">Oneworld Lounges</field>
+		<field name="content">Access to First Class Lounges is restricted to Emerald members and those travelling in First Class.</field>
+		<field name="directions">Tom Bradley International Terminal, Departure Level 5</field>
+		<field name="hours">Fr-Mo, We: 6:30AM-1:30AM, Tu, Th: 9AM-1:30AM</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8513</field>
+		<field name="title">Los Angeles International Airport</field>
+		<field name="main">wait</field>
+		<field name="section">lounges</field>
+		<field name="sub-section">tom bradley international terminal</field>
+		<field name="name">Star Alliance Lounge</field>
+		<field name="content">This lounge is for Gold/Senator members only, or those with first/business class tickets.  The lounge has 54 seats (including VIP rooms) for first class passengers and 210 seats for business class passengers.  There is a business center, wireless internet access, telephone access, showers, hot and cold beverages, hot and cold snacks, newspapers and magazines, and private rooms available by reservation.</field>
+		<field name="directions">located on the fifth floor in Tom Bradley International Terminal, the entrance is past the South-side security checkpoint</field>
+		<field name="hours">9:15AM-12:30AM, varies according to winter/summer airline schedules</field>
+		<field name="url">http://www.staralliance.com/en/benefits/status-benefits/lounges/star-alliance-lounge-los-angeles/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8514</field>
+		<field name="title">Los Angeles International Airport</field>
+		<field name="main">wait</field>
+		<field name="section">lounges</field>
+		<field name="sub-section">all other terminals</field>
+		<field name="name">United Global First Lounge</field>
+		<field name="directions">Terminal 7, between gates 73-75, mezzanine level</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8515</field>
+		<field name="title">Los Angeles International Airport</field>
+		<field name="main">wait</field>
+		<field name="section">lounges</field>
+		<field name="sub-section">all other terminals</field>
+		<field name="name">United Club</field>
+		<field name="content">This lounge is accessible to United Club Members, first and business class passengers, and Star Alliance Gold members.</field>
+		<field name="directions">Terminal 6, across from Gate 62</field>
+		<field name="hours">Daily 5AM-12:45AM</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8516</field>
+		<field name="title">Los Angeles International Airport</field>
+		<field name="main">wait</field>
+		<field name="section">lounges</field>
+		<field name="sub-section">all other terminals</field>
+		<field name="name">Flagship Lounge (American Airlines)</field>
+		<field name="directions">Terminal 4, across from Gate 40, entrance through Admirals Club lounge</field>
+		<field name="hours">Daily 5:15AM-12AM</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8517</field>
+		<field name="title">Los Angeles International Airport</field>
+		<field name="main">wait</field>
+		<field name="section">lounges</field>
+		<field name="sub-section">all other terminals</field>
+		<field name="name">Admirals Club (American Airlines)</field>
+		<field name="directions">Terminal 4, on the Concourse level across from Gate 40</field>
+		<field name="hours">Daily 5AM-12:30AM</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8518</field>
+		<field name="title">Los Angeles International Airport</field>
+		<field name="main">wait</field>
+		<field name="section">lounges</field>
+		<field name="sub-section">all other terminals</field>
+		<field name="name">United Club</field>
+		<field name="content">This lounge is accessible to United Club Members, first and business class passengers, and Star Alliance Gold members.</field>
+		<field name="directions">Terminal 7, across from gate 71A</field>
+		<field name="hours">Daily 5AM-11PM</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8519</field>
+		<field name="title">Los Angeles International Airport</field>
+		<field name="main">wait</field>
+		<field name="section">lounges</field>
+		<field name="sub-section">all other terminals</field>
+		<field name="name">Board Room (Alaska Airlines)</field>
+		<field name="directions">Terminal 6, elevator near gate 64</field>
+		<field name="hours">Daily 5AM-10PM</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8520</field>
+		<field name="title">Detroit Metropolitan Wayne County Airport</field>
+		<field name="main">wait</field>
+		<field name="name">Water Feature</field>
+		<field name="address">McNamara Terminal, Concourse A</field>
+		<field name="url">http://www.metroairport.com/TravelerInfo/GeneralInfo/CoolStuff/WaterFeature.aspx</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8521</field>
+		<field name="title">O'Hare International Airport</field>
+		<field name="main">wait</field>
+		<field name="name">wait</field>
+		<field name="content">OHare doesnt have much in the way of amenities, but there at least a few distractions:         Kids Play interactive exhibits are located in Terminal 2 ("Kids on the Fly"), operated by the Chicago Childrens Museum from  Navy Pier . Theyre open during airport hours.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8522</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">wait</field>
+		<field name="name">wait</field>
+		<field name="content">The airport atrium with shops and hotel.  Security screening is performed in the central landside terminal before taking the tram to the airsides and, as in all U.S. airports, only ticketed passengers are allowed past security.  Security lines can become extremely long (1nbsp;hr), especially during the summer tourist season and near holidays. Combined with long check-in lines, it is advisable to arrive 2-3nbsp;hours before your scheduled departure.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8523</field>
+		<field name="title">John F. Kennedy International Airport</field>
+		<field name="main">wait</field>
+		<field name="name">wait</field>
+		<field name="content">Several airline lounges are scattered throughout JFK: Korean Air has one in Terminal 1; Delta has four, one in Terminal 2 and three in Terminal 3; Emirates, KLM, Swiss, and Virgin Atlantic each operate lounges in Terminal 4; United has one in Terminal 7; and American Airlines has two in Terminal 8, one in Concourse B and the other in Concourse C.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8524</field>
+		<field name="title">O'Hare International Airport</field>
+		<field name="main">wait</field>
+		<field name="name">Brachiosaurus skeleton</field>
+		<field name="content">Airports are big affairs with large budgets, but only a few can boast a complete dinosaur skeleton. And not just any skeleton, but that of one of the largest animals ever to walk the earth. The Brachiosaurus cast skeleton is in Terminal 1s Concourse B indefinitely as part of a promotional agreement between the airport and the Field Museum in   Near South .  It originally stood in Stanley Field Hall at the museum and its construction was financed in large part by the contributions of over 6,000 individuals, schools and companies.  Its certainly worth a look if you are in the terminal, and dont worry — you cant miss it.</field>
+		<field name="directions">Terminal 1, Concourse B</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8525</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">wait</field>
+		<field name="name">wait</field>
+		<field name="content">There are several airline lounges scattered around various terminals. American Admirals Clubs can be found at 4 different locations, A24, B6, C20, D24. Priority Pass is located at D21 and E7. The Qantas Business Lounge, British Airways, Korean Air, Lufthansa, and The Club at DFW are all next to gate D21 in Terminal D. While the United Club and Delta Sky Club are in Terminal E at E5 and E10 respectively.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8526</field>
+		<field name="title">O'Hare International Airport</field>
+		<field name="main">wait</field>
+		<field name="name">Butch OHares fighter plane</field>
+		<field name="content">A replica of the F3F-4 fighter plane flown by the airports namesake hangs in the main hall of Terminal 2.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8527</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">wait</field>
+		<field name="name">Terminal D Theaters</field>
+		<field name="content">Has 3 different video feeds on 10 screens; CNN, TBS, and Time Warner Classic Movies. Each media seat has an audio jack to plug your headphones into.</field>
+		<field name="address">Terminal D, gate D18</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8528</field>
+		<field name="title">Hartsfield–Jackson Atlanta International Airport</field>
+		<field name="main">wait</field>
+		<field name="name">wait</field>
+		<field name="content">Although the airport has all the conveniences youd expect (several for-pay Wi-Fi providers and free access to a few Atlanta web sites, an assortment of slow overpriced restaurants, etc.) there is not much else to see or do. If you find yourself with free time, go contemplate the Zimbabwean stone statues in the underground corridor between Concourses T and A, or check out the scenery in brand-new Concourse F. If you want a bit more ambiance, Concourse E has a food court with live piano.  The airport is also home to a few landmarks:   In the Domestic Atrium there is a dinosaur skeleton on temporary loan from Atlantas Fernbank Museum.  In South Terminal there is a collection of model World War II aircraft and "sweetheart jewelery."  In the underground Transportation Mall between Concourse T and Concourse A there are Zimbabwean stone sculptures.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8529</field>
+		<field name="title">Detroit Metropolitan Wayne County Airport</field>
+		<field name="main">wait</field>
+		<field name="name">Light Tunnel</field>
+		<field name="address">McNamara Terminal, connecting concourses A and B/C</field>
+		<field name="url">http://www.metroairport.com/TravelerInfo/GeneralInfo/CoolStuff/Tunnel.aspx</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8530</field>
+		<field name="title">John F. Kennedy International Airport</field>
+		<field name="main">wait</field>
+		<field name="name">Oasis Lounge</field>
+		<field name="content">While its pricey, its also perhaps the best place to kill time at JFK. There are shower facilities, free Wi-Fi, meals served, a complimentary bar with snacks, and a comfy lounge with TVs.</field>
+		<field name="price">$45 for four hours, $10/hour after that</field>
+		<field name="address">Terminal 4</field>
+		<field name="hours">Open 24 hours</field>
+		<field name="url">http://www.theoasisloungejfk.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8531</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">wait</field>
+		<field name="name">Kids Play Areas</field>
+		<field name="content">Feature foam landscape and kid-safe activities. The D33 playground is at a McDonalds.</field>
+		<field name="address">Gates A13, B12, C14, D10, D33</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8532</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">wait</field>
+		<field name="name">Art Program</field>
+		<field name="content">The new Terminal D and Skylink people mover included millions of dollars in public art when it was opened in 2005. More than 30 artists installed murals, medallions and terrazzo floors, painting, and sculptures. There is also a sculpture garden outside of the Terminal D parking garage on the arrival level.</field>
+		<field name="address">Around Terminal D and Skylink</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

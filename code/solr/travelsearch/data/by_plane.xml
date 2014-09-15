@@ -1,0 +1,38 @@
+<add>
+	<doc>
+		<field name="id">63468</field>
+		<field name="title">Lakewood (Colorado)</field>
+		<field name="main">by plane</field>
+		<field name="name">by plane</field>
+		<field name="content">By plane then you are coming from Denver International Airport which isnt too far away. Denver International Airport   , (IATA: DEN, ICAO: KDEN). Commonly referred to as DIA. It is located about 20 miles to the east of downtown Denver. Frontier Airlines, United Airlines, and Southwest Airlines all maintain hubs at the airport in Concourses A, B, and C respectively. Most other major domestic carriers also have service here.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63469</field>
+		<field name="title">Decatur (Illinois)</field>
+		<field name="main">by plane</field>
+		<field name="name">by plane</field>
+		<field name="content">Decatur Municipal Airport(),   . Air service to both  St. Louis  and  Chicago .  The Decatur Municipal Airport has been designated a Foreign Trade Zone and maintains a U.S. Customs Service office at the airport.+</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63470</field>
+		<field name="title">West Bend (Wisconsin)</field>
+		<field name="main">by plane</field>
+		<field name="name">by plane</field>
+		<field name="content">The city has one small airport, the West Bend Municipal Airport (KETB). Few charter flights may be available to and from the airport. There are no major airlines flying to or from the airport.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63471</field>
+		<field name="title">Ozark National Scenic Riverways</field>
+		<field name="main">by plane</field>
+		<field name="name">by plane</field>
+		<field name="content">Springfield-Branson National Airport ()    US Hwy 60 east Van Buren, Missouri or turn at Winona, Missouri on Highway 19 go north to Eminence  2.5 hours.  Lambert - Saint Louis International Airport ()    Interstate 44 southwest to Rolla, take Highway 19 South through Salem.  3 hours.  Memphis International Airport ()    Interstate 55 north to Sikeston, Hwy 60 west to Van Buren, Missouri. 3 hours</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

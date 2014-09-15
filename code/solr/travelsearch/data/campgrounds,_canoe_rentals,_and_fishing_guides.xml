@@ -1,0 +1,41 @@
+<add>
+	<doc>
+		<field name="id">75193</field>
+		<field name="title">Mammoth Spring (Arkansas)</field>
+		<field name="main">campgrounds, canoe rentals, and fishing guides</field>
+		<field name="name">Mammoth Spring Campground</field>
+		<field name="content">Is a friendly campground within walking distance of Mammoth Spring State Park and the shops and restaurants on Main Street.</field>
+		<field name="url">https://www.facebook.com/mammothspringcampground</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75194</field>
+		<field name="title">Mammoth Spring (Arkansas)</field>
+		<field name="main">campgrounds, canoe rentals, and fishing guides</field>
+		<field name="name">Spring River Flies and Guides</field>
+		<field name="content">Is Springs Rivers primary flyfishing guide service and operates a retail shop a few miles south on U.S. Highway 63.</field>
+		<field name="url">http://www.springriverfliesandguides.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75195</field>
+		<field name="title">Mammoth Spring (Arkansas)</field>
+		<field name="main">campgrounds, canoe rentals, and fishing guides</field>
+		<field name="name">Mammoth Spring Canoe Rental</field>
+		<field name="content">Is the nearest canoe rental to town and allows easy, paved, highway access.</field>
+		<field name="url">http://www.mscanoerental.net</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">75196</field>
+		<field name="title">Mammoth Spring (Arkansas)</field>
+		<field name="main">campgrounds, canoe rentals, and fishing guides</field>
+		<field name="name">campgrounds, canoe rentals, and fishing guides</field>
+		<field name="content">Many Islands Canoe Rental  Riverbend Campground  Riverside Resort  Spring River Oaks</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

@@ -1,0 +1,29 @@
+<add>
+	<doc>
+		<field name="id">105365</field>
+		<field name="title">Washington County (Maryland)</field>
+		<field name="main">parks and recreation</field>
+		<field name="name">national parks</field>
+		<field name="content">Antietam National Battlefield    Appalachian National Scenic Trail    Chesapeake and Ohio Canal National Historical Park    Harpers Ferry National Historical Park</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105366</field>
+		<field name="title">Washington County (Maryland)</field>
+		<field name="main">parks and recreation</field>
+		<field name="name">state parks</field>
+		<field name="content">Fort Frederick State Park    Fort Tonoloway State Park    Gathland State Park    Greenbrier State Park    South Mountain State Park    Washington Monument State Park</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105367</field>
+		<field name="title">Washington County (Maryland)</field>
+		<field name="main">parks and recreation</field>
+		<field name="name">other recreation</field>
+		<field name="content">Crystal Grottoes , the only show caves in Maryland.   Sideling Hill  man-made mountain pass on Interstate 68/U.S. Route 40 roughly 5 miles west of Hancock shows off 100 million years+ of rock formation with Information Center and walkways on the premises.   Stoney Creek Farm   Washington County Rural Heritage Museum     Most non-historic attractions are located in  Hagerstown  or its immediate suburbs.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

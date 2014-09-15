@@ -1,0 +1,13 @@
+<add>
+	<doc>
+		<field name="id">51327</field>
+		<field name="title">Brownsville (Washington)</field>
+		<field name="main">eat, drink</field>
+		<field name="name">Brownsville Marine Deli</field>
+		<field name="content">locally famous deli.</field>
+		<field name="phone">+1 360 692-4127</field>
+		<field name="address">9790B Ogle Rd NE</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

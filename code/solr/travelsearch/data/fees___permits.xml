@@ -1,0 +1,11 @@
+<add>
+	<doc>
+		<field name="id">51328</field>
+		<field name="title">Great Smoky Mountains National Park</field>
+		<field name="main">fees / permits</field>
+		<field name="name">fees / permits</field>
+		<field name="content">There are no entrance fees charged for visiting this park thanks to restrictions imposed when the park was established.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

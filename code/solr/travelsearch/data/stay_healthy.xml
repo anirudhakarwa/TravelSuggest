@@ -1,0 +1,463 @@
+<add>
+	<doc>
+		<field name="id">91399</field>
+		<field name="title">Allentown</field>
+		<field name="main">stay healthy</field>
+		<field name="name">hospitals</field>
+		<field name="content">If you are in need of medical attention, here are some hospitals in the area:    Sacred Heart Hospital , 421 Chew St, Allentown, 610-776-4500   Lehigh Valley Hospital - 17th Street , 1627 W Chew St, Allentown, 610-402-CARE   Lehigh Valley Hospital - Cedar Crest , 1200 S Cedar Crest Blvd, Allentown, 610-402-CARE   St. Lukes Hospital , 1736 Hamilton St, Allentown, 610-628-8300</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91400</field>
+		<field name="title">Arizona</field>
+		<field name="main">stay healthy</field>
+		<field name="name">disease</field>
+		<field name="content">Like many western states, Arizona has had cases of hantaviral pulmonary syndrome, 62 confirmed cases in the state since 1993. Realistically, however, hantavirus is of very little concern to the traveler; but sensible precautions should be applied. Do NOT venture in a wild animals den or handle any dead animals; particularly rodents, as rodents seem to be the primary vector of the illness. There is no cure for the disease, treatment mainly consists of supportive therapies. The main defense against the virus is prevention.   For more information on prevention and transmission, visit the  Centers for Disease Control and Prevention  website on hantaviruses.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91401</field>
+		<field name="title">California</field>
+		<field name="main">stay healthy</field>
+		<field name="name">air stagnation</field>
+		<field name="content">Occasionally, there will be an advisory issued for air stagnation, which is a phenomenon involving an air mass that cannot move and therefore stagnates over an area for an extensive period of time. Air pollutants can cause breathing difficulties for those with existing respiratory conditions.  If you have a respiratory condition, refer to the  National Weather Service  website on air quality to see if any such advisories have been issued for the areas you might visit.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91402</field>
+		<field name="title">California</field>
+		<field name="main">stay healthy</field>
+		<field name="name">disease</field>
+		<field name="content">Like many western states, California has had cases of hantaviral pulmonary syndrome, 42 confirmed cases in the state since 1993. Realistically, however, hantavirus is of very little concern to the traveler; but sensible precautions should be applied. Do NOT venture in a wild animals den or handle any dead animals; particularly rodents, as rodents seem to be the primary vector of the illness. There is no cure for the disease, treatment mainly consists of supportive therapies. The main defense against the virus is prevention.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91403</field>
+		<field name="title">Charlotte</field>
+		<field name="main">stay healthy</field>
+		<field name="name">breathing</field>
+		<field name="content">Charlotte is not a good allergy city, due to the abundance of flowering trees and greenspace.  Smog has become an increasing concern in recent years, as the city becomes more populated and in turn hosts more auto traffic. Local authorities monitor ozone levels and make  public announcements  when "vulnerable" groups (children, the elderly, etc.) are at risk. These announcements are carried on local television, radio, and newspapers.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91404</field>
+		<field name="title">Charlotte</field>
+		<field name="main">stay healthy</field>
+		<field name="name">smoking</field>
+		<field name="content">North Carolina is known as "Tobacco Road", and cigarettes are almost ubiquitous in Charlotte. However, due to changing attitudes about smoking, North Carolina passed a law that went into effect in January 2010 banning smoking in all bars and restaurants in the state. It is still legal to smoke on the street, though you may want to be considerate of others if you are in a crowded area. Smoking is also permitted at most nightclubs provided they do not serve food. At concert venues (such as Bobcats Arena) there are outdoor decks for smokers.   In general, it is a good idea to be polite about smoking... whether you smoke or not. If you smoke, try to do it in an area in which others wont be bothered by it. If you are a non-smoker, be aware in advance of whether you will likely be bothered by smoke in a particular place. In North Carolina people tend to be much less sensitive to smoking than in other parts of the country, so you will likely be received with a bit of bewilderment if you make a scene about it.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91405</field>
+		<field name="title">Lee's Summit</field>
+		<field name="main">stay healthy</field>
+		<field name="name">hospitals</field>
+		<field name="content">TMC Lakewood, 7900 Lees Summit Rd, (816) 404-7000,     Lees Summit Medical Center, 2100 NE Blue Pkwy, (816) 282-5000,     St. Lukes East - Lees Summit, 100 NE St. Lukes Blvd, (816) 347-5000,</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91406</field>
+		<field name="title">New Mexico</field>
+		<field name="main">stay healthy</field>
+		<field name="name">disease</field>
+		<field name="content">Like many western states, New Mexico has had cases of hantaviral pulmonary syndrome. The state has been able to confirm 84 cases of the illness since 1993, which is a significantly higher incidence rate than any other western state. Realistically, however, hantavirus is of very little concern to the traveler; but sensible precautions should be applied. Do NOT venture in a wild animals den or handle any dead animals; particularly rodents, as rodents seem to be the primary vector of the illness. There is no cure for the disease, treatment mainly consists of supportive therapies. The main defense against the virus is prevention.   For more information on prevention and transmission, visit the  CDC  website on hantaviruses.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91407</field>
+		<field name="title">United States of America</field>
+		<field name="main">stay healthy</field>
+		<field name="name">disease</field>
+		<field name="content">Being a highly industrialized nation, the United States is largely free from most serious communicable diseases found in many developing nations; however, the HIV rate is higher than in Canada and Western Europe, with about a 0.5% infection rate in the overall population.  Two diseases that, while rare, are worth becoming educated about are rabies and Lyme disease.  Rabies is more prevalent in eastern regions of the country and may be contracted from animal bites; if you are bitten by any mammal see a doctor quickly – do not wait for symptoms.  Lyme disease is spread via the deer tick, which are prevalent in the woodlands and open fields of many rural areas. When venturing into the outdoors, it is a good idea to apply an insect repellent onto exposed skin surfaces that is effective against deer ticks.  Other diseases that are endemic within the United States, but are of far less concern, include Hantaviral Pulmonary Syndrome (found in western regions), Rocky Mountain Spotted Fever (mostly in the Rocky Mountain region), West Nile Virus (all regions)and Eastern/Western Equine Encephalitis (particularly in the mid-west region).  These diseases are extraordinarily rare and the medical system of the United States is very much capable of handling any of these when necessary.  For the latest in travelers health information pertaining to the United States, including advisories and recommendations, visit the Centers for Disease Control and Prevention destination  United States website</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91408</field>
+		<field name="title">United States of America</field>
+		<field name="main">stay healthy</field>
+		<field name="name">health care</field>
+		<field name="content">American health care is generally first-class but can be very expensive. Most Americans have private health insurance. The largest state-run health program, Medicare, is mainly for the elderly. Medicaid is a largely similar program for the poor. Travelers should ensure their  travel insurance  is valid for the U.S. Given the high costs, some "world-wide" insurance specifically does not cover the U.S.  To the patient, Americas public (20%), private profit-making (20%), and private non-profit-making (60%) hospitals are generally indistinguishable. Inner city public hospitals may be more crowded and less well maintained, but as a whole both costs and service levels are consistently high in all types. No hospital can refuse a life-threatening emergency case. Private hospitals may only stabilize such patients before sending them to a nearby public hospital, which will generally act as the regional center for 24 hr emergency treatment.  In a life-threatening emergency, call 911 to summon an ambulance to take you to the nearest hospital emergency room ("ER"), or in less urgent situations get to the hospital yourself and register at the ERs front desk.  Emergency rooms treat patients regardless of their ability to pay, even though their services are not free. Expect to pay at least $500 for a visit, plus the cost of any specific services or medications you are given. Avoid using ERs for non-emergency walk-in care; they are 3–4 times more expensive than other options and your non-urgent condition means you will have a wait of hours or maybe days. Most urban areas also have minor emergency centers (also called "urgent care", etc.) for situations where a full emergency room is not necessary (e.g. superficial lacerations). Their hours may be limited; few are open at night.  Walk-in clinics can provide routine medical care; to find one, check the yellow pages (see  By phone  below) under "Clinics", or call a major hospital and ask. Patients see a doctor or nurse practitioner without an appointment (but often with a bit of a wait). They are typically very up-front about fees, and always accept credit cards. Make sure the clerk knows you will be paying "out of pocket"; if they assume an insurance company is paying, they may inflate the bill with unnecessary extras.  Dentists are common across the country. They are accustomed to explaining fees over the phone, and most will accept credit cards.  Government-supported clinics offering free or low-cost testing and treatment for sexually transmitted diseases are widespread. Local Health Departments will provide more details. Many county clinics offer primary health care services as well, however these services are geared towards low-income residents and not foreign travelers.  Planned Parenthood  (1-800-230-7526) is a private agency with clinics and centers around the country providing birth control and other reproductive health services for both females and males.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91409</field>
+		<field name="title">Washington (state)</field>
+		<field name="main">stay healthy</field>
+		<field name="name">disease</field>
+		<field name="content">Like many western states, Washington State has had cases of hantaviral pulmonary syndrome, 41 confirmed cases in the state since 1993. Realistically, however, hantavirus is of very little concern to the traveler; but sensible precautions should be applied. Do NOT venture in a wild animals den or handle any dead animals; particularly rodents, as rodents seem to be the primary vector of the illness. There is no cure for the disease, treatment mainly consists of supportive therapies. The main defense against the virus is prevention.   For more information on prevention and transmission, visit the  Centers for Disease Control and Prevention  website on hantaviruses.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91410</field>
+		<field name="title">Wilmington (North Carolina)</field>
+		<field name="main">stay healthy</field>
+		<field name="name">hospitals</field>
+		<field name="content">New Hanover Regional Medical Center, 2131 S. 17th St., +1 910 343-7000,   . Cape Fear Hospital, 5301 Wrightsville Ave., +1 910 452-8100,   . Medac Convenient Medical Care,   . 3 locations: 3710 Shipyard Blvd., +1 910 791-0075 1442 Military Cutoff Rd., +1 910  256-6088 8115 Market St., +1 910 686-1972</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91411</field>
+		<field name="title">Wilmington (North Carolina)</field>
+		<field name="main">stay healthy</field>
+		<field name="name">pet health</field>
+		<field name="content">Just in case a non-human companion needs medical treatment or to be boarded during your travels: Coastal Carolina Animal Hospital 5650 Carolina Beach Rd., +1 910 792-9600.  Needham Animal Hospital 1531 S 41st St., +1 910 799-2970.  Wrightsville Beach Pet Hospital 6324 Oleander Dr., +1 910 397-7770. Banfield the Pet Hospital 4715 New Centre Dr, +1 910 796-0401</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91412</field>
+		<field name="title">Yakima</field>
+		<field name="main">stay healthy</field>
+		<field name="name">air stagnation</field>
+		<field name="content">Sometimes there will be an advisory issued for poor air quality due to stagnation. Because of Yakimas location within a mountain valley, air sometimes settles and becomes stagnate for an extended period of time. During this phenomenon, pollutants often accumulate and subsequently the air quality becomes poorer than usual, and can affect those individuals who have existing respiratory conditions.  You can refer to the  National Weather Service  website on air quality to see if any such advisories have been issued for the Yakima Valley region.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91413</field>
+		<field name="title">Yakima</field>
+		<field name="main">stay healthy</field>
+		<field name="name">disease</field>
+		<field name="content">There have been confirmed cases of hantaviral pulmonary syndrome in the Yakima Valley; the most recent of which occurred during the summer of 2011.   Although this disease is very rare, it is important to always take precautions when entering confined spaces, or places that are dusty and underexposed to sunlight, where conditions may be ideal for the presence of a rodent population.  For more information on prevention and transmission, visit the CDC website    on hantaviruses.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91414</field>
+		<field name="title">Yakima</field>
+		<field name="main">stay healthy</field>
+		<field name="name">heat exhaustion</field>
+		<field name="content">During the summer months, the temperature in Yakima and the greater Yakima Valley often exceeds 100 degrees Fahrenheit.   If you are to be outside for long periods of time, be sure to drink plenty of WATER and limit the intake of alcohol and caffeine to prevent dehydration and heat stroke. Should you be planning on venturing off into the surrounding landscape, follow desert survival guidelines. Make sure you KNOW where you are going, tell someone where your destination will be, and take an ample water supply with you.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91415</field>
+		<field name="title">Mecklenburg County (North Carolina)</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">Allergy sufferers be warned, because of its natural beauty Charlotte and its surrounding areas will be hell on you during the spring. If you are sensitive to high pollen levels, you should consider coming another time, or bring meds.  Char-Meck does not have a high HIV rate.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91416</field>
+		<field name="title">Kankakee</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">The Kankakee area is served by Provena St. Marys Hospital, 500 West Court Street, Kankakee, and the Riverside Medical Center, 350 North Wall Street, Kankakee.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91417</field>
+		<field name="title">San Leandro</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">As with almost every city in the United States, San Leandro has at least one hospital. The San Leandro Hospital is a health care facility treating the most basic of health needs such as the flu to various surgeries and basic emergencies. If in a dire emergency head to Eden Hospital in Castro Valley as it is a Level 1 trauma center. San Leandro also has another hospital, Kindred Hospital in the hills. The hospital has no emergency service.  San Leandro Hospital, 13855 East 14th Street, +1 (510) 357-6500 Kindred Hospital, 2800 Benedict Drive, +1 (510) 357-8300</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91418</field>
+		<field name="title">Havertown</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">•	Kindred Hospital-2000 Old West Chester Pike, Havertown/610-853-7000  •	Delaware County Community Hospital-501 North Lansdowne Ave., Drexel Hill/610-284-8100  •	Doctors Express Care-737 West Chester Pike, Havertown/610-853-9900</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91419</field>
+		<field name="title">Lake Wales</field>
+		<field name="main">stay healthy</field>
+		<field name="name">Lake Wales Medical Center</field>
+		<field name="content">Small hospital.</field>
+		<field name="directions">One block N of S.R.nbsp;60 on 11th St</field>
+		<field name="phone">+1 863 676-1433</field>
+		<field name="store">27.89568,-81.565465</field>
+		<field name="address">410 S 11th Street</field>
+		<field name="url">http://www.lakewalesmedicalcenter.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91420</field>
+		<field name="title">Vicksburg</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">The largest hospital in Vicksburg is the River Region Medical Center (1-601-883-5000).  It is a modern full-care center, and is equipped to handle nearly most major medical problems and emergencies.  As with any hospital stay in the USA, be sure that you are adequately insured (or expect a very large bill for services which can easily cost into the tens of thousands of dollars for serious medical treatment in an emergency room) as there is not a national health care system.   Be aware that humidity and the summer heat can be very intense.  Be sure to hydrate yourself with either sports drinks or water (consumption of alcohol is not recommended regardless of what some may otherwise claim).   Mosquitoes along the riverfront can be annoying during the warmer months.  Be sure to wear repellents that have a high concentration of  DEET  to reduce the risk of mosquito transmitted diseases.  Percentages of 25% or more DEET is recommended to repel most of the insects.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91421</field>
+		<field name="title">Kennewick</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">During the summer months, the temperature in Kennewick and the greater Tri-Cities region often exceeds 100nbsp;°F. If you plan on being outside for long periods of time, be sure to drink plenty of WATER and limit the intake of alcohol and caffeine to prevent dehydration and heat stroke.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91422</field>
+		<field name="title">North America</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">Tap water is usually safe to drink in Canada and the United States.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91423</field>
+		<field name="title">Beaver Island</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">The islands Rural Health Center (231-448-2275)    is staffed by a Nurse Practitioner, who has radio access to licensed physicians in Charlevoix.  Paramedics are on duty with the islands emergency services department, and medevac to a mainland hospital is available (weather permitting) but expensive if needed.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91424</field>
+		<field name="title">Southport (North Carolina)</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">J Arthur Dosher Memorial Hospital 924 N Howe St</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91425</field>
+		<field name="title">Ohio</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">Ohioans passed "SmokeFree Ohio" ballot measure in 2006 banning smoking in most public areas with very few exceptions.  Hotels that have designated smoking rooms in hotels, motels, and other lodging facilities may still allow smoking in smoking rooms under the new law.  Restaurants and bars are forbidden from allowing smoking or ashtrays on their premises unless they have an outdoor patio.  If youre at a place that is in violation of the law you can report the violation to the Ohio Department of Health by calling the toll-free number: 1-866-559-6446.  Alternatively, you can email a complaint to  NoSmoke@odh.ohio.gov .  You must include the following information for a complaint to be followed up on: the business name, nature of the complaint, a complete address; including the street number, street name, city and zip code.  Even if you are driving through Ohio, in the winter months you want to make sure that you have enough clothes to keep you warm in the event you have difficulties. Temperatures often get below -0- F. Drivers heading into Ohio from the South will want to make sure their vehicles are prepared for freezing weather. Have the antifreeze in your radiator checked as well as replacing any widow washer solvent with a product that will not freeze. Be prepared with extra warm clothes, shoes, head cover and gloves.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91426</field>
+		<field name="title">Pine City</field>
+		<field name="main">stay healthy</field>
+		<field name="name">Pine City Health and Fitness</field>
+		<field name="directions">Located near the Pine County Courthouse.</field>
+		<field name="phone">+1 320 629-5242</field>
+		<field name="address">1687 Main Street N</field>
+		<field name="url">http://www.pinecityhealth.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91427</field>
+		<field name="title">Belzoni</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">During the warmer months of the year, you should seriously consider using mosquito repellent with a high  DEET  concentration.  This may help reduce the opportunity of becoming infected with the West Nile virus    that is transmitted by mosquitoes.  In the Delta region, mosquitoes are awful during the summer months.  In the event you require emergency medical attention, there is a very small county hospital (government owned) in the city.  The hospital is called Humphreys County Memorial Hospital, and it is located at 500 Ccc (no that is not a typo) Road (nearby the intersection of Rose Drive and Virgina Street).  Determining on the severity of ones illness or injury, it is not unreasonable to expect the patient to be transported to the nearest full-size hospital located at Greenwood, called the Greenwood Leflore Hospital.  The hospital in Greenwood is about an hours drive away from Belzoni.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91428</field>
+		<field name="title">Iowa City</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">University of Iowa Hospital and Clinics Has Level 1 Trauma Center as well as urgent care at the Emergency Treatment Center. The Emergency entrance is located right off Grand Ave. +1 319 356-2233. Non Emergency and Urgent Care, contact the University of Iowa Family Care Center at +1 319 384-8442.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91429</field>
+		<field name="title">Lake Wales</field>
+		<field name="main">stay healthy</field>
+		<field name="name">Lake Wales Medical Walk-in Clinic</field>
+		<field name="phone">+1 863 676-6007</field>
+		<field name="store">27.894528,-81.557893</field>
+		<field name="address">1611 S.R. 60 E</field>
+		<field name="hours">M Tu Th 8AM-3PM; W F 8AM-noon</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91430</field>
+		<field name="title">Utah</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">Because of Utahs High Elevation those not accustomed can be subject to mild altitude sickness, especially when hiking.  Always pace yourself when hiking, and drink plenty of water, especially in summer time.    The high elevation also makes the exposure to UV rays far more intense than other places.  Too much exposure can lead to skin conditions down the road, including skin cancer.  Always apply sunscreen when you are expecting prolonged time in the sun.  Its advised to do this year round.  Certain parts of Utah are valley regions.  In the winter time they are subject to days of pollution inversions.  Those with respiratory and heart conditions should advise the air quality index to see the primary pollutant.  You usually can find the indexes in the daily paper as well as watching local news and The Weather Channel.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91431</field>
+		<field name="title">Monteagle</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">Monteagle Pediatrics, 25 Spring Street (behind CVS Pharmacy). (931) 924-7000. Monteagle Pediatrics provides well and sick care for infants, children, and adolescents. Open Monday through Friday and Saturday mornings.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91432</field>
+		<field name="title">South Bend</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">Drinking water is as safe in South Bend as anywhere else in the country.  Do not swim in the St. Joseph River or accidentally ingest river water as the Western half of the St. Joe is still quite polluted.  A 5-phase project to reroute old stormwater pipelines out of the river is nearly halfway finished, and is the primary remaining obstacle toward relative purity.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91433</field>
+		<field name="title">Dundee (Florida)</field>
+		<field name="main">stay healthy</field>
+		<field name="name">Dundee Medical Walk-in Clinic</field>
+		<field name="phone">+1 863 439-7377</field>
+		<field name="address">28055 U.S. Hwy 27</field>
+		<field name="hours">M-F 8:30AM-4:30PM</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91434</field>
+		<field name="title">Des Moines</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">In any emergency which requires medical assistance, call 911.  All hospitals—not clinics—have 24-hour emergency services available.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91435</field>
+		<field name="title">Los Angeles</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">Los Angeles is notorious for air pollution problems.  However, air quality in the city has improved dramatically in recent decades, and Los Angeles has even fallen from its Number One position on lists of the worst air in the United States due to aggressive cleanup efforts on behalf of the state and regional air quality authorities. Generally, smog is worst during summer months and is worse further inland where it is away from the ocean breezes and gets trapped by the surrounding mountains. "Smog Alert" days are at an all time low, but air pollution can still become a problem if a wildfire is burning in surrounding hills.  For more information, visit the  AQMD (Air Quality Management District) website  for air quality information in the region.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91436</field>
+		<field name="title">Memphis</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">Memphis has some of the best hospitals in the region.  Methodist, Baptist, and Saint Francis are the main hospitals in the city.  The Regional Medical Center at Memphis (The Med), a city owned hospital, has one of the best trauma and burn centers in the Mid-South.  There are many clinics in the area as well, many of which are operated by the hospital systems.  Some of the hospitals in the city, though, can have long lines in emergency rooms.  If you are not seriously injured, it would be best to go to one of the minor medical clinics or to drive to one of the hospitals in the suburbs of Memphis such as Methodist Germantown, Baptist East, or Saint Francis Bartlett. Also, if your children catch cancer in Memphis, just stop on over to world- renowned Saint Jude Childrens Research Hospital.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91437</field>
+		<field name="title">Buffalo</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">In case of medical emergency, Buffalo is well-served by a wide variety of hospitals and other medical facilities. The Erie County Medical Center on Grider Street is Buffalos largest hospital and is a teaching facility for students of the University of Buffalo Medical School. Kaleida Health operates Buffalo General Hospital, Women and Childrens Hospital of Buffalo, and (in the suburbs) Millard Fillmore Suburban Hospital and DeGraff Memorial Hospital. Catholic Health Systems of Buffalo operates Mercy Hospital and Sisters of Charity Hospital, which each have one city location and one suburban location.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91438</field>
+		<field name="title">Clarence</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">In case of medical emergency, Erie County, including Clarence, is well-served by a wide variety of hospitals and other medical facilities. The nearest major medical facility to Clarence is  Millard Fillmore Suburban Hospital , located at 1540 Maple Rd in the neighboring town of Amherst. For non-emergency situations,  Western New York Immediate Care  has a facility at 7616 Transit Rd, across from the Eastern Hills Mall.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91439</field>
+		<field name="title">Mississippi</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">During the warmer months of the year, you should seriously consider using mosquito repellent with a high  DEET  concentration.  This may help reduce the opportunity of becoming infected with the West Nile virus that is transmitted by mosquitoes.  In the Delta region, mosquitoes are awful during the summer months.   Occasionally throughout the year, youll read or hear about boil water alerts (usually as a result of a water treatment center that had lost its water pressure for one reason or another).  Although it is safe to shower and bathe with the water, it is not advisable to cook, drink, or brush your teeth using untreated tap water during an alert notice.  Check the with the Mississippi State department of Health for  current notice alerts .   During the summer months, the humidity and high temperatures can be very intense for those who have never lived in hot muggy environments before.  Be sure to drink adequate amounts of water or sport drinks (such as Gatorade) if you are going to work or play outdoors during the summer.   The larger cities in Mississippi have sufficient levels of hospital care that can handle most serious and critical illnesses or life-threatening injuries (IE world class medical care).  Most of the smaller cities (usually those with populations of at least a few thousand citizens) have a nearby county hospital, which is sufficient for minor non-life threatening injuries or illnesses, but you may have to be transported via medical helicopter to the larger regional medical facilities (sometimes out of state if necessary) if you are facing a critical injury or illness when time is of the utmost of the essence.  Smaller cities of less than a few thousand people in population generally do not have a hospital, and you will have to travel to the nearest county hospital for care.  Be aware there is not a national health care system, and you are expected to be fully insured to pay for all medical services rendered.  Otherwise, expect a huge medical bill that you will be expected to pay in full upon your discharge from the hospital (which can very easily run into the thousands of dollars for even minor emergency medical care).   An alternative to the emergency room (typically in the larger cities in Mississippi) for non-life threatening care only and minor illnesses are "urgent care clinics."  An appointment is not required, but you can expect to wait for sometimes an hour or two before seeing the doctor.  Again, you must be insured for medical treatment, or expect a moderately high bill (not nearly as expensive as an emergency room visit, but its still not inexpensive either).  Hours of operation vary, but generally are open from noon till 6 PM, and are usually closed on weekends.  When checking in for services and you do not have insurance but you do have the means to pay, be sure to let the receptionist know, or you may be subjected to expensive tests which are not needed.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91440</field>
+		<field name="title">Gary</field>
+		<field name="main">stay healthy</field>
+		<field name="name">Methodist Hospital Northlake Campus</field>
+		<field name="phone">+1 219 886-4000</field>
+		<field name="address">600 Grant St</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91441</field>
+		<field name="title">Polk City</field>
+		<field name="main">stay healthy</field>
+		<field name="name">First Help Urgent Care Clinic</field>
+		<field name="phone">+1 863 984-8000</field>
+		<field name="address">235 N. Commonwealth Ave (S.R. 33)</field>
+		<field name="hours">M-F 8:30AM-4:30PM, Sa 9AM-12:30PM</field>
+		<field name="url">http://www.uc-walkin.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91442</field>
+		<field name="title">Dundee (Florida)</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">The nearest hospital is in  Winter Haven .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91443</field>
+		<field name="title">Dubuque</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">Dubuque is home to two major hospitals, and is the regions center for health care. Mercy Medical Center (250 Mercy Dr; 563.589.8000)    is a 263 bed hospital just west of downtown that was named one of the nations Top 100 hospitals by Thomson Reuters last year. It also has received Magnet hospital designation by the American Nurses Credentialing Center. It handles 55,000 patient visits annually. Finley Hospital (350 N. Grandview Ave; 563.582.1881)    has also been named one of Americas Top 100 hospitals, and is the Tri-States leader in cancer care.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91444</field>
+		<field name="title">Pine City</field>
+		<field name="main">stay healthy</field>
+		<field name="name">IntegraQi Yoga Place</field>
+		<field name="phone">+1 320 980-3880</field>
+		<field name="address">520 2nd Avenue SE</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91445</field>
+		<field name="title">North Carolina</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">Outside of the major metro areas, North Carolina is generally rural and undeveloped. You should be aware that this makes for dangerous wildlife and plants. If hiking, avoid straying from the marked trail.  There are numerous venomous animals located in North Carolina.  Please use common sense.  Also, during the summer months, thunder storms increase and the potential for dangerous lightning should be acknowledged.  Near the ocean, shark attacks have been on the rise in recent times. Always take precautions while enjoying the beautiful Atlantic ocean.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91446</field>
+		<field name="title">Pine City</field>
+		<field name="main">stay healthy</field>
+		<field name="name">Anytime Fitness</field>
+		<field name="phone">+1 320 629-8987</field>
+		<field name="address">925 Main Street S</field>
+		<field name="url">http://anytimefitness.com/gyms/2829/Pine%20City-MN-55063</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">91447</field>
+		<field name="title">Lake Wales</field>
+		<field name="main">stay healthy</field>
+		<field name="name">stay healthy</field>
+		<field name="content">dangerous animals. -->  There is one small hospital in Lake Wales and an urgent care facility.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

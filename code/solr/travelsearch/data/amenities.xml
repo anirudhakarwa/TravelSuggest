@@ -1,0 +1,20 @@
+<add>
+	<doc>
+		<field name="id">64933</field>
+		<field name="title">Kayenta</field>
+		<field name="main">amenities</field>
+		<field name="name">restaurants</field>
+		<field name="content">Kayenta is the home of several sit down and fast food restaurants, most of which are located at the junction between the 160 and the 163. In terms of fast food, Kayenta has a  Burger King ,  Sonic Drive-In ,  Subway restaurant , and  McDonalds . For casual dining there is the Golden Rice Bowl Chinese restaurant, Pizza Edge, Amigo Cafe, and Shepherds Eye Coffee.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64934</field>
+		<field name="title">Kayenta</field>
+		<field name="main">amenities</field>
+		<field name="name">groceries and shopping</field>
+		<field name="content">Bashas Diné store  A Bashas grocery store is located in in Kayenta. Kayenta also has a True Value, a Video Plus movie rental store, as well as Navajo art shops.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

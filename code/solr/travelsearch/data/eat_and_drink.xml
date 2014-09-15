@@ -1,0 +1,505 @@
+<add>
+	<doc>
+		<field name="id">63114</field>
+		<field name="title">Chelsea (Michigan)</field>
+		<field name="main">eat and drink</field>
+		<field name="name">coffee, tea and chocolate</field>
+		<field name="content">Café Touba, 6065 Sibley Road, +1 734 433-0697,   . Moroccan gypsy-style café serving fruit smoothies, fresh juices, energy power drinks, coffee, herbal tea and special healing drinks.   Gourmet Chocolate Cafe, 312 N Main Street, +1 734 475-1071,   . Gourmet-quality chocolate, coffee, pastries and baked goods.   Pierces Pastries Plus, 103 W Middle Street, +1 734 475-6081. Open 5:30AM-2PM Monday through Saturday, and 7AM-1PM on Sunday. Gourmet coffees, pastries, pies, soups and sandwiches.   Zou Zous, 101 N Main Street, +1 734 433-4226. Open 7AM-7PM Monday through Thursday, 7AM-10PM on Friday, 8AM-10PM on Saturday, and 8AM-6PM on Sunday. Coffee, coffee drinks, sandwiches, soups, salads, pastries.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63115</field>
+		<field name="title">Hartsfield–Jackson Atlanta International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="section">atrium</field>
+		<field name="name">Houlihans</field>
+		<field name="content">This is your only choice if you want a drink outside of the secure area.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63116</field>
+		<field name="title">Hartsfield–Jackson Atlanta International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="section">atrium</field>
+		<field name="name">Atlanta Bread Company</field>
+		<field name="content">Although they have locations in 24 states now, it doesnt diminish the fact that this is a good place for a sandwich and a cup of soup that is probably more impressive than something from Asian Chao or Dominos. Dont expect your sandwich in under 5 minutes, though.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63117</field>
+		<field name="title">Hartsfield–Jackson Atlanta International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="section">beyond security</field>
+		<field name="name">Sweet Water Draft House Grill</field>
+		<field name="content">Arguably the only noteworthy bar in the airport, they serve up Georgias most well-known microbrew.</field>
+		<field name="address">Gate B10</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63118</field>
+		<field name="title">Hartsfield–Jackson Atlanta International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="section">beyond security</field>
+		<field name="name">Samuel Adams Atlanta Brew House</field>
+		<field name="content">Your second best bet for a decent pint of beer.</field>
+		<field name="address">Gates T7, A12, C42</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63119</field>
+		<field name="title">Los Angeles International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="section">airport site</field>
+		<field name="name">Encounter</field>
+		<field name="content">Suspended 70 feet above ground by a fanciful faux-futuristic quadrupedal structure, this eclectic restaurant is worth a visit just for the experience.  Located right in the middle of the LAX complex, the mood is set by the psychedelic elevators you take to get to the main level.  Once inside, the food is tasty but unsurprising California cuisine, done with good ingredients and creative presentation that makes the price justifiable, though its a bit much for a weary traveler who just wants a quick bite to eat.  You can also enjoy the bar with its giant lava lamps and psychedelic lighting.  The restaurant has its own parking lot for those who dont want to deal with airport parking, and a trip through airport security is not required.</field>
+		<field name="directions">in the center Los Angeles International Airport</field>
+		<field name="phone">+1-310-215-5151</field>
+		<field name="price">$50-60 (entrees $30-40 each, half that for lunch)</field>
+		<field name="address">209 World Way</field>
+		<field name="hours">Su-Tu 11AM-9PM, W-Sa 11AM-9:30PM</field>
+		<field name="url">http://www.encounterlax.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63120</field>
+		<field name="title">Los Angeles International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="name">tom bradley international terminal (tbit)</field>
+		<field name="content">On the ground side are a couple of restaurants and fast food outlets on the upper floor level. Air side is limited to snack facilities. In other words, if you want something fancier than a hotdog and a Coke, eat on the ground side.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63121</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="section">budget</field>
+		<field name="name">McDonalds</field>
+		<field name="content">Open early and has Coke. There is also a playground at the D33 location.</field>
+		<field name="address">Gates A17, C6, C22, D33</field>
+		<field name="hours">5am- 10:30pm</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63122</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="section">budget</field>
+		<field name="name">Urban Taco</field>
+		<field name="content">Cheap, fast street-style tacos and breakfast. Spicy salsa and corn tortillas.</field>
+		<field name="price">Under $10</field>
+		<field name="address">Gate C22</field>
+		<field name="hours">Opens at 7am</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63123</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="section">budget</field>
+		<field name="name">Fuddruckers Hamburgers</field>
+		<field name="content">Simple, custom made burgers and breakfast, though with less choices of meat than a normal Fuddruckers (sorry no buffalo or elk burgers here!)</field>
+		<field name="price">Meals under $10</field>
+		<field name="address">Gate D18</field>
+		<field name="url">http://www.fuddruckers.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63124</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="section">mid-range</field>
+		<field name="name">Chilis Too</field>
+		<field name="content">Limited menu of burgers, sandwiches, salads, and pasta. Serves breakfast.</field>
+		<field name="address">Gates B20 and C16</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63125</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="section">mid-range</field>
+		<field name="name">Salt Lick Bar-B-Que</field>
+		<field name="content">A local chain of Texas style BBQ. Several choices of meat are slow cooked and served with cole slaw, potato salad, and baked beans.</field>
+		<field name="price">Plates from $10</field>
+		<field name="address">Gate A16</field>
+		<field name="url">http://www.saltlickbbq.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63126</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="section">mid-range</field>
+		<field name="name">Pappasitos Cantina</field>
+		<field name="content">Full service dinning and bar with to-go option for Tex-Mex. Makes flour tortillas fresh throughout the day. Serves breakfast, lunch, and dinner.</field>
+		<field name="price">Lunch from $14</field>
+		<field name="address">Gate A28</field>
+		<field name="hours">6am-9:30pm</field>
+		<field name="url">http://pappasitos.com/home/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63127</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="section">mid-range</field>
+		<field name="name">Cantina Laredo</field>
+		<field name="content">A full service restaurant that serves Tex-Mex and traditional Mexican food, plus a fully stocked bar.</field>
+		<field name="price">Meals from $12</field>
+		<field name="address">Gate D24</field>
+		<field name="url">http://www.cantinalaredo.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63128</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="section">mid-range</field>
+		<field name="name">TGI Fridays</field>
+		<field name="content">Casual American dining restaurant and bar with dine-in or take out options. Serves breakfast.</field>
+		<field name="price">Meals around $10</field>
+		<field name="address">Gates A13, B10, C8, C29, D34, E17</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63129</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="section">splurge</field>
+		<field name="name">Pappadeaux Seafood Kitchen</field>
+		<field name="content">Louisiana-style seafood restaurant and bar with plenty spicy Cajun and Creole dishes, and some less spicy ones as well. Has a lunch menu</field>
+		<field name="address">Gate A24</field>
+		<field name="url">http://pappadeaux.com/home/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63130</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="section">splurge</field>
+		<field name="name">III Forks Prime Steakhouse</field>
+		<field name="content">A classic American steakhouse with prime beef, seafood, salads, and sandwiches. Open for breakfast, lunch, and dinner.</field>
+		<field name="price">Very Pricy</field>
+		<field name="address">Gate D27 Upper Level</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63131</field>
+		<field name="title">Los Angeles International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="name">eat and drink</field>
+		<field name="content">Restaurant options at LAX are extremely hit-or-miss.  A lot depends on which terminal youre in; some terminals have no landside establishments at all, while others have plenty of choices.  You can always visit another terminal, if youre landside, but youre in for a bit of a hike, which can be annoying if youre dragging luggage with you.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63132</field>
+		<field name="title">Mount Rushmore National Memorial</field>
+		<field name="main">eat and drink</field>
+		<field name="name">eat and drink</field>
+		<field name="content">Carvers Cafe ☎ +1 605 574-2515 is the one food court, which serves unmemorable pizza, panini, and coffee in a large room with a fantastic view.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63133</field>
+		<field name="title">Rocky Gap State Park</field>
+		<field name="main">eat and drink</field>
+		<field name="name">eat and drink</field>
+		<field name="content">The lodge has a nice restaurant, as well as a bar and grill. Otherwise, its a picnic!</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63134</field>
+		<field name="title">Cambridge (Maryland)</field>
+		<field name="main">eat and drink</field>
+		<field name="name">Snappers Waterfront Cafe</field>
+		<field name="content">The menu features seafood, southwestern and Jamaican cuisine. Exotic cocktails.</field>
+		<field name="phone">+1 410  228 0112</field>
+		<field name="address">112 Commerce Street</field>
+		<field name="email">jssydnor@verizon.net</field>
+		<field name="url">http://www.snapperswaterfrontcafe.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63135</field>
+		<field name="title">Skagway</field>
+		<field name="main">eat and drink</field>
+		<field name="name">eat and drink</field>
+		<field name="content">A few restaurants and bars along the main street offering a variety of brews and cooking provide a pleasant alternative to - or break from - shopping and excursions.  You Say Tomato, State St. at 21st Av., Phone: +1 907 983-2784. Natural whole foods, fresh bread and produce, provisions for hikers. Skagway Fish Co., Congress Way in the red building, Phone: +1 907 983-FISH. Halibut fish and chips, Alaskan king crab. The Stowaway Cafe, 205 Congress Way in the aqua building, Phone: +1 907 983-DINE. More upscale and overlooking the small boat harbor.   Red Onion Saloon, 2nd and Broadway. Has that Gold Rush era feel. "Meet the Ladies of 98".</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63136</field>
+		<field name="title">Detroit Metropolitan Wayne County Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="name">eat and drink</field>
+		<field name="content">There is a good choice of eating establishments air-side of both terminals.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63137</field>
+		<field name="title">Miami International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="name">eat and drink</field>
+		<field name="content">MIA also has several restaurants ranging from local chains such as La Carreta to national chains such as Dunkin’ Donuts, Burger King and Starbucks. Be aware that some restaurants serve beer, wine and/or cocktails. If you drink too much the airlines can refuse your boarding on a plane.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63138</field>
+		<field name="title">Huntley</field>
+		<field name="main">eat and drink</field>
+		<field name="name">eat and drink</field>
+		<field name="content">Bluecat Bar  Pryor Creek Saloon  Chuckwagon Meals -Catered cowboy food and meals for large groups.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63139</field>
+		<field name="title">Dateland</field>
+		<field name="main">eat and drink</field>
+		<field name="name">Dateland Cafe</field>
+		<field name="content">The famous "Date Shake" is worth a stop. Its very sweet, but a tasty way to cool off in the desert heat. Larger meals are available, too.</field>
+		<field name="directions">in the Dateland Travel Center</field>
+		<field name="phone">+1 928-454-2772</field>
+		<field name="store">32.799558,-113.540443</field>
+		<field name="address">1737 S Ave 64 E</field>
+		<field name="hours">Daily 24 hrs</field>
+		<field name="image">Dateland.jpg</field>
+		<field name="url">http://www.dateland.com/Cafe.html</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63140</field>
+		<field name="title">Hell (Michigan)</field>
+		<field name="main">eat and drink</field>
+		<field name="name">eat and drink</field>
+		<field name="content">Dam Site Inn, 4095 Patterson Lake Road, 734-878-9300,   . Located by the dam on Hell Creek, of course. Country tavern featuring pub food, weekend entertainment and a pool table in the back. Soups, salads, appetizers, burgers, hot dogs, sandwiches, subs, and pizzas; dinner also features steak, pork, chicken, seafood, and frogs legs. Bar specialties include beer-in-a-can (a holdover from the rowdy earlier days of bar brawls) and cocktails including the Bloody Devil. Lunch $3-$8, dinner $8-$16.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63141</field>
+		<field name="title">New Orleans/Lower 9th Ward</field>
+		<field name="main">eat and drink</field>
+		<field name="name">eat and drink</field>
+		<field name="content">Both eateries and bars are extremely scarce in the Lower 9th Ward, and you will likely find yourself heading west across the bridge to the  Bywater  for food, be it fried chicken, BBQ, or a nice restaurant a little further away, or for a drink or two at Vaughans or BJs. Alternatively, head further down river to  Chalmette .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63142</field>
+		<field name="title">Meadowlands</field>
+		<field name="main">eat and drink</field>
+		<field name="name">eat and drink</field>
+		<field name="content">The Trailside Lounge Grill is the only eatery in town. It is also a bar as indicated in the name.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63143</field>
+		<field name="title">Providence/Fox Point</field>
+		<field name="main">eat and drink</field>
+		<field name="name">eat and drink</field>
+		<field name="content">You will find a criss-crossing of coffee shops and cafes offering breakfast and lunch, juxtaposed by their restaurant counterparts offering lunch and dinner. Regardless of ethnic tastes, everyone will find something to enjoy on Wickenden Street! There are:   •	Spicy dishes, like the curry at  Taste of India   •	Sushi from  Sakura Japanese Restaurant   •	Crêpes and other pastry fare at  The Duck and Bunny  (which is a unique      little place called a   “Snuggery” )  •	Tastes from every culture imaginable at  The Wickenden Pub , which serves over 99 beers from around the world (but no food; they do not have a kitchen, so it is strongly suggested that you dine before you stop in for a pint or several!).</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63144</field>
+		<field name="title">Camden (New Jersey)</field>
+		<field name="main">eat and drink</field>
+		<field name="name">eat and drink</field>
+		<field name="content">There is food available at the Aquarium and at the Tweeter Center.  Some other places are the following:   Market Street Pizzeria 1 Market Street  (856)541-4100 Family friendly Pizzeria and Italian Bistro. On the entrance side of the Victor Lofts. It is such a popular place for Rutgers students, surrounding businesses and Aquarium visitors. Their Pizzas are made with Grandee cheese. Special pizzas are really special. Not cheap but reasonable.   Market Gourmet 1 Market Street (856)361 7006 At the victor Lofts, One of the most popular location for Rutgers students and residents. when you enter you feel like, you are in a Wawa , but their hoagies amd products are way better. Great grocery selection. Very friendly people. Seating and Wifi available. Their Nescafe cafe hot drinks are worth to try.  Cooper Court  Cooper Hospital/University Medical Center  Haddon Ave Mickle Blvd  1-800-8-COOPER (1-800-826-6737)  The chicken caesar salad is wonderful.  Crossroads Cafe  2 Riverside Dr  (856) 365-1770  This is across the street from the Aquarium and has a nice cafeteria style selection.   Georges Restaurant  223 Market St  (856) 757-0015  This is a nice little place to eat.   Hanks Bar Grille  201 Market Street  (856) 541-6651  A friendly place with two bars and a dining room.  If you are in town after 7:00pm Monday through Thursday, check the nightly specials. Call about the free buffet on Fridays.  Shirleys Brass Rail  425 Market Street  (856) 963-3888  Shirleys is not too far from the Post Office, the Court House, and Rutgers. The cheese steak with onions is great.  Corrines Place  1254 Haddon Ave. (856) 541-4894 Corrines has great soul food.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63145</field>
+		<field name="title">Hartsfield–Jackson Atlanta International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="name">eat and drink</field>
+		<field name="content">As with most airports, food options are reasonably plentiful but not particularly noteworthy, and decidedly overpriced. If youre pressed for time, you should really choose fast-food, because almost every restaurant has slow service; even a fast-food joint can hold you up for 5–10 minutes.  There are 9 restaurants in the Atrium before you go through security, which is your only option if youre eating with someone who isnt also flying somewhere. Otherwise, there are restaurants scattered throughout every concourse, but youll only see a couple of them on the way to your gate. If youre more particular, youll probably have to go out of your way to another concourse.  Coffee options are generic: Starbucks and/or Seattles Best have locations in the Atrium and all the concourses (but not necessarily near the middle). Your only other choices are Abica Coffee at Gate A28 and Caribou Coffee at Concourse E center.  For beer or liquor, youre going to have to look a little harder.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63146</field>
+		<field name="title">Chelsea (Michigan)</field>
+		<field name="main">eat and drink</field>
+		<field name="name">eat and drink</field>
+		<field name="content">The Common Grill, 112 S Main Street, +1 734 475-0470,   . Open 11AM-10PM Tuesday through Thursday, 11AM-11PM Friday and Saturday, and 11AM-9PM on Sunday; closed Mondays. Appetizers, salads, sandwiches, pizza, and entrées. Specialties include their delicious homemade rolls, seafood chowder, grilled Black Angus sirloin steak, oven-roasted chicken breast, and grilled ahi tuna salad niçoise. $10 - $30.   Mikes Deli, 114 W Middle Street, +1 734 475-5980,   . Open 10AM-7PM Monday through Saturday, and 11AM-3PM on Sunday. Deli sandwiches on Zingermans bread, sides and salads. $2.95 - $8.45.   Ollies Main Street Pizza, 503 Coliseum Drive, +1 734 433-6543,   . Open 1PM-10PM on Sunday, 4PM-10PM Monday through Thursday, 4PM-11PM on Friday, and 11AM-11PM on Saturday. Pizzas, subs, hoagies, dinners, salads, appetizers and breadsticks. Pizza $6 - $15.50   Scooples Cafe, 114 N Main Street, +1 734 433-0655. Open seasonally; call for hours. Old-fashioned ice cream parlor.   Clearys Pub, 113 S Main Street, +1 734 475-1922,   . Open 11AM-11PM Monday through Saturday, and 3:30PM-9PM on Sunday. 12 draft beers, appetizers, soups, salads, sandwiches, burgers, pizza, pasta, chicken, meat, seafood and Southwestern entrees. Live music Friday and Saturday nights. $6 - $19.   Seitzs Tavern, 110 W Middle Street, +1 734 475-7475. Open 7AM-1AM Monday through Saturday; closed Sundays. Old-fashioned tavern.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63147</field>
+		<field name="title">Dateland</field>
+		<field name="main">eat and drink</field>
+		<field name="name">eat and drink</field>
+		<field name="content">The number one tourist attraction in Dateland</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63148</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="name">Hemisphere Steak Seafood</field>
+		<field name="content">This upscale steakhouse has a great view of the airports runways, located as it is at the very top of the main terminal.  To an extent, youre paying for the view as much as for the food, but the cuisine matches the quality of the scenery.  With its subdued atmosphere and small size, it can even be the setting for a relaxing, romantic dinner.</field>
+		<field name="directions">Hyatt Regency, 9th Floor</field>
+		<field name="price">entrees $24-40</field>
+		<field name="hours">Breakfast: M-F 6:30AM-11AM, Sa Su 6:30AM-noon; Dinner: M-Sa 5:30PM-10PM</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63149</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="name">McCoys Bar and Grill</field>
+		<field name="content">Located on the Hyatts lobby level, McCoys is a bit bigger, a bit livelier, and a bit less expensive than Hemisphere.  The focus is on fresh local ingredients, resulting in a fairly eclectic menu that still manages to include several classic favorites.  A very good sushi bar is available 4PM-11PM.</field>
+		<field name="directions">Hyatt Regency, 4th Floor</field>
+		<field name="price">Entrees $11-32</field>
+		<field name="hours">Daily 11AM-12:30AM</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63150</field>
+		<field name="title">Colonial Williamsburg</field>
+		<field name="main">eat and drink</field>
+		<field name="name">eat and drink</field>
+		<field name="content">Chowning’s Tavern serves traditional-style pit barbecue during the day; family entertainment takes over from 5PM-8PM. After 8PM, it becomes an 18th-century tavern serving light bar food and alcohol. Casual attire.    Christiana Campbell’s Tavern  was George Washington’s favorite when he came to Williamsburg. Today, it’s Colonial Williamsburg’s premier seafood restaurant. Casual attire, dinner reservations recommended.    Shields Tavern offers the atmosphere of an 18th-century coffeehouse serving light fare. In the evening, part of the tavern operates as a bar. Casual attire.    King’s Arms Tavern  is an 18th-century-style chophouse.  Casual attire, dinner reservations recommended.    The Regency Room at the Williamsburg Inn serves favorites from the Chesapeake to regional markets in an elegant setting. The wine list was named an Wine Spectator Award of Excellence winner. A proud member of the Nation’s Restaurant News Fine Dining Hall of Fame.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63151</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="name">eat and drink</field>
+		<field name="content">If youre departing from the airport and have plenty of time, you may want to strongly consider grabbing a meal before going through security.  Its risky if youre on a tight schedule, but the landside terminal has, by far, the widest variety of restaurants.  Theres plenty of food available airside, of course, but options are a bit more limited.  Take a peek at the security lines first, though; if theyre long, better get in line and then see if you have time to eat airside.  If youre arriving, the options in the landside terminal are the most convenient, because you can pick up your luggage on level 2, then return to level 3 to eat.  All of the restaurants in the landside terminal are on the mall-like level 3, where security and the ticket agents are.  Theres a good-sized food court right smack in the middle of the level, easily accessible from both A and B sides and equidistant between the two security checkpoints.  Chik-fil-A, McDonalds, Nathans Hot Dogs, Panda Express, Quiznos, and Sbarro are the main options, along with Carvel and Krispy Kreme for sweets.  If you have more time and want something more substantial, Chilis (Mexican-American), Macaroni Grill (Italian-American), and Fox Sports Bar have locations on the west side of the terminal (Airside 1 3, Gates 1-59).  The Hyatt Regency hotel also has two full-service restaurants, located within the hotel on the east side of the main terminal (Airside 2 4, Gates 60-129):      The options in each airside terminal are much more limited, and vary widely among them.  Each has one full-service sit-down restaurant:  Airside 1 (Gates 1-29): On The Border Mexican Grill and Cantina  Airside 2 (Gates 100-129): Kafe Kalik (Caribbean)  Airside 3 (Gates 30-59): Ruby Tuesday (American)  Airside 4 (Gates 60-99): Outback Steakhouse  In addition, each airside terminal has one or two fast food restaurants, a bakery, a coffee shop, a dessert shop, and a convenience store, though the exact vendors vary from terminal to terminal.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63152</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">eat and drink</field>
+		<field name="name">eat and drink</field>
+		<field name="content">There is a good collection of  places to eat  air side of the terminals. The only restaurants outside the secure areas are inside the 2 Hyatt Hotels. Fast food restaurants, Starbucks, and Dunkin Donuts are spread liberally throughout all 5 terminals with a few decent places if you know where to look. Most of the best restaurants are located in Terminal D.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63153</field>
+		<field name="title">Chesapeake and Ohio Canal National Historical Park</field>
+		<field name="main">eat and drink</field>
+		<field name="name">eat and drink</field>
+		<field name="content">There are no facilities serving food throughout the entire park, so  pack in and pack out . Possession of alcoholic beverages in the park is against the law, and can result in a hefty fine. Permits for alcoholic beverages can be secured, but usually only for events being held in the park, like weddings.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63154</field>
+		<field name="title">Cambridge (Maryland)</field>
+		<field name="main">eat and drink</field>
+		<field name="name">Canvasback Restaurant and Irish Pub</field>
+		<field name="content">Regional, French, Italian and Irish fare. Live music some Saturdays and Open Mic night on Wednesdays.</field>
+		<field name="phone">+1 410 221 7888</field>
+		<field name="address">420 Race Street</field>
+		<field name="url">http://www.facebook.com/pages/Canvasback-Restaurant-Pub/178635078836288</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63155</field>
+		<field name="title">New Orleans/Lower 9th Ward</field>
+		<field name="main">eat and drink</field>
+		<field name="name">Holmes One Stop</field>
+		<field name="content">Holmes is a little, quick Chinese take-out place, with food that is tasty, if unremarkable, in a neighborhood very short on places to eat.</field>
+		<field name="phone">+1 504 309-8560</field>
+		<field name="price">$2-8</field>
+		<field name="address">5340 Saint Claude Ave</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63156</field>
+		<field name="title">Cambridge (Maryland)</field>
+		<field name="main">eat and drink</field>
+		<field name="name">Portside Seafood Restaurant</field>
+		<field name="content">This restaurant has a big outdoor wooden deck overlooking the Cambridge Harbor, and serves a crab-heavy menu.</field>
+		<field name="phone">+1 410 228-9007</field>
+		<field name="price">$15-40</field>
+		<field name="address">201 Trenton St</field>
+		<field name="url">http://www.portsideseafood.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63157</field>
+		<field name="title">Cambridge (Maryland)</field>
+		<field name="main">eat and drink</field>
+		<field name="name">Jimmie and Sooks Raw Bar and Grill</field>
+		<field name="content">Menu features seafood combined with standard American fare. Good for families or groups with varied tastes. Lunch buffets. Live music Thu-Sat at 10pm.</field>
+		<field name="phone">+1 410  228-0008</field>
+		<field name="price">$15-$30</field>
+		<field name="address">527 Poplar Street</field>
+		<field name="url">http://jimmieandsooks.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63158</field>
+		<field name="title">Cambridge (Maryland)</field>
+		<field name="main">eat and drink</field>
+		<field name="name">Bistro Poplar</field>
+		<field name="content">A pleasant spot for excellent French bistro fare in the center of town.</field>
+		<field name="phone">+1 410 228-4884</field>
+		<field name="price">$20-40</field>
+		<field name="address">535 Poplar St</field>
+		<field name="hours">M,Th-Sa noon-11PM, Su tapas: 5PM-11PM</field>
+		<field name="url">http://www.bistropoplar.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63159</field>
+		<field name="title">Cambridge (Maryland)</field>
+		<field name="main">eat and drink</field>
+		<field name="name">The High Spot Gastropub</field>
+		<field name="content">Fresh seasonal cuisine in a pub atmosphere.</field>
+		<field name="phone">+1 410-228-7420</field>
+		<field name="price">$13-$20</field>
+		<field name="address">305 High Street</field>
+		<field name="email">info@thehighspotgastropub.com</field>
+		<field name="url">http://www.thehighspotgastropub.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

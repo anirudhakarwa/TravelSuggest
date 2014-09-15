@@ -1,0 +1,11 @@
+<add>
+	<doc>
+		<field name="id">98190</field>
+		<field name="title">Hazlettville</field>
+		<field name="main">eat/drink/sleep/contact</field>
+		<field name="name">eat/drink/sleep/contact</field>
+		<field name="content">There are no eateries or motel/hotels in the Hazlettville area. Your best bet is to head on back to Dover for an abundance of choices along the Route 13 corridor.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

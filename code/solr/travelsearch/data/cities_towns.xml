@@ -1,0 +1,11 @@
+<add>
+	<doc>
+		<field name="id">87698</field>
+		<field name="title">Franklin County (Vermont)</field>
+		<field name="main">cities/towns</field>
+		<field name="name">cities/towns</field>
+		<field name="content">St. Albans</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

@@ -1,0 +1,38 @@
+<add>
+	<doc>
+		<field name="id">87694</field>
+		<field name="title">West Bend (Wisconsin)</field>
+		<field name="main">by bus</field>
+		<field name="name">by bus</field>
+		<field name="content">The Washington County Commuter Express runs between Milwaukee and West Bend. One way fares are $3.00 exact change. You may also purchase 10 tickets for $25.00</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87695</field>
+		<field name="title">Fond du Lac</field>
+		<field name="main">by bus</field>
+		<field name="name">by bus</field>
+		<field name="content">There is a Greyhound bus stop at the Mobile Gas Station on South Main Street in Fond du Lac. Alternatively, there is another Greyhound stop at Wittman Regional Airport, about 15 minutes North of Fond du Lac in Oshkosh.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87696</field>
+		<field name="title">Munster (Indiana)</field>
+		<field name="main">by bus</field>
+		<field name="name">by bus</field>
+		<field name="content">Tri State Coach/ United Limo Tri State Coach Lines / United Limo 2101 West 37th Ave. Gary, IN 46408 tristateunitedlimo@coachusa.com  phone: 574-254-5000 or 800-248-8747 (toll free)</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87697</field>
+		<field name="title">Bayonne (New Jersey)</field>
+		<field name="main">by bus</field>
+		<field name="name">by bus</field>
+		<field name="content">Bus transportation is provided on three main north-south streets of the city: Broadway, Kennedy Boulevard, and Avenue C, both by the state-operated New Jersey Transit and several private bus lines. The Broadway line runs solely inside Bayonne city limits, while bus lines on Avenue C and Kennedy Boulevard run to various end points in Jersey City. One Kennedy Boulevard service (the Coach USA 99S) runs to the Port Authority Bus Terminal in midtown Manhattan, New York City, and rush hours peak direction the NJ Transit 120 runs between Avenue C in Bayonne and Battery Park in downtown Manhattan.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

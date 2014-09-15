@@ -1,0 +1,20 @@
+<add>
+	<doc>
+		<field name="id">15254</field>
+		<field name="title">West Bend (Wisconsin)</field>
+		<field name="main">by bicycle</field>
+		<field name="name">by bicycle</field>
+		<field name="content">West Bend is a very  bicycle  friendly city. There are many paths throughout the city to enjoy, and many establishments have bicycle racks. Please note that bicycles cannot be ridden on sidewalks in the downtown area. You will be asked to ride on the side of the street or walk your bike.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">15255</field>
+		<field name="title">Forestville</field>
+		<field name="main">by bicycle</field>
+		<field name="name">by bicycle</field>
+		<field name="content">Although there are no designated bike lanes in the town, it remains one of the most popular modes of transit. As always, be aware of transit on the busier routes, and do not leave your bicycle attended outside unless locked up.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

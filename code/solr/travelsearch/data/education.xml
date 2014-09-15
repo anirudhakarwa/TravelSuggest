@@ -1,0 +1,61 @@
+<add>
+	<doc>
+		<field name="id">64648</field>
+		<field name="title">Kennett Square</field>
+		<field name="main">education</field>
+		<field name="name">education</field>
+		<field name="content">Elementary School Mary D. Lang Elementary New Garden Elementary Greenwood Elementary Middle School Kennett Middle High School Kennett High</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64649</field>
+		<field name="title">Colts Neck</field>
+		<field name="main">education</field>
+		<field name="name">education</field>
+		<field name="content">Conover Road Primary School: This is the most recently developed school in Colts Neck. Before this school was built, children from grades kindergarten to 4th attended the elementary school, and children from grades 5th to 8th would attended the middle school. Established in 2008, the primary school is newly equipped and inviting for young children. Colts Neck children from kindergarten to second grade attend the school. When you walk down the hallways you’ll notice there are old-fashion street lights that hang over the children’s heads and light up the school. Everything in the primary school is designed for small children, from the chairs to the water fountains, making this school a great atmosphere for children to learn in. The teachers are hands-on with their students and keep parents up to date on their child’s progress.      Conover Road Elementary School: This elementary school has been around for over 50 years, although it’s not as newly designed as the primary school, it has been remodeled throughout the years. Children from grades 3rd – 5th attend this school.      Cedar Drive Middle School: Grades 6th to 8th.      Colts Neck High School: In 1998 Colts Neck Township built a high school for the town. Compared to the other Freehold District high schools, Colts Neck is the most recently developed high school. Students from Cedar Drive Middle School attend this high school when they graduate from 8th grade. Students from other towns, such as Freehold, Howell, and Marlboro may attend this high school if routed in the district. Colts Neck High School has an ROTC program and a law program, which allows students from any town in the district to attend. The teachers are relatively young, but passionate about teaching. Students can choose from a list of sports and clubs to join such as, football, basketball, field hockey, cheerleading, baseball, yearbook staff, Habitat for Humanity, etc.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64650</field>
+		<field name="title">Ellijay</field>
+		<field name="main">education</field>
+		<field name="name">education</field>
+		<field name="content">Ellijay has one primary school (ellijay Primary) three elementary schools (Ellijay Elem., Oakland Elm., and Mountain View Elm.) currently two middle schools (Gilmer and Clear Creek) one High School (Gilmer)  Go Cats North Georgia Christian Acadamy Grace Christian School Joesephine Edwards Christian Acadamy Board of Regents of Dalton State College approved site at Ellijay</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64651</field>
+		<field name="title">Claremont (California)</field>
+		<field name="main">education</field>
+		<field name="name">The Claremont Colleges</field>
+		<field name="content">5 undergraduate colleges (Pomona College, Claremont McKenna College, Scripps College, Harvey Mudd College, and Pitzer College) and 2 graduate institutions (Claremont Graduate University and Keck Graduate Institute) make up the Claremont Colleges consortium, serving over 6000 students.</field>
+		<field name="address">150 E. Eight Street</field>
+		<field name="url">http://www.claremont.edu/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64652</field>
+		<field name="title">Claremont (California)</field>
+		<field name="main">education</field>
+		<field name="name">education</field>
+		<field name="content">Peter F. Drucker and Masatoshi Ito Graduate School of Management  The Peter F. Drucker and Masatoshi Ito Graduate School of Management, or more commonly, the Drucker School of Management, is a member of the Claremont Colleges, which is a unique consortium of 7 colleges based on the Oxford University model. The school is named in honor of Peter Drucker, the "Father of Modern Management," who taught management for the school for over 30 years after leaving New York University in 1971.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64653</field>
+		<field name="title">Claremont (California)</field>
+		<field name="main">education</field>
+		<field name="name">Claremont School of Theology</field>
+		<field name="content">A graduate school seminary offering Master of Art, Masters of Divinity, Doctorate of Ministry and Ph.D. degrees in religion and theology.</field>
+		<field name="address">1325 North College Avenue</field>
+		<field name="alt">CST</field>
+		<field name="url">http://www.cst.edu/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

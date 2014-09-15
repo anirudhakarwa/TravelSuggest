@@ -1,0 +1,16 @@
+<add>
+	<doc>
+		<field name="id">64938</field>
+		<field name="title">Sycamore</field>
+		<field name="main">dine</field>
+		<field name="name">Carls Fargo Restaurants Banquets</field>
+		<field name="content">Carls Fargo Restaurant Banquets within the Stratford Inn and hosts a variety of banquets, showers, meetings and more</field>
+		<field name="directions">within the Stratford Inn on Rt. 64, 5 miles north of I-88</field>
+		<field name="phone">+1 815-895-8031</field>
+		<field name="address">355 W. State St</field>
+		<field name="hours">Sunday Brunch 9am-1pm</field>
+		<field name="url">http://www.stratfordinnhotel.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

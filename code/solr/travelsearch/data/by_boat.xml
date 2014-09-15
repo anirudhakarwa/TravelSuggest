@@ -1,0 +1,38 @@
+<add>
+	<doc>
+		<field name="id">105361</field>
+		<field name="title">Eastern Shore (Maryland)</field>
+		<field name="main">by boat</field>
+		<field name="name">by boat</field>
+		<field name="content">There are many ferry services in Maryland.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105362</field>
+		<field name="title">Indianola (Washington)</field>
+		<field name="main">by boat</field>
+		<field name="name">by boat</field>
+		<field name="content">The Indianola dock, built when the Mosquito Fleet supplied the majority of transportation on Puget Sound, is a local landmark thats considered one of the best places in the area to watch the stars or any major celestial event since it juts hundreds of feet out into the water. No overnight moorage, but you can pull up your kayak or canoe up to the dock and head to the general store for refreshments!</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105363</field>
+		<field name="title">St. Michaels</field>
+		<field name="main">by boat</field>
+		<field name="name">by boat</field>
+		<field name="content">St. Michaels Marina  +1 800 678-8980, offers dockage by reservation.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105364</field>
+		<field name="title">Keyport (Washington)</field>
+		<field name="main">by boat</field>
+		<field name="name">by boat</field>
+		<field name="content">The Port of Keyport P.O. Box 195 Keyport, Washington 98345 (360) 779-4259 is a small marina with 14 private slips, 250 feet of guest moorage in five 50-foot slips, and a boat launch ramp.  The marina was updated in 2009 with new concrete pilings and slips.  There is water and power at all slips. Guest moorage is limited to 6 hours free or $10/day for boats under 25 feet and $15/day for boats 25 feet and up.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

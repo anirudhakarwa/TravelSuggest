@@ -1,0 +1,34 @@
+<add>
+	<doc>
+		<field name="id">105356</field>
+		<field name="title">Medicine Park</field>
+		<field name="main">lodging</field>
+		<field name="name">lodging</field>
+		<field name="content">Buffalo Gap, 580-647-9050,   .  The Twins, Red Door Green Door,   .  Cobblestone Cottage, 580-704-9557,   .  Colonel Krugers Cabin, 405-623-2128,   .  Grandmas Cabin, 580-529-3081,   .  Medicine Creek Lodging, 580-529-2248,   .  Medicine Park Cabin, 580-678-4864,   .  Medicine Park Lodging, 580-529-2182,   .  Wichita Mountain Lodge, 580-574-8773,   .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105357</field>
+		<field name="title">Medicine Park</field>
+		<field name="main">lodging</field>
+		<field name="name">Stardust Inn</field>
+		<field name="content">Bed and breakfast.</field>
+		<field name="checkin">3PM</field>
+		<field name="phone">+1 580 529-3270</field>
+		<field name="price">$145/165 (Queen/King)</field>
+		<field name="checkout">11AM</field>
+		<field name="url">http://www.stardustinn.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105358</field>
+		<field name="title">Medicine Park</field>
+		<field name="main">lodging</field>
+		<field name="name">lodging</field>
+		<field name="content">Lodging in Medicine Park dates back to the Towns early beginnings when cabins dotted the hillsides. Soon, the Outside Inn and Apache Inn provided a place to stay as the park began to grow. However, in the late 1950’s lodging became virtually non-existEnt as interest in Medicine Park began to decline.  Today Medicine Park has wonderful lodging from historic cabins to Bed Breakfasts. You will find a variety of accommodations available that provide some of the most charming and scenic lodging you are likely to encounter. For lodging information visit http://www.medicinepark.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

@@ -1,0 +1,595 @@
+<add>
+	<doc>
+		<field name="id">105405</field>
+		<field name="title">New Rockford</field>
+		<field name="main">eat drink</field>
+		<field name="name">D Js Eats-N-Treats</field>
+		<field name="content">947-5781.</field>
+		<field name="address">101 1st Street</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105406</field>
+		<field name="title">Helen</field>
+		<field name="main">eat drink</field>
+		<field name="name">eat drink</field>
+		<field name="content">Pauls Steakhouse, 8537 S Main St(706)878-2468.            Bigg Daddys American Tavern Music Club     Cafe International, Main Street, (706) 878-3102.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105407</field>
+		<field name="title">Medora</field>
+		<field name="main">eat drink</field>
+		<field name="name">Lunch Munch More</field>
+		<field name="phone">+1 701  623-2805</field>
+		<field name="address">316 Pacific Avenue</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105408</field>
+		<field name="title">Helen</field>
+		<field name="main">eat drink</field>
+		<field name="name">Safari Steakhouse</field>
+		<field name="phone">+1 706 878-2083</field>
+		<field name="address">8717 N Main St</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105409</field>
+		<field name="title">New Orleans/Central City</field>
+		<field name="main">eat drink</field>
+		<field name="name">Podners Barbeque</field>
+		<field name="content">New Orleans most dangerous BBQ. Its quite good, but the neighborhood is rough. Even the inside looks like it might cut you if you look at it the wrong way. If you have any fear of the city, this place is not for you. If on the other hand, you will brave the mean streets for some mean meats, by all means, stop by and grab some ribs. "BYOB".</field>
+		<field name="phone">+1 504 525-5346</field>
+		<field name="price">$3-10</field>
+		<field name="address">2520 Felicity St</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105410</field>
+		<field name="title">Medora</field>
+		<field name="main">eat drink</field>
+		<field name="name">The Wurst Shop</field>
+		<field name="phone">+1 701  623-6384</field>
+		<field name="address">354 Pacific Avenue</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105411</field>
+		<field name="title">Medora</field>
+		<field name="main">eat drink</field>
+		<field name="name">Badlands Bake Shop</field>
+		<field name="phone">+1 701  623-4444</field>
+		<field name="address">345 Third Avenue</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105412</field>
+		<field name="title">Medora</field>
+		<field name="main">eat drink</field>
+		<field name="name">Ice Cream Parlor</field>
+		<field name="phone">+1 701  623-4444</field>
+		<field name="address">340 Third Avenue</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105413</field>
+		<field name="title">Medora</field>
+		<field name="main">eat drink</field>
+		<field name="name">Pitchfork Fondue</field>
+		<field name="content">Tjaden Terrace,</field>
+		<field name="phone">+1 800  633-6721</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105414</field>
+		<field name="title">Medora</field>
+		<field name="main">eat drink</field>
+		<field name="name">Fudge Ice Cream Depot</field>
+		<field name="content">201 Broadway,</field>
+		<field name="phone">+1 701  623-4444</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105415</field>
+		<field name="title">Helen</field>
+		<field name="main">eat drink</field>
+		<field name="name">Nacoochee Grill</field>
+		<field name="phone">+1 706 878-8020</field>
+		<field name="address">7277 South Main Street</field>
+		<field name="url">http://www.nacoocheegrill.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105416</field>
+		<field name="title">New Orleans/Central City</field>
+		<field name="main">eat drink</field>
+		<field name="name">Cajun Seafood</field>
+		<field name="content">This is a great takeout for seafood boil (crab, shrimp, and especially the spicy crawfish), but it also has good po boys, wings, and MSG-laden Chinese food for good measure. In other words, this place is take out for a party in your hotel room just waiting to happen.</field>
+		<field name="phone">+1 504 821-4722</field>
+		<field name="price">$3-12</field>
+		<field name="address">3957 Washington Ave</field>
+		<field name="hours">10:30AM-9PM daily</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105417</field>
+		<field name="title">New Rockford</field>
+		<field name="main">eat drink</field>
+		<field name="name">Rockford Café</field>
+		<field name="content">947-5624.</field>
+		<field name="address">714 1st Avenue North</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105418</field>
+		<field name="title">East St. Louis</field>
+		<field name="main">eat drink</field>
+		<field name="name">Sandys Barbeque More</field>
+		<field name="content">Barbecue, mid-range price.</field>
+		<field name="phone">+1 (618) 274-0300</field>
+		<field name="address">200 N 8th St</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105419</field>
+		<field name="title">Helen</field>
+		<field name="main">eat drink</field>
+		<field name="name">La Cabana Mexican Restaurant</field>
+		<field name="phone">+1 706 878-3456</field>
+		<field name="address">8160 S Main St</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105420</field>
+		<field name="title">Medora</field>
+		<field name="main">eat drink</field>
+		<field name="name">Rough Riders Hotel Dining Room</field>
+		<field name="phone">+1 800  633-6721</field>
+		<field name="address">301 Third Avenue</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105421</field>
+		<field name="title">East St. Louis</field>
+		<field name="main">eat drink</field>
+		<field name="name">Tasty Burgers</field>
+		<field name="content">Burgers, wings and fish.</field>
+		<field name="phone">+1 (618) 271-1722</field>
+		<field name="address">2700 State Street</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105422</field>
+		<field name="title">East St. Louis</field>
+		<field name="main">eat drink</field>
+		<field name="name">eat drink</field>
+		<field name="content">East St. Louis has many of the typical fast-food restaurants, but for more upscale sit-down restaurants youre going to find a lot more if you cross the bridge to  St. Louis .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105423</field>
+		<field name="title">Medora</field>
+		<field name="main">eat drink</field>
+		<field name="name">Iron Horse Saloon Restaurant</field>
+		<field name="phone">+1 701  623-9894</field>
+		<field name="address">300 Pacific Avenue</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105424</field>
+		<field name="title">New Orleans/Central City</field>
+		<field name="main">eat drink</field>
+		<field name="name">eat drink</field>
+		<field name="content">There are a couple really good places in Central City, with Cafe Reconcile being by far the most famous and popular, and Ms Hysters being by far the tastiest food! There are no real bars to speak of, but most establishments have no problem with you bringing in a beer from a liquor store.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105425</field>
+		<field name="title">Helen</field>
+		<field name="main">eat drink</field>
+		<field name="name">Hofers of Helen Bakery and Cafe</field>
+		<field name="phone">+1 706 878-8200</field>
+		<field name="address">8758 North Main St</field>
+		<field name="url">http://www.hofers.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105426</field>
+		<field name="title">Helen</field>
+		<field name="main">eat drink</field>
+		<field name="name">Troll Tavern Restaurant</field>
+		<field name="phone">+1 706 878-3117</field>
+		<field name="url">http://www.trolltavern.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105427</field>
+		<field name="title">New Orleans/Central City</field>
+		<field name="main">eat drink</field>
+		<field name="name">Cafe Reconcile</field>
+		<field name="content">Reconcile is one part tasty Creole restaurant and one part social work—the mission is to train 16-22 year-olds from the neighborhood for a career in the restaurant industry, by giving them experience and instruction for serving and line cooking. So youll be eating well and feeling good about where your money is going. The interior is a really nice bright place to hang out too. For dessert, you must try their award-winning Bananas Foster Bread Pudding.</field>
+		<field name="phone">+1 504 568-1157</field>
+		<field name="price">$8-16</field>
+		<field name="address">1631 Oretha Castle Haley Blvd</field>
+		<field name="hours">M-F 11AM-2:30PM</field>
+		<field name="url">http://reconcileneworleans.org</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105428</field>
+		<field name="title">Truman</field>
+		<field name="main">eat drink</field>
+		<field name="name">Truman Cafe</field>
+		<field name="content">507.776.7577</field>
+		<field name="address">137 West Ciro Street</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105429</field>
+		<field name="title">Helen</field>
+		<field name="main">eat drink</field>
+		<field name="name">Viele Margaritas</field>
+		<field name="content">STE B.</field>
+		<field name="phone">+1 706 878-2468</field>
+		<field name="address">8537 S Main St</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105430</field>
+		<field name="title">Medora</field>
+		<field name="main">eat drink</field>
+		<field name="name">The Coffee House</field>
+		<field name="phone">+1 701  623-4700</field>
+		<field name="address">350 Fourth Street</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105431</field>
+		<field name="title">Medora</field>
+		<field name="main">eat drink</field>
+		<field name="name">Mel’s Ice Cream Emporium</field>
+		<field name="phone">+1 701  623-1311</field>
+		<field name="address">392 Pacific Avenue</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105432</field>
+		<field name="title">New Rockford</field>
+		<field name="main">eat drink</field>
+		<field name="name">Bills Place Grill Bar</field>
+		<field name="content">947-5955.</field>
+		<field name="address">381 1st Street South</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105433</field>
+		<field name="title">New Rockford</field>
+		<field name="main">eat drink</field>
+		<field name="name">Hansons Bar</field>
+		<field name="content">947-5522.</field>
+		<field name="address">811 Central Ave</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105434</field>
+		<field name="title">Helen</field>
+		<field name="main">eat drink</field>
+		<field name="name">Hofbrau Riverfront Motel Restaurant</field>
+		<field name="phone">+1 706 878-2248</field>
+		<field name="address">9001 Main Street</field>
+		<field name="url">http://www.riverfronthotel.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105435</field>
+		<field name="title">Hellertown</field>
+		<field name="main">eat drink</field>
+		<field name="name">Braveheart Highland Pub</field>
+		<field name="content">Hailed as being the "only authentic Scottish Pub in  Lehigh Valley ."</field>
+		<field name="phone">+1 610-883-6566</field>
+		<field name="address">430 Main Street</field>
+		<field name="url">http://www.bravehearthighlandpub.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105436</field>
+		<field name="title">Helen</field>
+		<field name="main">eat drink</field>
+		<field name="name">Sunflower Restaurant</field>
+		<field name="phone">+1 706 878-8899</field>
+		<field name="address">8252 S. Main St</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105437</field>
+		<field name="title">New Rockford</field>
+		<field name="main">eat drink</field>
+		<field name="name">eat drink</field>
+		<field name="content">Bucket Joes Pizza, 826 Central, 947-2455.     Double D Saloon, 1678 Hwy 281 S, 947-2337.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105438</field>
+		<field name="title">Helen</field>
+		<field name="main">eat drink</field>
+		<field name="name">The Helen House Restaurant</field>
+		<field name="phone">+1 706 892-1004</field>
+		<field name="address">8797 N. Main St</field>
+		<field name="url">http://helenhouse.food.officelive.com/default.aspx</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105439</field>
+		<field name="title">Medora</field>
+		<field name="main">eat drink</field>
+		<field name="name">Cowboy Cafe</field>
+		<field name="phone">+1 701  623-4343</field>
+		<field name="address">215 Fourth Street</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105440</field>
+		<field name="title">Trimont</field>
+		<field name="main">eat drink</field>
+		<field name="name">Trimont Chocolate Moose</field>
+		<field name="phone">+1 507-639-7350</field>
+		<field name="address">170 Main St. W</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105441</field>
+		<field name="title">East St. Louis</field>
+		<field name="main">eat drink</field>
+		<field name="name">Tienda El Ranchito</field>
+		<field name="content">Mexican.</field>
+		<field name="phone">+1 (618) 875-3227</field>
+		<field name="address">2565 N 32nd St</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105442</field>
+		<field name="title">Hellertown</field>
+		<field name="main">eat drink</field>
+		<field name="name">eat drink</field>
+		<field name="content">Many pizzerias and Italian Restaurants also line Hellertowns Main Street. Local names include Roccos Pizzeria and Italian Restaurant (Near East Thomas Avenue), Antonios Pizza (at West Depot Street), DiMaios Italian Restaurant (in Shoppes at Hellertown Plaza at McAdoo Avenue/Polk Valley Road), and Feasta Pizza (in Creekside Marketplace Plaza just outside of Hellertown near Meadows Road).  A wealth of restaurants can be found just five minutes away from Hellertown in  Bethlehem .   Bethlehem Brew Works ,  Starters Pub ,  Godfrey Daniels Coffeehouse , and the  Tap Room Lounge  are hot spots for area college students and adults alike.  For more places to eat, check the listings on the  Allentown ,  Bethlehem  or  Easton  pages.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105443</field>
+		<field name="title">Medora</field>
+		<field name="main">eat drink</field>
+		<field name="name">The Pizza Parlor</field>
+		<field name="phone">+1 701  623-4481</field>
+		<field name="address">260 Third Street</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105444</field>
+		<field name="title">Hellertown</field>
+		<field name="main">eat drink</field>
+		<field name="name">Vassis Drive In</field>
+		<field name="content">Vassis echoes a 1950s malt shop by featuring a tantalizing selection of ice cream in a quaint and casual setting. The menu is equally minute, but a few key staples, including hot dogs, burgers, gyros and cheesesteaks, keep patrons coming back for more.</field>
+		<field name="phone">+1 610-838-1877</field>
+		<field name="price">$2-8</field>
+		<field name="address">Main St Kichline Ave</field>
+		<field name="hours">Tues-Sun: 11am-9pm, Changes in Summer</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105445</field>
+		<field name="title">Hellertown</field>
+		<field name="main">eat drink</field>
+		<field name="name">Ricardos Tavern House</field>
+		<field name="content">Just the "Tavern House", as it is known to locals, serves up a hometown atmosphere with a Mexican flare.</field>
+		<field name="phone">+1 610-838-6737</field>
+		<field name="price">$9-15</field>
+		<field name="address">Main Penn Streets</field>
+		<field name="hours">Tues-Sat: 11am-10pm, Sun: 12pm-9pm</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105446</field>
+		<field name="title">Medora</field>
+		<field name="main">eat drink</field>
+		<field name="name">Little Missouri Dining Room Saloon</field>
+		<field name="phone">+1 701  623-4404</field>
+		<field name="address">440 Third Street</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105447</field>
+		<field name="title">New Rockford</field>
+		<field name="main">eat drink</field>
+		<field name="name">RoughCuts Grill Saloon</field>
+		<field name="content">947-5976.</field>
+		<field name="address">381 1st St. S</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105448</field>
+		<field name="title">Helen</field>
+		<field name="main">eat drink</field>
+		<field name="name">Old Bavaria Inn Restaurant</field>
+		<field name="phone">+1 706 878-3729</field>
+		<field name="address">8619 S Main St</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105449</field>
+		<field name="title">New Orleans/Central City</field>
+		<field name="main">eat drink</field>
+		<field name="name">Phillys Cafe</field>
+		<field name="content">Solid Philly cheesesteaks in a town where a good cheesesteak is hard to come by.</field>
+		<field name="phone">+1 504 896-2228</field>
+		<field name="price">$4-8</field>
+		<field name="address">2816 Claiborne Ave</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105450</field>
+		<field name="title">Hellertown</field>
+		<field name="main">eat drink</field>
+		<field name="name">The Mateys Crossroads Hotel</field>
+		<field name="content">"Crossroads", as it is known by locals, has been voted "Best Cheesesteak" in the Lehigh Valley in the past, and is known for its inimitable pizza.</field>
+		<field name="phone">+1 610-838-7898</field>
+		<field name="price">$3-15</field>
+		<field name="address">Main High Streets</field>
+		<field name="hours">Mon-Sat: 11am-10pm</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105451</field>
+		<field name="title">New Rockford</field>
+		<field name="main">eat drink</field>
+		<field name="name">Dairy King</field>
+		<field name="content">947-5781.</field>
+		<field name="address">104 Central Ave</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105452</field>
+		<field name="title">Medora</field>
+		<field name="main">eat drink</field>
+		<field name="name">Chuckwagon</field>
+		<field name="content">M</field>
+		<field name="phone">+1 800  633-6721</field>
+		<field name="address">250 Third Avenue</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105453</field>
+		<field name="title">Helen</field>
+		<field name="main">eat drink</field>
+		<field name="name">Jordanos Pizza</field>
+		<field name="phone">+1 706 878-7732</field>
+		<field name="address">11 River St</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105454</field>
+		<field name="title">New Orleans/Central City</field>
+		<field name="main">eat drink</field>
+		<field name="name">Ms Hysters BBQ</field>
+		<field name="content">Ms Hyster has easily some of the best BBQ in New Orleans, and thats saying something. The popular sampler platter comes in at at a great deal of just $6 and is more than enough for one. Even if you are not planning to come by Central City for any other reason, if you are a real fan of BBQ, this one is worth making a special trip.</field>
+		<field name="phone">+1 504 522-3028</field>
+		<field name="price">$5-12</field>
+		<field name="address">2000 Claiborne Ave</field>
+		<field name="hours">M-Sa 11AM-8PM</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105455</field>
+		<field name="title">Trimont</field>
+		<field name="main">eat drink</field>
+		<field name="name">El Rodeo Mexican Foods</field>
+		<field name="phone">+1 507-639-3663</field>
+		<field name="address">518 Main St. W</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105456</field>
+		<field name="title">Medora</field>
+		<field name="main">eat drink</field>
+		<field name="name">Maltese Burgers</field>
+		<field name="phone">+1 701  623-4444</field>
+		<field name="address">336 Third Street</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105457</field>
+		<field name="title">New Rockford</field>
+		<field name="main">eat drink</field>
+		<field name="name">Nathans Burgers</field>
+		<field name="content">947-5781.</field>
+		<field name="address">101 1st St N</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105458</field>
+		<field name="title">Hellertown</field>
+		<field name="main">eat drink</field>
+		<field name="name">Beer Mussels</field>
+		<field name="content">The local, hometown bar with good food.</field>
+		<field name="phone">+1 610-838-8200</field>
+		<field name="price">$3-15</field>
+		<field name="address">Main Bachman Streets</field>
+		<field name="hours">Mon-Wed: 4pm-12am, Thu-Sat: 11am-2am, Sun: Noon-12am</field>
+		<field name="url">http://beermussels.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105459</field>
+		<field name="title">Truman</field>
+		<field name="main">eat drink</field>
+		<field name="name">eat drink</field>
+		<field name="content">Ajax Bar Grill Highway 15, 507.776.3147    Truman Drive In Highway 15, 507.776.6096  A traditional drive-in diner style meal or ice cream novelties. (closed during winter months.)</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105460</field>
+		<field name="title">East St. Louis</field>
+		<field name="main">eat drink</field>
+		<field name="name">Mothers Fish</field>
+		<field name="content">Seafood.</field>
+		<field name="phone">+1 (618) 875-7846</field>
+		<field name="address">517 Martin Luther King Drive</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

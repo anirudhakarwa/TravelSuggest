@@ -1,0 +1,47 @@
+<add>
+	<doc>
+		<field name="id">64644</field>
+		<field name="title">Door County (Wisconsin)</field>
+		<field name="main">tourist information</field>
+		<field name="name">tourist information</field>
+		<field name="content">Door Countys visitor information centers offer maps, brochures and other information for tourists. Door County Visitor Bureau, 1015 Green Bay Rd · PO Box 406 · Sturgeon Bay, WI 54235-0406  -  The Visitor Center Lobby is open 24 Hours a day, 7 Days a week.  The Visitor Center is staffed weekdays from 8:30 to 5:00  and  week-ends from 10:00 to 4:00.  Winter office hours: M-F 8:30 to 4:30 - PH 1-800-52-RELAX   .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64645</field>
+		<field name="title">Half Moon Bay</field>
+		<field name="main">tourist information</field>
+		<field name="name">iCoastside mobile application</field>
+		<field name="content">The official mobile application of the Half Moon Bay Coastside Chamber of Commerce Visitors Bureau with a complete tourist information directory, traffic transit information, surf, weather tide forecasts, KHMB local radio, local news, and many other features.</field>
+		<field name="price">free</field>
+		<field name="url">http://icoastside.com/download</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64646</field>
+		<field name="title">Half Moon Bay</field>
+		<field name="main">tourist information</field>
+		<field name="name">Half Moon Bay Visitor Information Center</field>
+		<field name="content">Visitor Information Center run by the Half Moon Bay Coastside Chamber of Commerce Visitors Bureau.</field>
+		<field name="directions">from westbound Hwy 92, turn left on to Main Street</field>
+		<field name="phone">+1 650 726-8380</field>
+		<field name="fax">+1 650 726-8389</field>
+		<field name="address">235 Main Street</field>
+		<field name="email">info@hmbchamber.com</field>
+		<field name="hours">M-F 9AM-5PM, Sa-Su 10AM-3PM.  Closed Martin Luther King, Jr. Day, Presidents Day, Close at 12PM on Good Friday, Easter, Memorial Day, 4th of July, Labor Day, Veterans Day, Thanksgiving Day following Friday, Christmas Eve, Christmas Day, and New Years Day</field>
+		<field name="url">http://www.hmbchamber.com/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64647</field>
+		<field name="title">Half Moon Bay</field>
+		<field name="main">tourist information</field>
+		<field name="name">tourist information</field>
+		<field name="content">Half Moon Bays visitor information center offer maps, brochures, directories, and other information for tourists.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

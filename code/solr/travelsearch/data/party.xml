@@ -1,0 +1,20 @@
+<add>
+	<doc>
+		<field name="id">8533</field>
+		<field name="title">Bloomington-Normal</field>
+		<field name="main">party</field>
+		<field name="name">other</field>
+		<field name="content">Keglers Pub, 804 North Hershey Road. Small bar, homey atmosphere. Offers karaoke on Thursday, Friday, and Saturdays.  Shooters Lounge, 503 North Prospect Road Suite 304. Large bar, wide selection of food. Karaoke. Has a large room for playing pool.  Slick Ricks Motor City Lounge, 907 East Oakland Avenue. Biker bar.  Windjammers Lounge, 2303 Stern Drive. Features karaoke twice a week.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8534</field>
+		<field name="title">Bloomington-Normal</field>
+		<field name="main">party</field>
+		<field name="name">party</field>
+		<field name="content">All bars close at 1:30, no smoking allowed Pub II: Good for earlier fun, but later on it gets a bit crowded. Offers upbeat sportsbar atmosphere with ample seating. Killarneys Pub: Irish Bar themed, with the stout atmosphere of any Irish pub! Lunkers Tavern: Great eats and a good atmosphere, Lunkers is inexpensive and enjoyable. Medici:A visual experience, this restaurant-bar offers a two tiered atmosphere and a breezy sundeck.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

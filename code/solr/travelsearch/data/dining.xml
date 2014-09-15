@@ -1,0 +1,47 @@
+<add>
+	<doc>
+		<field name="id">63060</field>
+		<field name="title">McAllen</field>
+		<field name="main">dining</field>
+		<field name="name">budget</field>
+		<field name="content">Dai Tung - 400 E Nolana Ave.  nicely priced Chinese Menu, with lunch specials mid-week. El Padrino - 116 S Broadway St. El Pollo Loco (The Crazy Chicken) - 601 Nolana Ave. Flame grilled Chicken with all the sides.    Le Lai Eastern Restaurant - 2901 N 10th St. Cheap lunches. Los Cazadores -  901 N Main St.  Breakfast, Tex-Mex, and BBQ. Great very traditional Lawyer food establishment- near the scenic Art Walk area. Lotus Inn Chinese Restaurant - 1120 N 10th St.  As close to real Chinese food as you will find short of PF Changs -also available in McAllen. Saigon - 1200 N 10th St.  Vietnamese -large soup bowls, great sandwiches, and very strong traditional Vietnamese Coffee. Taco Palenque - Two locations at 3020 N 10th St and 1000 S. 10th St.  Great Tex-Mex food for a great price.  Check out the salsa bar.   Taco Rico - 3716 W Pecan Ave.   Taqueria El Zarape - Three locations at 3420 N 10th St, 817 S 10th St, and 4401 N 23rd St.   -even has locations in neighboring cities! -Traditional 6 small taco format- beer available El Pato- This is a local favorite, serving made-to-order burritos</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63061</field>
+		<field name="title">McAllen</field>
+		<field name="main">dining</field>
+		<field name="name">mid-range</field>
+		<field name="content">Blue Onion - 925 Dove Ave. Salads, soups, pizzas and more. City Cafe - 2901 N 10th St.  Sandwiches, salads, soups and more. Costa Messa - 1621 N 11th St.  Mexican and Tex-Mex food. Don Pepes - 306 N McColl Rd.  Mexican food. Fresco - 7017 N 10th St. Italian food. Hop Tung - 4200 N 10th St. Chinese and Vietnamese food. Korea Garden - 3424 N 10th St.  Korean food. Kumori Sushi and Teppanyaki - Three locations at 1424 E Ridge Rd, 400 E Nolana Ave, and 4500 N 10th St.  Japanese food. La Mexicana 4300 Col Rowe Blvd.  Mexican food. Mamas Pizzeria - 401 N 10th St. Chicago style pizza.   Palenque Grill - 606 E Expressway 83.  Mexican food. Peppers - 4620 N 10th St. - Changed menu to high end dinners only- not Burgers, steaks, pizzas any more. -nice Menu though.  Republic of the Rio Grande - 1411 S. 10th St.  Diverse menu includes chicken fried steak, enchiladas suisas, and pizzas.   Sahadis - 709 N 10th St.  Greek and Mediterranean food.  Wine tastings every Friday night at 7:30PM. Live music. Bajio - North 10th. Steaks mid-priced to higher-priced. Hibatchi -near Bajio on North 10th (near the Lowes) mid to higher priced- try it and post more here. High churn rate in some locations and concepts- check for new ones for your trip. PF Changs - Frontage Road. Chinese food gets improvement for McAllen! nice calligraphy and artwork with modified Chinese food, not quite the real flavor, but good, near the new convention center.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63062</field>
+		<field name="title">McAllen</field>
+		<field name="main">dining</field>
+		<field name="name">splurge</field>
+		<field name="content">Capellini - 701 N Main St.  Mediterranean cuisine. in the Art District area- with both indoor and patio seating  Lansky and Brats - 400 E Nolana Ave.  Steakhouse and lounge.   Santa Fe Steakhouse - 1918 S 10th St.  Steakhouse and cantina.   Republic of the Rio Grande -on 10th just north of Hwy 83 (right side) Steaks, and both indoor and outdoor seating. The Patio on Guerra - on 17th Street, American and mexican dishes.  El Divino- in the Entertainment District, American cuisine.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63063</field>
+		<field name="title">Beaufort (South Carolina)</field>
+		<field name="main">dining</field>
+		<field name="name">dining</field>
+		<field name="content">Magnolia Café, Bakery, and Garden Gift Gallery The menu offers deli sandwiches made from the finest deli meat, daily homemade soups, crab cakes, and everything in between.  Dine with a view of the scenic bay.  It won “Best Bakery”, 2001 Reader’s Choice Award, The Beaufort Gazette’s Reader’s Choice Award, and featured on Carolina Morning News (1999).  Conveniently located across from Visitor’s Center: 703 Congress St. Beaufort, SC 29902. Telephone: 843-522-2064. Link to view full menu and pictures: http://www.thefoodscoop.com/mbc.html  Emily’s Restaurant and Tapas Bar Recommended on Trip Advisor, Emily’s Restaurant offers over 20 variety of tapas, crab soup, and a different dessert every night.  It is a small, quaint restaurant with a cozy atmosphere.  Located: 906 Port Republic Street Beaufort, SC Telephone: 843-522-1866 Link for the full menu and pictures: http://www.emilysrestaurantandtapasbar.com/index.html</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63064</field>
+		<field name="title">McAllen</field>
+		<field name="main">dining</field>
+		<field name="name">dining</field>
+		<field name="content">With over 600 dining establishments in the City, excellent dining choices is one of McAllens strengths. Tex-Mex is of course very popular, as is Chinese, barbecue, seafood and sushi, among others. McAllen offers dozens of popular chains such as Macaroni Grill, PF Changs, and Johnny Carinos, and also excellent local favorites, many with chefs who have studied in the worlds finest schools. Many restaurants serve meals featuring organic, locally grown products, and you will find a variety of live music featured in many establishments.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

@@ -1,0 +1,119 @@
+<add>
+	<doc>
+		<field name="id">32262</field>
+		<field name="title">Aroostook</field>
+		<field name="main">towns</field>
+		<field name="name">very small towns</field>
+		<field name="content">Bancroft    Guerette</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">32263</field>
+		<field name="title">Leelanau Peninsula</field>
+		<field name="main">towns</field>
+		<field name="name">unincorporated communities</field>
+		<field name="content">Burdickville  Cedar mdash; home to the Cedar Polka Festival  Fouch  Glen Haven   Leland  mdash; home to historic Fishtown and the Manitou Island ferry. The county seat.  Maple City (pop. 1,577)  Omena has a small cove of Lake Michigan.  Peshawbestown mdash; home to the Leelanau Sands Casino and the Peshawbestown Pow-Wow held in August.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">32264</field>
+		<field name="title">Santa Cruz County</field>
+		<field name="main">towns</field>
+		<field name="name">towns</field>
+		<field name="content">Aptos    Ben Lomond    Boulder Creek    Felton</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">32265</field>
+		<field name="title">Newport County</field>
+		<field name="main">towns</field>
+		<field name="name">towns</field>
+		<field name="content">Jamestown    Little Compton    Middletown    Newport    Portsmouth    Tiverton</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">32266</field>
+		<field name="title">Aroostook</field>
+		<field name="main">towns</field>
+		<field name="name">towns</field>
+		<field name="content">Some of the larger cities and towns:   Caribou    Fort Fairfield    Fort Kent    Houlton    Limestone    Littleton    Loring Commerce Center  (formerly Loring Air Force Base)   Madawaska    Mars Hill    Presque Isle    Van Buren</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">32267</field>
+		<field name="title">Salem County</field>
+		<field name="main">towns</field>
+		<field name="name">towns</field>
+		<field name="content">Carneys Point    Penns Grove    Pennsville    Salem    Woodstown    Pedricktown</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">32268</field>
+		<field name="title">Antelope Valley</field>
+		<field name="main">towns</field>
+		<field name="name">towns</field>
+		<field name="content">Antelope Acres  Boron  Del Sur  Edwards  Elizabeth Lake  Gorman  Kramer Junction  Lake Hughes  Lake Los Angeles  Leona Valley  Littlerock  Llano   Mojave   Neenach  North Edwards  Pearblossom  Quartz Hill   Rosamond</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">32269</field>
+		<field name="title">Martha's Vineyard</field>
+		<field name="main">towns</field>
+		<field name="name">towns</field>
+		<field name="content">Marthas Vineyard Towns   Marthas Vineyard is made up of six towns, each with a selection of restaurants and accommodations.   Aquinnah , formerly known as Gay Head   Chilmark , including the fishing village of Menemsha   Edgartown , which includes Chappaquiddick Island   Oak Bluffs , often mistakenly referred to as Oaks Bluff   Tisbury , including the main village of Vineyard Haven in the town center   West Tisbury</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">32270</field>
+		<field name="title">Leelanau Peninsula</field>
+		<field name="main">towns</field>
+		<field name="name">towns</field>
+		<field name="content">Empire (pop. 378) mdash; a great base for seeing the Sleeping Bear Dunes  Glen Arbor (pop. 788) mdash; home to the Cherry Republic  Lake Leelanau(pop.359) county jail, county courthouse. Leelanau Enterprise Paper. Walleye Festival in May.   Northport  (pop. 648) mdash; the northernmost town, at the tip of the peninsula, with convenient lighthouse access. State campground next to lighthouse grounds.  Suttons Bay (pop. 589) mdash; a charming town with good shops, restaurants and wineries. Counties only movie theater.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">32271</field>
+		<field name="title">Bristol County (Rhode Island)</field>
+		<field name="main">towns</field>
+		<field name="name">towns</field>
+		<field name="content">Barrington   Bristol   Warren</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">32272</field>
+		<field name="title">Preston County</field>
+		<field name="main">towns</field>
+		<field name="name">towns</field>
+		<field name="content">Albright (pop. 247)  Brandonville (pop. 102)  Bruceton Mills (pop. 74)   Kingwood  (pop. 2,944)  Masontown (pop. 647)  Newburg (pop. 360)  Reedsville (pop. 517)  Rowlesburg (pop. 613)  Terra Alta (pop. 1,456)  Tunnelton (pop. 336)</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">32273</field>
+		<field name="title">Les Cheneaux Islands</field>
+		<field name="main">towns</field>
+		<field name="name">towns</field>
+		<field name="content">Cedarville    Hessel</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">32274</field>
+		<field name="title">Grand Isle County</field>
+		<field name="main">towns</field>
+		<field name="name">towns</field>
+		<field name="content">Grand Isle    South Hero</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

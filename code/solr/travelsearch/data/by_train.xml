@@ -1,0 +1,83 @@
+<add>
+	<doc>
+		<field name="id">7478</field>
+		<field name="title">Mechanicsburg</field>
+		<field name="main">by train</field>
+		<field name="name">by car</field>
+		<field name="content">Being that Mechanicsburg connects into the Carlisle Pike, a major trucking road, many highways connect to the area which makes it easily accessible by car. Coming from the north take I-81 to Exit 3, Carlisle Pike.  Coming from the east or south take I-83 exit 4, Mechanicsburg. Coming westbound take PA Rt. 581. The Pennsylvania Turnpike, I-76 takes you to Mechanicsburg off the Harrisburg West exit.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">7479</field>
+		<field name="title">Mechanicsburg</field>
+		<field name="main">by train</field>
+		<field name="name">by bus</field>
+		<field name="content">Wolfs Bus Lines  Inc State St, Mechanicsburg, PA (717) 697-8569   Rohrer Bus Service-Cumberland Valley  206 Hempt Rd, Mechanicsburg, PA (717) 766-9205‎   Greyhound Bus</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">7480</field>
+		<field name="title">Munster (Indiana)</field>
+		<field name="main">by train</field>
+		<field name="name">by train</field>
+		<field name="content">Northern Indiana Commuter Transportation District Customer Service Department 33 East U.S. Highway 12 Chesterton, IN  46304 219-926-5744 www.nictd.com</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">7481</field>
+		<field name="title">Mechanicsburg</field>
+		<field name="main">by train</field>
+		<field name="name">by train</field>
+		<field name="content">=  Harrisburg is home to the  Harrisburg Amtrak Station .  The Amtrak train moves at an average speed of 100 miles per hour and sells reasonably priced tickets.  The train is cheap, timely, and an economical means of transportation. Located at 4th and Chestnut Street the station is a quick 8 miles to Mechanicsburg.  Harrisburg is home to many taxi companies willing to drive the 8 miles into Mechanicsburg including Capital City Cab Services, American Taxi, Personal Driver Services, and AAA Alpine Taxicab Company.  Averaging $10-$12.00 for a taxi ride into town these cab services are perfect to get a traveler to Mechanicsburg in a timely fashion.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">7482</field>
+		<field name="title">Port Huron</field>
+		<field name="main">by train</field>
+		<field name="name">by train</field>
+		<field name="content">Amtrak,   . Service from  Chicago ,  East Lansing  and  Flint  via the  Blue Water Service .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">7483</field>
+		<field name="title">Bayonne (New Jersey)</field>
+		<field name="main">by train</field>
+		<field name="name">by train</field>
+		<field name="content">New Jersey Transits Hudson-Bergen Light Rail system provides service throughout Bayonne, Jersey City, Hoboken, Weehawken, Union City and North Bergen.  Stations in Bayonne are:  45th Street, Avenue E at East 45th Street  34th Street, Avenue E at East 34th Street  22nd Street, Avenue E at East 22nd Street  8th Street, Avenue C at West 8th Street/North Street   Service within Bayonne is available between these four stations. Northbound service from Bayonne runs through Jersey City, mostly near the waterfront, to Hoboken Terminal. Other parts of the system can be accessed via transfers. The Liberty State Park station is the nearest transfer station for those traveling between Bayonne and stations on the West Side Avenue line. PATH trains for Midtown Manhattan and New Jersey Transit commuter train service throughout the state are available at Hoboken Terminal. PATH trains for Newark, Harrison, and Downtown Manhattan are available at Exchange Place.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">7484</field>
+		<field name="title">Fond du Lac</field>
+		<field name="main">by train</field>
+		<field name="name">by train</field>
+		<field name="content">Currently there is no passenger train service to Fond du Lac. However, a planned Amtrak route to Green Bay from Milwaukee will stop in the city. The route is part of the Midwest High Speed Rail Initiative.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">7485</field>
+		<field name="title">Pontiac (Michigan)</field>
+		<field name="main">by train</field>
+		<field name="name">by train</field>
+		<field name="content">Amtrak , 51000 Woodward Ave,   . Train service to and from  Chicago  on the  Wolverine Service  (5-6 hours, $25-$50), with many connections in Chicago. Deeply discounted tickets at short notice are often available at Amtraks Weekly Specials page   .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">7486</field>
+		<field name="title">Eastern Shore (Maryland)</field>
+		<field name="main">by train</field>
+		<field name="name">by train</field>
+		<field name="content">Amtraks nearest train stations are: Baltimore- Thurgood Marshall Airport (BWI), Baltimore- Penn Station (BAL), Newark, DE (NRK), Wilmington, DE (WIL), Richmond- Main Street Station (RVM), Richmond-Staples Mill Rd (RVR), Williamsburg, VA (WBG), Newport News, VA (NPN), Washington, D.C.- Union Station (WAS), North Philadelphia (PHN), and Philadelphia-30th Street Station (PHL). From these train stations you can take a bus to various cities on the Eastern Shore.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

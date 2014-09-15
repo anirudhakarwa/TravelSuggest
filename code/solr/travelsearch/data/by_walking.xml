@@ -1,0 +1,11 @@
+<add>
+	<doc>
+		<field name="id">51299</field>
+		<field name="title">Forestville</field>
+		<field name="main">by walking</field>
+		<field name="name">by walking</field>
+		<field name="content">Walking is a great way to see the small town, visit the coffee house, and few local shops. Downtown can be walked from one end to the other in about fifteen minutes.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

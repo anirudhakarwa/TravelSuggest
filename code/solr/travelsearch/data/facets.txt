@@ -1,0 +1,5 @@
+&facet.pivot=cat,popularity,inStock&facet.pivot=popularity,cat
+fq=searchField:Festivals&fq=searchField:Golf
+&facet=on&fq={!tag=krt}KARAT:10k_Gold&facet.field={!ex=krt}KARAT
+fq={!tag=searchField}Festivals&facet.field={!ex=searcField}Festivals
+fq={!tag=dt}searchField :golf OR festival&facet.field={!ex=dt}searchField

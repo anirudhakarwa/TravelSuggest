@@ -1,0 +1,11 @@
+<add>
+	<doc>
+		<field name="id">64642</field>
+		<field name="title">Great Lakes</field>
+		<field name="main">lakes</field>
+		<field name="name">lakes</field>
+		<field name="content">Although lakes usually have names like "This Lake" and "That Lake", the Great Lakes are named the other way round as "Lake This" and "Lake That".  In this area, if someone says something like "lets go to the Lake" without naming it, theyre probably referring to the nearest Great one.  Lake Superior Lake Michigan Lake Huron Lake Erie Lake Ontario  Although much smaller than these five, Lake Saint Clair (between  Southeast Michigan  and  Ontario , and between Lakes Huron and Erie) is part of the water system of the Great Lakes.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

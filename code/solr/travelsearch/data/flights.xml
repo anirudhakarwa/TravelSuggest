@@ -1,0 +1,164 @@
+<add>
+	<doc>
+		<field name="id">87701</field>
+		<field name="title">Hartsfield–Jackson Atlanta International Airport</field>
+		<field name="main">flights</field>
+		<field name="name">checking in</field>
+		<field name="content">Delta offers self check-in thats almost wholly automated. The fastest and easiest way is to use your ID, whether thats a credit card (only your name is pulled from it, so it doesnt matter whether you used it to book the ticket), a U.S. drivers license, a passport, or a frequent flyer number. You can also enter your confirmation number or other booking details. If youre checking bags, indicate that on the kiosk, and it will direct you to a bag drop. The whole process is easy and takes just a minute or two; just answer the questions on the kiosk.  Mobile check-in is also available at all security checkpoints; this lets you pull up your boarding pass on your mobile phone to get through security and board the plane, bypassing the check-in desks and saving paper.  The other airlines have self check-in kiosks available, but they may not be as efficient. AirTran in particular suffers from extremely long lines at times.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87702</field>
+		<field name="title">Hartsfield–Jackson Atlanta International Airport</field>
+		<field name="main">flights</field>
+		<field name="name">baggage</field>
+		<field name="content">Regardless of what gate you arrive at, if youre on an international flight your baggage will be at the international terminal in Concourse F. For domestic flights, your baggage will be in the domestic terminal in either South Terminal (Delta and its partners) or North Terminal (all other airlines).</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87703</field>
+		<field name="title">O'Hare International Airport</field>
+		<field name="main">flights</field>
+		<field name="name">arrive</field>
+		<field name="content">For passengers arriving on international flights, Immigration and  Customs  formalities typically take 15-30 minutes, but can can take up to 2 hours at peak times. The busiest times are in the afternoon, and the full statistics can be seen  here .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87704</field>
+		<field name="title">O'Hare International Airport</field>
+		<field name="main">flights</field>
+		<field name="name">transfer</field>
+		<field name="content">Passengers transferring between international flights should note that there are no special transit facilities, which means that even if you have an immediate connecting flight, you have to pass through Customs and Immigration.  For details of entry and visa requirements see  get in section of United States page . Passengers arriving on international flights and transferring to another international or domestic flight will have to go through security again.   Airport map</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87705</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">flights</field>
+		<field name="name">domestic</field>
+		<field name="content">Frontier Airlines (serving about 10-12nbsp;cities), JetBlue Airways (20-25nbsp;cities), Southwest Airlines (40-45nbsp;cities) use the airport as a focus city and fly numerous routes to/from Orlando. Furthermore, Delta Air Lines offers 10-15nbsp; 1.5-hour flights daily between Orlando and their mega-hub in  Atlanta  and American Airlines has around 10 45—minute flights a day to their Miami hub. Non-stop service is offered to nearly every major city east of the Mississippi and to several major western cities (LA, San Francisco, Seattle, Phoenix, Las Vegas, Salt Lake City, Denver). With Orlandos status as a major vacation destination, most airlines fly to Orlando from nearly all of their hubs (and with multiple daily flights from hubs east of the Mississippi River). The busiest domestic routes (Aug 2011-Jul 2012) from Orlando are Atlanta (1.3nbsp;million passengers on Delta or Southwest/AirTran), New York-JFK (700,000 passengers on American, Delta, JetBlue), Philadelphia, Newark, Detroit, Miami, Dallas/Fort Worth, Charlotte, Chicago-OHare, Baltimore.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87706</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">flights</field>
+		<field name="name">canada</field>
+		<field name="content">Over a dozen Canadian destinations are served non-stop.  Calgary ,  Montreal ,  Toronto  are served year-round.  Edmonton ,  Halifax ,  Hamilton ,  London ,  Moncton ,  Ottawa ,  Quebec ,  Saint Johns ,  Winnipeg  are served seasonally. Toronto-Pearson is the second busiest international route from Orlando, with over 400,000 passengers annually (2011) or an average of over 1,000 passengers daily.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87707</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">flights</field>
+		<field name="name">caribbean central america</field>
+		<field name="content">Destinations in the Caribbean and Central America are:  Aruba  (Southwest);  Cancún , Mexico (JetBlue);  Kingston , Jamaica (Carri bean); Marsh Harbour, the Bahamas (United);  Mexico City  (AeroMexico, Volaris);  Montego Bay , Jamaica (JetBlue, Southwest);  Monterrey , Mexico (VivaAerobus, seasonally);  Nassau , the Bahamas (Bahamasair, JetBlue);  Panama City  (Copa);  Port of Spain , Trinidad and Tobago (Caribbean);  San Jose , Costa Rica (JetBlue);  San Salvador , El Salvador (Taca);  Santo Domingo , Dominican Republic (JetBlue). The airport was approved in 2012 to operate flights to  Cuba .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87708</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">flights</field>
+		<field name="name">south america</field>
+		<field name="content">To South America, there are daily flights to  Rio de Janeiro -Galeão (TAM),  São Paulo -Guarulhos (twice daily on TAM; seasonally on Whitejets),  Bogota  (Avianca, Jet Blue) and seasonal service to  Santiago , Chile (LAN).</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87709</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">flights</field>
+		<field name="name">trans-atlantic</field>
+		<field name="content">Daily flights to Europe are offered by Virgin Atlantic ( London -Gatwick  Manchester ), British Airways (London-Gatwick), Lufthansa ( Frankfurt ). Multiple flights per week are flown to  Dublin  (Aer Lingus) and  Glasgow  (Virgin Atlantic, seasonally). Orlando-London (Gatwick) is the busiest international route (and 3rd busiest route overall) for O.I.A. with nearly 700,000 passengers on the route (in 2011). There are over 1 million passengers each year on non-stop Orlando-U.K. routes.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87710</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">flights</field>
+		<field name="name">arrive</field>
+		<field name="content">For those arriving on international flights,  Immigration and Customs  process usually takes 15-30 minutes, but can take over an hour at peak times. The busiest times are in the afternoon, and the full statistics can be seen  here .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87711</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">flights</field>
+		<field name="name">transfer</field>
+		<field name="content">Like all airports in the United States, there are no special transit facilities for international transfers. That means that if you are arriving from an international flight and have an immediate connection, you will have to pass through Customs and Immigration. For details of entry and visa requirements see  get in section of United States page .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87712</field>
+		<field name="title">Detroit Metropolitan Wayne County Airport</field>
+		<field name="main">flights</field>
+		<field name="name">airlines</field>
+		<field name="content">McNamara Terminal: Delta, Air France, SkyTeam partners.  North Terminal:Air Canada, Air Tran, American Airlines, Frontier Airlines, Lufthansa, Royal Jordanian, Southwest, Spirit, United, US Airways</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87713</field>
+		<field name="title">Los Angeles International Airport</field>
+		<field name="main">flights</field>
+		<field name="name">flights</field>
+		<field name="content">As of 2013, LAX offers 680 daily flights to 96 domestic cities and 930 weekly nonstop flights to 59 cities in 30 countries on 63 commercial air carriers, making it the sixth busiest airport in the world and the third busiest airport in the United States.   Terminal 1 - There are fifteen gates at terminal 1, which as of 2013 is undergoing a $400 million renovation.  This terminal services AirTran Airways, Southwest Airlines and US Airways.  Terminal 2 - There are eleven gates at terminal 2, which primarily service foreign airlines that do not use the Tom Bradley International.  Airlines utilizing this terminal include Aeromexico, Air Canada, Air China, Air France, Air New Zealand, Alitalia, Arkefly, Avianca Airlines, Hawaiian Airlines, KLM Royal Dutch Airlines, LACSA Airlines, Sun Country Airlines, TACA International Airlines, Virgin Atlantic, Volaris and WestJet.  Terminal 3 - There are twelve gates at this terminal servicing JetBlue, Spirit Airlines. Virgin America and Virgin Australia.  Tom Bradley International Terminal (TBIT) - The Tom Bradley International Terminal services most international flights and is located between terminals 3 and 4.  As of 2013 it is undergoing a $1.5 billion expansion to add eighteen gates, 150,000 ft2of dining, retail, and lounge space, and significantly larger security, ticketing, and baggage areas.  Terminal 4 - Terminal 4 has fourteen gates servicing American Airlines and American Eagle.  Terminal 5 - Terminal 5 has fourteen gates servicing Delta Airlines.  Terminal 6 - Terminal 6 has fourteen gates servicing Alaska Airlines, Allegiant Air, Copa Airlines (Panama), Frontier Airlines, Great Lakes Airlines and United Airlines (Premier, First Class, Business Class Only).  Terminal 7 - Terminal 7 has eleven gates servicing United Airlines.  Terminal 8 - Terminal 8 has nine gates primarily servicing smaller jets, and is used by United Express.  Note that many international flights do not leave from or arrive at the Tom Bradley International Terminal. To avoid missing flights, always determine in advance which terminal(s) your international flights will be flying in or out of, especially if you are connecting through LAX.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87714</field>
+		<field name="title">Dallas/Fort Worth International Airport</field>
+		<field name="main">flights</field>
+		<field name="name">flights</field>
+		<field name="content">DFW International has 5 terminals. Terminals A, B, and C handle domestic flights, while Terminal D and E handles international and domestic flights. All terminals are connected by a quick rail system inside security and buses outside of security. American Airlines and its affiliate American Eagle has a dominate position at DFW airport and occupies all of Terminals A, B, and C and part of D. Terminal A- American Airlines Terminal B- American Eagle Terminal C- American Airlines Terminal D- AeroMexico, Air Canada, American Airlines, American Eagle, British Airways, Cayman Airways, Emirates, KLM, Korean Air, Lufthansa, QANTAS, Sun Country Airlines, TACA Terminal E- Air Canada, Alaska Airlines, Delta Air Lines, Frontier Airlines, JetBlue, Spirit Airlines, United Airlines, US Airways, Virgin America, WestJet</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87715</field>
+		<field name="title">John F. Kennedy International Airport</field>
+		<field name="main">flights</field>
+		<field name="name">flights</field>
+		<field name="content">With seven terminals, the airlines that serve JFK are spread across the airport. Delta Airlines operates a major international hub out of Terminals 2 and 3, while American Airlines has a hub in Terminal 8. Terminal 5 serves as the base of operations for low-cost carrier JetBlue. Most of the international airlines which serve JFK are split between Terminals 1 and 4, though there are also some operating out of Terminals 5, 7, and 8.   Terminal 1: International terminal, served by Aeroflot, Aeromexico, Air China, Air France, Alitalia, Austrian Airlines, Brussels Airlines, Cayman Airlines, China Eastern Airlines, EVA Air, Fly Jamaica Airways, Interjet, Japan Airlines, Korean Air, LOT Polish Airlines, Lufthansa, Meridiana, Royal Air Maroc, Saudia, and Turkish Airlines  Terminal 2: Delta Air Lines (mostly Delta Connection flights)  Terminal 3: Delta Air Lines  Terminal 4: JFKs newest international terminal, served by Air Europa, Air India, Arik Air, Asiana Airlines, Avianca, Caribbean Airlines, China Airlines, Copa Airlines, EgyptAir, El Al, Emirates, Etihad Airways, KLM, Kuwait Airways, Pakistan International Airlines, Singapore Airlines, South African Airways, Sun Country Airlines, Swiss International Air Lines, TACA Airlines, Transaero Airlines, Uzbekistan Airways, Virgin America, Virgin Atlantic, and XL Airways France, as well as some Delta and JetBlue flights  Terminal 5: JetBlue Airways, Aer Lingus, and Hawaiian Airlines  Terminal 7: Air Canada, All Nippon Airways, British Airways, Cathay Pacific, Iberia, Icelandair, OpenSkies, Qantas, Sky King, United Airlines, and US Airways  Terminal 8: American Airlines, Air Berlin, Finnair, LAN Airlines, Qatar Airways, Royal Jordanian, and TAM Airlines</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87716</field>
+		<field name="title">Orlando International Airport</field>
+		<field name="main">flights</field>
+		<field name="name">flights</field>
+		<field name="content">A Delta Airlines aircraft on the tarmac at MCO.   Orlando International Airport is a focus city (or minor hub) for Frontier Airlines (serving about 10-12nbsp;cities), JetBlue Airways (20-25nbsp;cities), Southwest Airlines (40-45nbsp;cities), all of which fly numerous routes to/from Orlando. O.I.A regularly sees Boeing 747s from Virgin, British Airways, Lufthansa; however, and despite being one of the first prepared to handle it, there has yet to be an A380 seen on routes to/from MCO.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87717</field>
+		<field name="title">Miami International Airport</field>
+		<field name="main">flights</field>
+		<field name="name">flights</field>
+		<field name="content">The predominant carrier at MIA is  American Airlines , which has direct flights to most major cities in the Americas, and several European cities as well. European, Latin-American and Caribbean carriers are well-represented at MIA. The airport has no non-stop service to Asia, Africa or Oceania.  The recent construction of two new terminals at MIA has helped with the airports passenger capacities as well as the efficiency in going through customs and baggage claim.  North Terminal (Concourse D): American Airlines Central Terminal (Concourse E): Air Berlin, American Airlines, British Airways, Cayman Airways, Iberia, Interjet, WestJet Central Terminal (Concourse F): Aeroflot, Arkefly, Avior Airlines, Insel Air, SBA Airlines, Sky King, Sun Country Airlines, Surinam Airways, Transaero Airlines, Virgin Atlantic Central Terminal (Concourse G): Bahamasair, Sky King, United Airlines, World Atlantic Airlines South Terminal (Concourse H): Aeroméxico, Air France, Copa Airlines, Delta Air Lines, Dutch Antilles Express South Terminal (Concourse J): Aerolíneas Argentinas, Air Canada, Alitalia, Avianca, Canarias Líneas Aéreas, Caribbean Airlines, Copa Airlines, Gol Airlines, IBC Airways, LAN Airlines, Lufthansa, Miami Air, Swiss International Air Lines, TACA Airlines, TAM Airlines, TAP Portugal, US Airways</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87718</field>
+		<field name="title">O'Hare International Airport</field>
+		<field name="main">flights</field>
+		<field name="name">flights</field>
+		<field name="content">OHare has four passenger terminals. Terminals 1-3 handle domestic traffic (and some international departures); Terminal 5 handles all international arrivals and international departures that are not covered by Terminals 1-3. (Terminal 4 is something of a fnord, its temporary space since re-appropriated as the shuttle bus depot; the name has been set aside for potential future expansion).   United Airlines has a significant presence at OHare, since its corporate offices are located in downtown Chicago. OHare is also a major hub for American Airlines. As such, a rule of thumb is that Terminal 1 is dominated by United and its alliance partners; Terminal 3 is given over to American and its partners, and Terminal 2 is everybody else, plus some United Express gates that wouldnt fit in Terminal 1. More precisely:   Terminal 1 All Nippon, Lufthansa (departures only), United Airlines (domestic arrivals and departures) (international departures only), United Express   Terminal 2 Air Canada, Delta Air Lines, US Airways, United Express     Terminal 3 Air Choice One Airlines, Alaska Airlines, American Airlines (domestic and international departures), American Eagle, Iberia Airlines (departures only), Jetblue, Spirit Airlines, and Westjet    Terminal 5 Aer Lingus, Air France, Air India, Air Jamaica, Alitalia, All Nippon, American Airlines (International arrivals only), Asiana Airlines, Austrian Airlines, British Airways, Cathay Pacific, Cayman Airways, Iberia Airlines (arrivals only), Japan Airlines (JAL), KLM, Korean Air, LOT Polish Airlines, Lufthansa (arrivals only), Mexicana,  Royal Jordanian, Scandinavian Airlines, SWISS, TACA Airlines, Turkish Airlines, United Airlines (international arrivals only), Virgin Atlantic</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

@@ -1,0 +1,65 @@
+<add>
+	<doc>
+		<field name="id">87723</field>
+		<field name="title">Humboldt County</field>
+		<field name="main">listen</field>
+		<field name="name">events</field>
+		<field name="content">Tour of the Unknown Coast    Redwood Coast Dixieland Jazz Festival    Kinetic Sculpture Race    Humboldt Redwoods Marathon    Reggae On the River Festival  Humboldt County Fair,    Held annually since 1869, has a lot of country feel to it and a good time for the family</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87724</field>
+		<field name="title">Woods Hole</field>
+		<field name="main">listen</field>
+		<field name="name">listen</field>
+		<field name="content">WCAI,   90.1 FM,  Located right in Woods Hole, the voice of Public Radio for the Cape Islands  WMVY, 92.7 FM,   Located on Marthas Vineyard, one of only a handful of independent radio stations in the country, and one of the only ones to have good reception in Woods Hole.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87725</field>
+		<field name="title">Memphis</field>
+		<field name="main">listen</field>
+		<field name="name">listen</field>
+		<field name="content">Soul, RB, and rock n roll have deep roots in Memphis, and destinations abound for good music today. Beale Street in downtown Memphis makes sense as a first destination.  A dozen clubs pipe their music onto the street, and each night a single wristband buys entrance to them all. Hi-Tone Cafe,   . Featured musical acts could be anybody, from reggae to country-western acts--all of them party bands, to be sure. Make sure you show up ready to move a little, drink a little and even eat little.  This club is closing at the end of February 2013, so catch it while you still can.  Wild Bills Lounge, 1580 Vollintine Ave. It sits unassumingly in a strip mall three miles northeast of Beale Street, where, as if out of an old movie, the boisterous Memphis Soul Survivors, led by the boisterous Miss Nicki, play to a boisterous crowd. Night hours on F-Su.  As they pay the $10 cover, patrons are greeted at the door by Wild Bill himself. Minglewood Hall,    1555 Madison Ave. Memphis newest music venue, located in Midtown at the former location of Strings n Things.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87726</field>
+		<field name="title">Humboldt County</field>
+		<field name="main">listen</field>
+		<field name="name">listen</field>
+		<field name="content">KSLG,    . Humboldts New Rock - Tune into stream   KHUM,    . Radio Without the Rules - Tune into stream   KHSU,    . Diverse Public Radio - Tune into stream   KMUD,    . Redwood Community Radio - Tune into stream</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87727</field>
+		<field name="title">Arcata</field>
+		<field name="main">listen</field>
+		<field name="name">listen</field>
+		<field name="content">KSLG,    . Humboldts New Rock - Tune into stream   KHUM,    . Radio Without the Rules - Tune into stream   KHSU,    . Diverse Public Radio - Tune into stream   KMUD,    . Redwood Community Radio - Tune into stream</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87728</field>
+		<field name="title">Austin</field>
+		<field name="main">listen</field>
+		<field name="name">listen</field>
+		<field name="content">List of Austin Radio Stations  FM  89.5 KMFA , commercial free classical station.  90.5 KUT , Austins public radio station. (24/7 talk radio).  91.7 KOOP , volunteer community radio.  93.7 KLBJ , classic rock.  94.7 KAMX , mix of the 80s, 90s and modern music.  95.5 , soft rock.  98.9 KUTX , Austins public radio station. (24/7 music).   99.7 KLBJ , conservative talk radio.  101.5 KROX , Independent. Local. Alternative.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87729</field>
+		<field name="title">New Orleans</field>
+		<field name="main">listen</field>
+		<field name="name">listen</field>
+		<field name="content">New Orleans is justly famous for the music it produces. In some other places live music may be thought of as occasional luxury; in New Orleans live music is an essential part of the fabric of life.  Parades from the grandest Mardi Gras spectaculars to small neighborhood club events have to have bands to get the locals dancing in the streets. Hey, New Orleans is the birthplace of the "jazz funeral".   There are usually several good performers somewhere in town even on a slow night. Understand that most of the good stuff is not along the tourist strip of Bourbon Street (though a couple of genuine good music venues exist even there). Most sections of the city have at least one (and often several) venue offering great live music.  Budget travelers should know there are usually at least a few free live music events every week in various parks and galleries around town. More often than not, on Sundays there will be a brass band "second line" parade somewhere in town.  The best ways to keep informed about who is playing where and when:   Gambits Best of New Orleans , Gambit, the citys free local newsweekly has features on arts and entertainment and whatever else is going on.  Gambit also produces the de-facto local restaurant guide and listings.   Offbeat Magazine  is a free monthly local music magazine with extensive listings. Can be picked up at most music venues, coffee shops, and other places around town, or ask your hotel concierge for a copy.   WWOZ 90.7 F.M.  is the community radio station dedicated to local music. At the top of each odd numbered hour they play a listing of the live music happening around town for the day. WWOZ is also good for finding out about special events like "second line" parades and "jazz funeral"s.   WTUL 91.5 FM  is the Tulane college radio station, playing mostly progressive music, but also jazz, classical, and numerous other specialties. At the top of each hour they announce concerts and other events going on around town.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

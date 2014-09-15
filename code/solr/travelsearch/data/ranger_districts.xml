@@ -1,0 +1,20 @@
+<add>
+	<doc>
+		<field name="id">75197</field>
+		<field name="title">Daniel Boone National Forest</field>
+		<field name="main">ranger districts</field>
+		<field name="name">Redbird Ranger District</field>
+		<field name="region2description">The central portion of the forest between the Kentucky and Cumberland Rivers.  Laurel River Lake is located in this district.</field>
+		<field name="region3color">9dbee2</field>
+		<field name="region4color">dcbed8</field>
+		<field name="region3description">The Stearns Ranger District is the southernmost section of the forest and borders the Big South Fork National Recreation Area</field>
+		<field name="region2color">f4e49e</field>
+		<field name="region4description">The easternmost portion of the forest was established in 1964 with the purchase of 60,000 acres for 2 million dollars from the Red Bird Timber Corporation.</field>
+		<field name="region1description">The Cumberland Ranger District is the northernmost section of the forest. The two main attractions in this district are Cave Run Lake and the Red River Gorge.</field>
+		<field name="regionmapsize">510px</field>
+		<field name="regionmap">Daniel_Boone_National_Forest_Ranger_Districts.png</field>
+		<field name="region1color">92d2ba</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

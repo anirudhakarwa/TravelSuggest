@@ -1,0 +1,22 @@
+<add>
+	<doc>
+		<field name="id">87699</field>
+		<field name="title">Westerly</field>
+		<field name="main">by taxi</field>
+		<field name="name">Wrights Taxi</field>
+		<field name="content">Also offers flat rates to destinations around Westerly and nearby attractions.</field>
+		<field name="phone">+1 401 596-8294</field>
+		<field name="address">31 Canal Street</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">87700</field>
+		<field name="title">West Bend (Wisconsin)</field>
+		<field name="main">by taxi</field>
+		<field name="name">by taxi</field>
+		<field name="content">There is also a taxi service in West Bend. Taxis have to be scheduled early to pick you up. They will almost always be very late however, so it is best to avoid the taxi service if at all possible.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

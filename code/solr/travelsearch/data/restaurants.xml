@@ -1,0 +1,11 @@
+<add>
+	<doc>
+		<field name="id">64803</field>
+		<field name="title">Waukegan</field>
+		<field name="main">restaurants</field>
+		<field name="name">italian restaurants</field>
+		<field name="content">Louies Restaurant, 1009 North Ave. Waukegan, IL 60085. Baccis Trattoria, 30 N Genesee St. Waukegan, IL 60085. Potestas Pizza Pasta, 434 S Green Bay Rd. Waukegan, IL 60085. Campari Ristorante, 30 N Genesee St. Waukegan, IL 60085. Pizza Hut, 2154 N Lewis Ave. Waukegan, IL 60087. Browns Chicken Pasta Incorporated, 3150 Belvidere Rd. Waukegan, IL 60085.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

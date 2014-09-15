@@ -1,0 +1,832 @@
+<add>
+	<doc>
+		<field name="id">105463</field>
+		<field name="title">Dallas</field>
+		<field name="main">districts</field>
+		<field name="name">center</field>
+		<field name="content">Downtown , including the historic West End. Home to a burgeoning residential and nightlife district.   Deep Ellum  is an old warehouse district that has been turned into collection of bars, restaurants, and loft apartments.   Uptown  - Immediately east of the Oak Lawn district—a playground and shopping grounds for the beautiful people of the city. Extends from Woodall Rodgers on the south to Haskell on the north, and from Central Expressway on the east to the Katy Trail on the west. Immediately north of Uptown, and sometimes included as part of it, is the Knox Park neighborhood, which includes restaurants and a plethora of upscale home furnishings shops.  "Knox/Henderson" is a split personality urban neighborhood worthy of its own designation.  The Knox side west of Hwy 75 is the more upscale half, with many restaurants and upscale home decor shops.  The Henderson side lagged behind its Knox half, but is now just as trendy, with a more low-key, relaxed vibe.  Henderson hot spots now line Henderson all the way from Hwy 75 to Ross.  Knox and the western half of Henderson are very pedestrian friendly.  Knox/Henderson is just a short walk up the Katy Trail from West Village.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105464</field>
+		<field name="title">Dallas</field>
+		<field name="main">districts</field>
+		<field name="name">northeast</field>
+		<field name="content">East Dallas  - This is the large area north of I-30 and south of Mockingbird, extending from Central Expressway to White Rock Lake and beyond. The closer-in areas are some of the "streetcar suburbs" built from the teens to 30s, with quaint bungalows and neighborhood strips that are teeming with restaurants, taverns, coffeehouses, wine bars, and vintage shops. A large oasis of laid-back in a sometimes uptight city, homey-but-hip East Dallas is a great place to mingle with locals. Contained within East Dallas is  Lower Greenville .   Lake Highlands , a largely residential area bordering  Garland  on the north and  Mesquite  on the east.   North Dallas and Preston Hollow , including the areas along the south side of northern I-635 loop (LBJ) but extending up around the borders of the North Dallas Tollway and  Addison . Made up of several upscale neighborhoods, north of the Park Cities and mostly south of LBJ.   Dallas/Highland Park and University Park . One of the wealthiest areas of the city, the "Park Cities" are mostly residential, but also offer world-class shopping opportunities at Highland Park Village (corner of Mockingbird and Preston) and elsewhere. North Park mall is on the northern edge of the Park Cities.  University Park is home to Southern Methodist University (SMU), the Meadows Museum at SMU, and the under-construction George W. Bush Presidential Library.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105465</field>
+		<field name="title">Dallas</field>
+		<field name="main">districts</field>
+		<field name="name">northwest</field>
+		<field name="content">Northwest Dallas , home to Koreatown and to Dallas Love Field, the citys second biggest airport.   Oak Lawn , north of downtown, Oak Lawn includes established Turtle Creek highrise living, a multitude of Parks and restaurants, dense, urban neighborhoods of mostly townhomes, apartments, and condos, and also includes the gay district of Cedar Springs.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105466</field>
+		<field name="title">Dallas</field>
+		<field name="main">districts</field>
+		<field name="name">south and west</field>
+		<field name="content">Oak Cliff , a large low-income, mainly residential district southwest of downtown. North Oak Cliff or "Kessler Park" is another "streetcar suburb" and is home to upscale homes, from vintage 1930s bungalows, to mid-century modern, to new contemporary.  The Bishop Arts District, centered on Bishop and Davis streets, is one of the Citys hottest areas for new restaurants, cafes, and boutiques, drawing an eclectic crowd in which the creative class and the gay community are well-represented.  North Oak Cliff is a slice of Austin in Dallas.   South Dallas , home to the Texas State Fairgrounds, Fair Park is open all year and is home to multiple museums.  The Cotton Bowl is at Fair Park, and the University of Texas and University of Oklahoma face off on the gridiron here every year in the fall during the Texas  State Fair . The Exposition Park neighborhood across from Fair Park and the DART Fair Park stop, is a little hamlet of hipster bars, clubs, and restaurants.     West Dallas  is largely a blighted area of poverty, but it does feature the one-of-a-kind Belmont Hotel, which has arguably the best views of downtown.  West Dallas is easily connected to the Oak Cliff area, and is poised for re-development as part of the Trinity River Project, and the under-construction Hunt-Hill Bridge across the Trinity River, designed by famed Spanish architect, Santiago Calatrava.  Some area attractions often thought of as Dallas attractions are actually located in the suburbs, notably the following:   Addison , almost surrounded by  North Dallas , has a lot of restaurants and shopping packed into its 4 square miles.   Arlington , home to the new Cowboys Stadium, Six Flags Over Texas, Six Flags Hurricane Harbor, and the ballpark of the Texas Rangers.   Irving , former home of the Dallas Cowboys Stadium, it serves as the gateway to the massive DFW airport.  The suburbs of  Carrollton  and  Lewisville , north along I-35E have less to offer in terms of attractions, but provide ample tourist accommodations, plenty of restaurants, and are reasonably close to any Dallas destination. The same might be said for  Richardson  and  Plano , which lie north from Dallas along US-75.   Grapevine  has a nice historic main street area and numerous wineries.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	
+	<doc>
+		<field name="id">105469</field>
+		<field name="title">Miami</field>
+		<field name="main">districts</field>
+		<field name="name">history</field>
+		<field name="content">Flagler’s railroad sparked a wave of expansion in areas such as Miami Beach, Homestead and Cutler. Soon after the railroad was built, the Overseas Highway was created. This highway connected the Florida Keys to the mainland. Growth and progress in Miami continued through World War I as well as into the mid-1920s.    A devastating hurricane in 1926 halted Miami’s growth and temporarily put the city, as well as Miami Beach, in a recession. It was the city’s support of President Franklin Delano Roosevelt’s New Deal that helped the city rebuild. Roosevelt almost lost his life, however, when Giuseppe Zangara attempted to assassinate Roosevelt when he came to Miami to thank the city for its support of the New Deal.  When a German U-boat sank a US tanker off Florida’s coast, the majority of South Florida was converted into military headquarters for the remainder of World War II. The Army’s WWII legacy in Miami is a school designed for Anti U-boat warfare.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105470</field>
+		<field name="title">Miami</field>
+		<field name="main">districts</field>
+		<field name="name">climate</field>
+		<field name="content">Because of its proximity to the Tropic of Cancer, Miamis weather is generally hot. The summer months of June–September will see most daytime highs over 90°F (32°C). Combined with the regions humidity, these can make for stifling temperatures, both day and night. You wont see nearly a car or home without running air conditioning. Winters average an impressive 75°F (24°C) for daytime temperatures and nights are slightly cooler. During June to November, rain and thunderstorms can be expected and are most common in the afternoon hours. Rain is known to fall heavily for a few minutes, to stop entirely, and then to begin again. Knowing its mercurial nature, local residents often drive or go outside in rainy weather to enjoy its cooling effect or to make good use of breaks in the storm.  Miami Beach Chamber of Commerce, 1920 Meridian Avenue    – Open M-F, 9AM-6PM, Sat-Sun, 10AM-4PM.  Greater Miami and the Beaches Convention Visitors Bureau, 27th floor of 701 Brickell Ave,  + 1 305 539-3000    – Open M-F 8:30AM-5PM.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105471</field>
+		<field name="title">New Orleans</field>
+		<field name="main">districts</field>
+		<field name="name">nearby communities and suburbs</field>
+		<field name="content">Jefferson Parish , includes  Kenner , the location of the New Orleans International Airport, and  Metairie , the largest suburb; many hotels and conventions are based here.   Saint Bernard Parish : Down river from New Orleans, includes the town of  Chalmette  where the "Battle of New Orleans" took place in 1815.   St. Tammany Parish  on the north shore of Lake Pontchartrain; includes  Slidell ,  Covington ,  Mandeville  and  Abita Springs   Plaquemines Parish  on both sides of the Mississippi south to the Gulf.  Destrehan : contains  Destrehan Plantation , one of the Souths best-preserved antebellum homes.  LaPlace : A fast-growing town upriver from New Orleans  River Region  Plantations: rural area, not technically part of the city of New Orleans, but closely associated with it.  Known mostly for its stunning historic plantations.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105472</field>
+		<field name="title">Cleveland</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">The following are districts of the city of Cleveland.  For the Cleveland Metropolitan area see  Cuyahoga County .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105473</field>
+		<field name="title">Chicago</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">Many visitors never make it past the attractions downtown, but you havent truly seen Chicago until you have ventured out into the neighborhoods. Chicagoans understand their city by splitting it into large "sides" to the north, west, and south of the central business district (the Loop). Chicagoans also tend to identify strongly with their neighborhood, reflecting real differences in culture and place throughout the city. Rivalries between the North and South Sides run particularly deep, while people from the West Side are free agents in critical issues like baseball loyalty.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105477</field>
+		<field name="title">Walt Disney World</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">Walt Disney World can be divided into five distinct areasmdash;one for each of the four theme parks, plus Downtown Disney.  The various resort hotels, and the attractions and restaurants found within, are grouped with the nearest park.  The  Magic Kingdom  mdash; Based on the original  Disneyland  in California, this is the oldest and most popular park of the complex; in fact, with over 17 million visitors annually, its the most-visited single theme park in the world.  This is the park people think of first when they think of Walt Disney World, a place where adventure meets fantasy and history meets the future.  The Magic Kingdom has the most kid-friendly attractions and most of the classic rides beloved by kids-at-heart.  Epcot  mdash; A sort of "permanent Worlds Fair", Epcot is dedicated to both international culture and technological innovation.  The park is a combination of two disparate ideas.  World Showcase takes you on a trip around the world as you visit themed pavilions filled with the art, architecture, people, and products of eleven different countries.  Future World explores human achievements in pavilions dedicated to communication, imagination, conservation, and more.  Not far from Epcot is Disneys Boardwalk, a collection of restaurants, gift shops, and nightlife spots themed as a 1920s Eastern Seaboard boardwalk.  Disneys Hollywood Studios  mdash; This park represents the "Hollywood that never was," with attractions themed around movies and television.  Youll find a variety of live shows and attractions based on Disney, Pixar, and Lucasfilm productions.  The ESPN Wide World of Sports complex is nearby.  Disneys Animal Kingdom  mdash; Not your average zoo, Animal Kingdom is a combination of live animals, foreign cultures, and traditional Disney magic. With an emphasis on understanding and conservation, Animal Kingdom is the largest and most diverse of the theme parks.   Blizzard Beach, a water park themed as a melting ski resort, is nearby.  Downtown Disney  mdash; For more "grown-up" activities, Downtown Disney has shopping, nightclubs, restaurants, and unique entertainment.  This is where the most action is after dark.  Downtown Disney is divided into three sections.  Downtown Disney Marketplace has most of the retail establishments plus a few restaurants and projects a family-friendly image. Pleasure Island is a more adult-oriented section, with upscale restaurants and even a cigar bar.  Finally, Downtown Disney West Side is home to a 24-screen cineplex, celebrity music restaurants, and the exclusive Cirque du Soleil show La Nouba. Typhoon Lagoon water park is nearby.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105478</field>
+		<field name="title">San Diego</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">A city defined by its many neighborhoods, San Diego really doesnt have any clearly defined "districts". This list, by no means an official division, reflects how a visitor might see the city, based on attractions and amenities.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105479</field>
+		<field name="title">San Francisco</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">Each district of San Francisco carries its own unique and distinct culture. This map is predominantly based on the 11 official governmental districts of San Francisco, but it has been adapted to suit the purposes of this travel guide. Some districts of particular interest to travelers have been broken up into popular neighborhood groupings, while others, mainly residential districts, have been merged.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105480</field>
+		<field name="title">Miami</field>
+		<field name="main">districts</field>
+		<field name="name">Overtown</field>
+		<field name="region7color">c39dc3</field>
+		<field name="region6color">c68d98</field>
+		<field name="region3color">d5dc76</field>
+		<field name="region4color">80bb89</field>
+		<field name="region8color">ffd0d0</field>
+		<field name="region5color">4da9c4</field>
+		<field name="region2color">d7a35a</field>
+		<field name="region1color">d56d76</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105481</field>
+		<field name="title">Baltimore</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">Baltimore has an absolutely staggering number of officially designated  neighborhoods , some just several blocks large, and each with its own character. They are administratively separated into nine larger regions. The following list is further simplified for the traveler and contains some of the neighborhoods you are most likely to visit.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105482</field>
+		<field name="title">Phoenix</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">See also  Greater Phoenix  for destinations in the sprawling Phoenix metropolitan area.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105483</field>
+		<field name="title">Cleveland</field>
+		<field name="main">districts</field>
+		<field name="name">West Side</field>
+		<field name="region2description">The East Side is the portion of the city to the east of the river, including the citys world-class cultural and arts complex, and contains the following neighborhoods: University Circle, Buckeye-Shaker Square, Central, Collinwood, Corlett, Euclid-Green, Fairfax, Forest Hills, Glenville, Payne/Goodrich-Kirtland Park, Hough, Kinsman, Lee Harvard/Seville-Miles, Mount Pleasant, Nottingham, Slavic Village, St. Clair-Superior, Union-Miles Park,  Little Italy, and Woodland Hills.</field>
+		<field name="region3color">d5dc76</field>
+		<field name="region3description">The West Side is the portion of the city to the west of the river, including the West Side market and the airport, and contains the following neighborhoods: Brooklyn Centre, Clark-Fulton, Detroit-Shoreway, Cudell, Edgewater, Ohio City, Old Brooklyn, Stockyards, Tremont, West Boulevard, and the four neighborhoods colloquially known as West Park: Kamms Corners, Jefferson, Puritas-Longmead, and Riverside.</field>
+		<field name="region2color">d7a35a</field>
+		<field name="region1description">The downtown district includes the area at the heart of the city around the mouth of the Cuyahoga River, including the Flats, Terminal Tower, the Warehouse District, Playhouse Square, the East 4th neighborhood, North Coast Harbor, and the sports arenas.</field>
+		<field name="region1color">d56d76</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105484</field>
+		<field name="title">Pittsburgh</field>
+		<field name="main">districts</field>
+		<field name="name">South Side</field>
+		<field name="region2description">Home to the citys "second downtown" - the college neighborhood of Oakland - as well as many institutions, parks, and quieter residential and shopping areas. The main neighborhoods of interest in this area are Oakland, Shadyside, and Squirrel Hill.</field>
+		<field name="region3color">7F7F00</field>
+		<field name="region4color">00ffff</field>
+		<field name="region3description">A center of the citys ethnic diversity, this formerly industrial area is now bustling with shops and restaurants. The main neighborhoods of interest in this area are the Strip District, Lawrenceville, Bloomfield, and East Liberty.</field>
+		<field name="region5color">007f00</field>
+		<field name="region2color">FF7F00</field>
+		<field name="region5description">A particularly hilly region famous for its incline railways and great views of the city - as well as its bar scene. The main neighborhoods of interest in this area are the Southside Flats and Mt Washington. (Note: In common parlance, "Southside" most often refers to two specific neighborhoods in this area: the Southside Flats and Southside Slopes.  This region also includes some neighborhoods considered the "West End".  See the district article for more).</field>
+		<field name="region4description">Two of Pittsburghs major league sports teams and many of the citys finest museums can be found here. The main neighborhoods of interest in this area are the North Shore, Allegheny, and the Mexican War Streets. (Note: In common parlance, "Northside" most often refers to these and a few other specific neighborhoods in this area.  See the district article for details.)</field>
+		<field name="region1description">The historic, economic, administrative, and cultural center of the city, where the three rivers meet.</field>
+		<field name="regionmapsize">250px</field>
+		<field name="regionmap">Pittsburgh_districts_map.png</field>
+		<field name="region1color">FF00FF</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105485</field>
+		<field name="title">Kansas City</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">Kansas City, Missouri, is covered by this main article. There is another article:   Kansas City (Kansas)</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105486</field>
+		<field name="title">Boston</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">Neighborhood nicknames are in (parentheses).  The skyline of Bostons Financial District    Boston is a city of diverse neighborhoods, many of which were originally towns in their own right before being annexed to the city. This contributes to a strong pride within the neighborhoods of Boston, and many people will often tell you they are from "JP" (Jamaica Plain), "Dot" (Dorchester), "Southie" (South Boston), or "Eastie" (East Boston), rather than that they are from Boston. Alternatively, people from the suburbs will tell you they are from Boston when in fact they live in one of the nearby (or even outlying) suburbs. If in doubt, you can look for "Resident Parking Only" street signs, which will identify what neighborhood you are in.  Another consequence of this expansion is that the neighborhoods, in addition to their cultural identities, also retained most of their street names, regardless of whether or not Boston -or another absorbed town- already had a street with the same name. According to a survey by The Boston Globe, there are at least 200 street names that are duplicated in one or more neighborhoods in Boston. For instance, Washington Street in Downtown Boston, is different from Washington Street in Dorchester and another Washington Street in Jamaica Plain. This can play havoc with web-based mapping and direction services.  Be aware that geographic references in district names tend to mean little. For example, South Boston is different from the South End, which is actually west of South Boston and north of Dorchester and Roxbury districts. Some other confusing notables: East Boston and Charlestown are further north than the North End. The West End is in the northern part of town (bordering the North End and Charles River).  Among Bostons many neighborhoods, the historic areas of  Back Bay ,  Beacon Hill ,  Chinatown ,  Downtown ,  Fenway-Kenmore , the  Financial District , Government Center, the  North End , and the  South End  comprise the area considered "Boston Proper." It is here where most of the buildings that make up the citys skyline are located.  The term "Greater Boston" originally referred to the new city boundaries established in the late 19th century as Dorchester, Brighton, Charlestown, and so on were annexed to Boston Proper.  Nowadays however it is more apt to refer to the larger area consisting of Boston and its suburbs, particularly those that belong to the same public transit system (the MBTA).  The  Back Bay  is one of the few neighborhoods with streets organized on a grid. It is so named because it used to be mud flats on the river, until the city filled in the bay in a land-making project ending in 1862. It is now one of the higher-rent neighborhoods in the city. The north-south streets crossing the axis of Back Bay are organized alphabetically. Starting from the east, at the Public Garden, and heading west, they are: Arlington, Berkeley, Clarendon, Dartmouth, Exeter, Fairfield, Gloucester (pronounced gloster), and Hereford. After Hereford Street is Massachusetts Avenue, more commonly known as Mass. Av., and then Charlesgate, which marks the western boundary of Back Bay. The alphabetical street names continue a little way into the Fenway neighborhood on the other side of Charlesgate, with Ipswich, Jersey, and Kilmarnock, but the streets are no longer arranged in a grid.  There are also several "districts" you might hear mentioned. "Districts" are generally areas of common interest located within a larger neighborhood:  Leather District (sub-neighborhood of Chinatown) SoWa District (south of Washington, South End) Theatre District (south of Chinatown) Waterfront District (South Boston) Ladder District (Realtor phrase for Downtown Crossing)</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105487</field>
+		<field name="title">Brooklyn</field>
+		<field name="main">districts</field>
+		<field name="name">East Brooklyn</field>
+		<field name="region6color">d09f5b</field>
+		<field name="region3description">Although best known for its high crime rate, Red Hook has recently become an artists colony and was home to MTVs Real World Brooklyn cast. The nearby areas of Gowanus and Carroll Gardens are good places to explore some of Brooklyns industrial history.</field>
+		<field name="region4color">c2d3b4</field>
+		<field name="region8color">6ea2c5</field>
+		<field name="region6description">The beating heart of Brooklyn is home to New Yorks largest African-American neighborhood, many West Indian immigrants, a large Orthodox Jewish community, mighty shopping streets, beautiful Victorian homes, and much of the classic history of Brooklyn.</field>
+		<field name="region2color">9b6288</field>
+		<field name="region7description">Home to the fabled Coney Island amusement parks. The neighborhood has seen a rise in tourism with the opening of the brand-new Luna Park amusement park.  Also home to New Yorks only aquarium, the Cyclones minor league baseball team, the original Nathans restaurant, and one of the largest Russian-speaking communities outside the former USSR.</field>
+		<field name="regionmap">Brooklyn districts map.png</field>
+		<field name="region1description">Well known for its large artistic community, it is a diverse area with hipsters centered around Bedford Avenue, Orthodox Jews in South Williamsburg, a sizeable Polish population in Greenpoint, and a large Hispanic population and a growing arts community in Bushwick.</field>
+		<field name="region8description">While certain neighborhoods in this section are pretty rough and this one is off the average tourists radar (except for its proximity to JFK), this section has some attractions near Jamaica Bay.</field>
+		<field name="region7color">d8dd93</field>
+		<field name="region2description">The main tourism district in Brooklyn, Downtown Brooklyn has majestic buildings, the Brooklyn Bridge, and an unparalleled view of the Manhattan skyline.</field>
+		<field name="region3color">d2777e</field>
+		<field name="region5color">83a6a1</field>
+		<field name="region5description">The big attraction is the historic Green-Wood cemetery, one of the largest in New York and the final resting place of several notable people. Other attractions include New Yorks third Chinatown and an Italian enclave in the west of Brooklyn.</field>
+		<field name="region4description">Pretty brownstone houses, the Brooklyn Museum, the Brooklyn Botanical Gardens, and more, all ringing Olmstead and Vauxs preferred park.</field>
+		<field name="regionmaptext">Brooklyns districts</field>
+		<field name="regionmapsize">400px</field>
+		<field name="region1color">88bb90</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105488</field>
+		<field name="title">Los Angeles</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">For travel purposes, this guide covers the entirety of Los Angeles County, a region of thousands of square miles in  Southern California  roughly the same size as  Rhode Island . There are 88 cities (municipalities) in the county; the largest, the city of Los Angeles, spreads throughout the county from the Port of Los Angeles to the San Fernando Valley.   The regions of Los Angeles County</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105489</field>
+		<field name="title">Miami</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">Although tourists generally consider  Miami Beach  to be part of Miami, it is in actuality its own municipality. Located on a barrier island east of Miami and Biscayne Bay, it is home to a large number of beach resorts and is one of the most popular spring break party destinations in the world.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105490</field>
+		<field name="title">Boston</field>
+		<field name="main">districts</field>
+		<field name="name">South End</field>
+		<field name="region6color">c39dc3</field>
+		<field name="region3description">Beacon Hill is a historic neighborhood of Boston neighboring Back Bay. It is mostly high-end residential, but also has the Massachusetts State House, Suffolk University, and the Museum of African American History within its confines. Beacon Hill also has limited shopping and dining, and is accessible by the T.</field>
+		<field name="region6description">A large working class neighborhood often considered Bostons most diverse. It includes the JFK Library, UMass Boston, and many wonderful eateries.</field>
+		<field name="region12color">FBB917</field>
+		<field name="region2color">d7a35a</field>
+		<field name="region16color">7D053F</field>
+		<field name="region8description">On a peninsula across Boston Harbor from the main bulk of the city and the location of Logan Airport. Several underwater tunnels connect East Boston to the rest of the city. Large Latin American population.</field>
+		<field name="region15color">9E092B</field>
+		<field name="region10description">Bostons business and financial center, this area has plenty of restaurants, bars, and tourist attractions such as the New England Aquarium.</field>
+		<field name="region9color">2554c7</field>
+		<field name="region5color">4da9c4</field>
+		<field name="region13description">The citys Italian neighborhood with excellent restaurants. It is also the location of the Old North Church and The North Bennet Street School.</field>
+		<field name="region14color">C11B17</field>
+		<field name="region4description">A peninsula across the Charles River to the north, this is the site of the Bunker Hill Monument and the USS Constitution, the oldest commissioned warship afloat. The Bunker Hill Monument has a eponymous museum, and also allows people to climb 220 feet to the top. The USS Constitution is home to a large museum and often sails in events accessible to the public. Charlestown is only accessible by ferry, bus, and car.</field>
+		<field name="region16description">Just south of Back Bay, has Victorian brownstones and a Bohemian atmosphere. Large Gay population.</field>
+		<field name="region14description">The historical center of Bostons African-American community.</field>
+		<field name="region4color">80bb89</field>
+		<field name="region8color">7669b0</field>
+		<field name="region13color">F87431</field>
+		<field name="region7description">This is the hub of tourist activity with Faneuil Hall, the Freedom Trail, Boston Public Garden, and Boston Common. It is also the center of city and state governments, businesses, and shopping.</field>
+		<field name="region11description">A diverse residential neighborhood and home to Samuel Adams Brewery.</field>
+		<field name="region1description">Located west of Boston proper, these districts (especially Brighton) are primarily residential, and are home to many students and young professionals. Brighton is abutted by Boston College, which is the terminus of the Green Lines B Branch. The border between the two is a subject of debate, so they are often considered to be one neighborhood by outsiders.</field>
+		<field name="region15description">This is a proud residential neighborhood with a waterfront district and the Boston Convention and Exhibition Center on its north side. Home to one of the largest Irish and Irish-American populations in the country.</field>
+		<field name="region2description">This area of Boston is notable for shopping and dining, as well as sites such as the Prudential Center, the highest observatory in Boston, Copley Square, and Hynes Convention Center. Back Bay is centrally located and is very easy to get to by the T.</field>
+		<field name="region7color">9c83b9</field>
+		<field name="region10color">3BB9FF</field>
+		<field name="region3color">d5dc76</field>
+		<field name="region9description">Fenway Park is the home of the 2004 and 2007 world champion Boston Red Sox.  This area also includes a number of Boston bars, eateries, and the "Lucky Strike" bowling alley.</field>
+		<field name="region12description">A residential neighborhood, with a very high student population.</field>
+		<field name="region5description">Great Asian food, great herbalists and next to downtown and the theater district. 4th largest Chinatown in the United States.</field>
+		<field name="region11color">4AA02C</field>
+		<field name="region1color">d56d76</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105491</field>
+		<field name="title">Houston</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">The city has a number of districts.  Historically, many of these districts were called "wards" and they tended to have distinct populations. Today, the lines are blurring and continual sprawl has created new districts, some with a distinct character.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105492</field>
+		<field name="title">Philadelphia</field>
+		<field name="main">districts</field>
+		<field name="name">Northeast</field>
+		<field name="region6color">d56d76</field>
+		<field name="region3description">Philadelphias oldest historic quarter, where the roots of the American Independence began. Located between 6th Street and the Delaware River, it features Independence Mall and historical landmarks like the Liberty Bell, Constitution Hall, and Independence Hall. Also of significance are the art, design and fashion businesses and galleries, making Old City a vibrant and culturally diverse neighborhood with an old world european aesthetic. Evening hours bring added excitement with great restaurants, bars and clubs.</field>
+		<field name="region4color">71b37b</field>
+		<field name="region8color">69999f</field>
+		<field name="region6description">West of the Schuylkill River, includes University City comprising of University of Pennsylvania and Drexel University and its surrounding neighborhoods.</field>
+		<field name="region2color">d09440</field>
+		<field name="region7description">The off-the-beaten-path northwestern reaches of the city, most notable for its middle-to-upper class residential neighborhoods of Manayunk, Chestnut Hill, East Falls and Mt. Airy.</field>
+		<field name="regionmap">Philadelphia districts map2.png</field>
+		<field name="region1description">Philadelphias beautiful City Hall, the Convention Center, Chinatown, Washington Square West, the gay-friendly Gayborhood, and the Broad Street Arts Corridor.</field>
+		<field name="region8description">The far northeastern part of town, mostly residential.</field>
+		<field name="region7color">4fb7c0</field>
+		<field name="region2description">West of Broad Street and City Hall, includes the art museum district, Rittenhouse Square, shopping resembling an outdoor mall with dining on Chestnut and Walnut Streets, and a good portion of the central business district with Philadelphias tallest skyscrapers.</field>
+		<field name="region3color">3650ea</field>
+		<field name="region5color">b5d29f</field>
+		<field name="region4description">South Street, the Italian Market, the Sports Complex, endless cheap dive bars, and Philly cheesesteaks.</field>
+		<field name="region5description">Working class neighborhoods, some of which are struggling with crime problems, but also the home of Temple University and Northern Liberties.</field>
+		<field name="regionmapsize">341px</field>
+		<field name="region1color">ac5c91</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105493</field>
+		<field name="title">Houston</field>
+		<field name="main">districts</field>
+		<field name="name">Outside 610</field>
+		<field name="region6color">c68d98</field>
+		<field name="region3description">A large district of gingerbread Victorian homes as well as early 20th Century bungalows. Like its sister neighborhood Montrose, The Heights is home to a diverse population from artists and musicians to wealthy professionals. Parts of the Heights are still dry, fostering a large number of BYOB restaurants ideal for those who enjoy their own selected wine.</field>
+		<field name="region4color">80bb89</field>
+		<field name="region6description">Off-the-beaten-track, these areas have plenty to offer for the patient traveler.</field>
+		<field name="region2color">d7a35a</field>
+		<field name="region1description">Center of the city, still the home of high finance and big business. Houston is second only to New York City in corporate headquarters of Fortune 500 companies. Many of them are located downtown including some of the worlds largest energy companies. Downtown Houston also boasts the second largest theater district in the United States and the city has world class permanent organizations such as the Houston Symphony and Houston Ballet. The Rockets, Astros and Dynamo all play downtown.</field>
+		<field name="region2description">Neartown encompasses Midtown, an older light industrial area cum trendy apartment archipelago; Montrose, a pleasant streetcar suburb that was abandoned and resurrected by Houstons LGBT community; The Museum District, the center of Houstons visual arts and museums; and the historic 4th Ward, a Freedmans town that was built by the hands of recently freed African American slaves and now facing gentrification by Bob Perrys development company.</field>
+		<field name="region3items">The Heights ,  Washington Corridor</field>
+		<field name="region3color">d5dc76</field>
+		<field name="region5color">4da9c4</field>
+		<field name="region5description">Uptown or The Galleria Area is known for its namesake, a huge high-end shopping mall complex and has the tallest building in the United States outside of a main downtown area, the Williams tower. Nearby River Oaks is home to Houstons most exclusive and affluent neighborhoods and businesses, home to eye-popping mansions and the River Oaks Shopping Center, one of Americas first suburban shopping districts and a great display of Art Deco architecture. This area has many great restaurants, vibrant nightlife, and infamous traffic jams during peak hours.</field>
+		<field name="region4description">To the south and east of downtown lie Rice University, the many attractions of Hermann Park, Reliant Stadium, and the Texas Medical Center (or just "the med center"), including some of the worlds best hospitals. The Rice Village is a highly concentrated area of restaurants, bars, and shopping.</field>
+		<field name="region6items">West Houston ,  East Houston ,  North Houston ,  Clear Lake</field>
+		<field name="region2items">Midtown, Montrose, Museum District, 4th Ward</field>
+		<field name="region5items">Uptown ,  River Oaks ,  Upper Kirby Greenway ,  West U</field>
+		<field name="region4items">South Main ,  Museum District ,  Med Center</field>
+		<field name="region1color">d56d76</field>
+		<field name="region1items">Skyline District, Theater District, Historic District, EaDo</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105494</field>
+		<field name="title">Richmond</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">Richmond has been called a city of neighborhoods, each one with a distinct look, flavor, and identity. All are recognized by Richmonders as unique neighborhoods, almost as though the city were a collection of several small towns.    The Fan    Museum District Carytown    Downtown  — includes Shockoe (split into Shockoe Bottom and Shockoe Slip), Jackson Ward and Tobacco Row   Near West End    West End    Southside    Northside    Southwest    East End  — includes Church Hill, Union Hill, Chimborazo, Fulton</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105495</field>
+		<field name="title">Miami Beach</field>
+		<field name="main">districts</field>
+		<field name="name">North Beach</field>
+		<field name="region2description">Often known just as "Miami Beach", this district refers to the "Mid-beach" area between 23rd Street and 63rd Street.</field>
+		<field name="region3color">d5dc76</field>
+		<field name="region3description">Northern tip of the island, from about 63rd Street on up.</field>
+		<field name="region2color">d56d76</field>
+		<field name="region1description">Southern tip of the island to about 23rd Street. The most popular part of the beach.</field>
+		<field name="region1color">d7a35a</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105496</field>
+		<field name="title">Honolulu</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">Honolulu extends inland from the southeast shore of Oahu, east of Pearl Harbor to Makapuu Point, and incorporates many neighborhoods and districts. Youll most often hear people refer to these districts by name—Waikiki, Manoa, Kahala, Hawaii Kai and so on—as though theyre not part of the same city.  Technically, they are.  In fact, the municipal government of Honolulu covers the entire island of Oahu, including its outlying suburbs.  This guide focuses on attractions and accommodations located in Honolulu proper; for more information on Oahus outlying communities, see the  Oahu  article.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105497</field>
+		<field name="title">Atlanta</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">The separated skyscrapers of Downtown, Midtown, and Buckhead make Atlanta’s three skylines, and the size of any one of these districts could rival the center of any other city in the South. Atlanta is not all high rises though; each of the city’s urban neighborhoods offer unique atmospheres that are well adapted to living in the shadow of the city.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105498</field>
+		<field name="title">Providence</field>
+		<field name="main">districts</field>
+		<field name="name">Fox Point</field>
+		<field name="region7color">c39dc3</field>
+		<field name="region6color">c68d98</field>
+		<field name="region3color">d5dc76</field>
+		<field name="region4color">80bb89</field>
+		<field name="region8color">000000</field>
+		<field name="region5color">4da9c4</field>
+		<field name="region2color">d7a35a</field>
+		<field name="region1color">d56d76</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105499</field>
+		<field name="title">Phoenix</field>
+		<field name="main">districts</field>
+		<field name="name">Ahwatukee</field>
+		<field name="region6color">3030ac</field>
+		<field name="region3description">Includes Maryvale and Estrella, this area has seen its better days and is suffering urban decline.  However, a highlight in the area includes the Cricket Pavilion which is a great place to see a concert.</field>
+		<field name="region4color">fecc00</field>
+		<field name="region6description">This area is home to South Mountain Regional Park, the largest municipal park in the country. However, the neighborhood at its base is fairly run-down and many sections are not safe. Laveen is a semi-rural area that is nonetheless seeing increasing development.</field>
+		<field name="region2color">e60c0e</field>
+		<field name="region7description">An upscale neighborhood of Phoenix, Arizona bordered on the north by South Mountain Regional Park, on the east by I-10 and the cities of  Chandler  and  Tempe .</field>
+		<field name="regionmap">PhxMap.gif</field>
+		<field name="region1description">This area spans approximately two to three square miles, with main arteries running along Central Avenue and Washington/Jefferson Streets respectively. Three out of the five tallest skyscrapers in Arizona are in Downtown Phoenix.</field>
+		<field name="region7color">804000</field>
+		<field name="region2description">There are a handful of officially recognized and protected historic neighborhoods and a variety of cultural, performance, and sporting venues in this area of town.</field>
+		<field name="region3color">006632</field>
+		<field name="region5color">ec3f48</field>
+		<field name="region4description">Includes Deer Valley, Desert View, North Mountain, North Gateway, and New Village.  The Phoenix Mountains are located here and offer a plethora of hiking and outdoor activities.</field>
+		<field name="region5description">A very upscale area of town which contains the famous Biltmore Hotel, Papago Park, the Phoenix Zoo, and world class resorts.  The surrounding area is also known to feature expensive office space, upscale stores, and luxury homes.</field>
+		<field name="regionmaptext">Overview of Phoenix districts</field>
+		<field name="region1color">000000</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105500</field>
+		<field name="title">Brookline</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">Coolidge Corner - A shopping area with much to do.  Is the most happening area in Brookline.  On C Line, Coolidge Corner Stop.  Brookline Village - A somewhat sleepier historic area with many restaurants.  On D Line, Brookline Village Stop.  Washington Square - Local shops and some popular restaurants and taverns.  On C Line, Washington Square Stop.  Brookline Hills - Around the high school and across Route 9. Very residential. On the D Line, Brookline Hills stop.  Cleveland Circle - Actually in the Boston neighborhood of  Allston-Brighton , but is right on the border with Brookline.  Large student population, due to its proximity to Boston College.  Has some bars, restaurants pizzerias, but is slightly more run-down than Brookline proper (although gentrifying).  The intersection is very confusing, as it is the intersection of three different lines of the T.  On C Line Cleveland, Circle Stop.  On D Line, Reservoir Stop.  Putterham Circle/South Brookline "Chestnut Hill" -  Suburban and residential feel.  Putterham Circle has a variety of shops, including market, restaurants, bank, hair salon, gift shop, Starbucks, and others. Does not have access to a train, but the Route 51 Bus can be taken to and from Cleveland Circle.  St. Marys- Overshadowed by nearby Kenmore Square and the Landmark Center in Boston.  The area has a little bit to it.  Is On C Line, St. Marys Stop, On D Line, Fenway Stop.  Pill Hill/The Point - Residential area to the south of Route 9. Ritzy.  From this area, one can either walk to the Brookline Hills or Brookline Village stops on the D Line, or take the Route 60 bus.  JFK Crossing - Stretch along Harvard St. with a heavy Jewish influence, from just north of Coolidge Corner to Commonwealth Ave. in Allston.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105501</field>
+		<field name="title">Jersey City</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">Historic Downtown - This area, directly to the west of the waterfront, is characterized by rows of restored brownstones, new condominiums, and some retail (largely centered on Grove Street). This area includes the historic neighborhoods of Paulus Hook along the Morris Canal, and Hamilton Park, Harsimus Cove, and Van Vorst Park further inland. Waterfront - Although considered to be part of Downtown Jersey City to most locals, this area is often categorized as a separate neighborhood because it is so different from the Historic Downtown area. Characterized by high-rise condos and office towers, its also home to the planned community of Newport, which includes the popular Newport Mall. Journal Square - Named after the Jersey Journal, whose headquarters are located here, this is the commercial heart of the city. Its home to the Hudson County Community College, as well as the countys courthouse and administration buildings. The Heights - Situated atop the Palisades, this primarily residential neighborhood is home to some of the countys most well-preserved Victorian mansions. This area has unparalleled views of the Manhattan skyline, owing to its location high above downtown Jersey City and Hoboken. Liberty State Park - This district includes Liberty State Park itself, Cochrane Stadium/Caven Point Athletic Complex, and the exclusive Port Liberte development, which is home to luxury townhouses and condominiums as well as the Liberty National Golf Course. Bergen/Lafayette - This neighborhood of brownstones, row houses, and pre-war buildings is slowly feeling the effects of gentrification from the neighboring downtown area and the restoration of the massive Art Deco former medical center to residences and commercial space.  West Side - This ethnically diverse neighborhood is home to Lincoln Park, Jersey Citys own Central Park, New Jersey City University, and residential developments at the Hackensack River at Droyers Point. Greenville - This area in the southern end of Jersey City is considered the roughest part of the city, but it is slowly being redeveloped.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105502</field>
+		<field name="title">San Francisco</field>
+		<field name="main">districts</field>
+		<field name="name">Southeast San Francisco</field>
+		<field name="region6color">817cc0</field>
+		<field name="region3description">Two ritzy neighborhoods with upscale hotels, cable cars, panoramic views and steep inclines.</field>
+		<field name="region6description">The neoclassical Civic Center next to the grit of the Tenderloin.  While the Loin is grittier compared to its ritzier neighbors downtown, there is still plenty of interesting architecture and attractions to see here.</field>
+		<field name="region12color">9c94cd</field>
+		<field name="region2color">cc66cc</field>
+		<field name="region8description">A historic neighborhood with many Victorian homes that was once a hotbed of African-American culture. Within the area is also Japantown, once the center of San Franciscos Japanese population, still populated with many Japanese stores and restaurants, and hotels that cater to Japanese travelers.</field>
+		<field name="region10description">Includes both the foggy Sunset and Richmond Districts, separated by the scenic and lush Golden Gate Park and bounded on the west by Ocean Beach.</field>
+		<field name="region9color">8ed7d8</field>
+		<field name="region5color">de6e6e</field>
+		<field name="region13description">This colorful area is home to a large Hispanic community as well as new urban artisans, and is a center of San Francisco night life. For visitors wishing to get off the beaten tourist paths and catch some local flavor, this is the place to go.</field>
+		<field name="region14color">c0b870</field>
+		<field name="region4description">Two vibrant immigrant communities; the crowded and largest Chinatown outside of Asia next to the stylish laid back Little Italy, as well as Telegraph Hill and Coit Tower.</field>
+		<field name="regionmapsize">400px</field>
+		<field name="regionmaptext">San Franciscos districts</field>
+		<field name="region14description">A mostly lower income residential area, this district contains several bay-side neighborhoods, many nice parks, and Candlestick Park, home of the 49ers NFL team.</field>
+		<field name="region4color">e8ba37</field>
+		<field name="region8color">c5a0c6</field>
+		<field name="region13color">c584ab</field>
+		<field name="region11description">Covering most of southwestern San Francisco, this area is home to many of the taller hills of San Francisco and the large Lake Merced park, which contains the San Francisco Zoo.</field>
+		<field name="region7description">A rapidly changing neighborhood of downtown that is the center of a lot of new construction, including new skyscrapers, some of the citys newest museums, and ATT Park, home of the San Francisco Giants.</field>
+		<field name="region1description">Fashionable neighborhoods, e.g., the Marina District, Cow Hollow, and Pacific Heights, with extensive views and historical landmarks — Fort Mason, The Presidio, and the iconic Golden Gate Bridge.</field>
+		<field name="regionmap">San Francisco districts map.png</field>
+		<field name="region2description">A touristy waterfront neighborhood which encompasses Ghirardelli Square, Pier 39, and the ferry launch to Alcatraz Island, as well as a plethora of seafood restaurants and souvenir stores.</field>
+		<field name="region7color">83b76b</field>
+		<field name="region10color">a4c97d</field>
+		<field name="region3color">6ca4ca</field>
+		<field name="region9description">Famous for being the home of the Hippie movement, this once bohemian area is still an eclectic treasure.</field>
+		<field name="region12description">Colorful and cohesive, the Castro is historically known for being the cultural center of the citys LGBTQ community.  Nearby Noe Valley offers excellent restaurants and shops along pleasantly walkable streets.</field>
+		<field name="region5description">Union Square is the center of shopping, theater and art in the city, next to the many skyscrapers of downtown and Market Street.</field>
+		<field name="region11color">c38888</field>
+		<field name="region1color">dcdc71</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105503</field>
+		<field name="title">Detroit</field>
+		<field name="main">districts</field>
+		<field name="name">Hamtramck-Highland Park</field>
+		<field name="region6color">5e66af</field>
+		<field name="region3description">This part of the city includes much of the riverfront, Belle Isle, the historic Eastern Market, Pewabic Pottery, and more.</field>
+		<field name="region4color">5c9f9e</field>
+		<field name="region6description">While not part of the City of Detroit, the cities of Hamtramck and Highland Park are surrounded by Detroit except where they border each other. Hamtramck is sometimes referred to as "Poletown" because of the large Polish population and influence in the city. Highland Park is home to many historic buildings and neighborhoods.</field>
+		<field name="region2color">80be8f</field>
+		<field name="regionmap">Detroit districts map.png</field>
+		<field name="region1description">The citys central business district. It is home to several nice parks, the countrys second-largest large theatre district, great architecture, and many of the citys attractions. It is Detroits center of life.</field>
+		<field name="region2description">The citys cultural center, home to several world class museums and galleries. The area is also home to some great 1920s architecture. It is probably the most unique destination in Detroit.</field>
+		<field name="region3color">beb280</field>
+		<field name="region5color">da7c7d</field>
+		<field name="region4description">Home to many of the citys ethnic neighborhoods, such as Mexicantown and Corktown. The area is mostly known for its cuisine in these ethnic neighborhoods; however it is also home to many historical sites, such as the abandoned Michigan Central Station, Tiger Stadium, and Fort Wayne.</field>
+		<field name="region5description">Home to many historic neighborhoods, the University District, and much of the infamous 8 Mile.</field>
+		<field name="regionmapsize">410px</field>
+		<field name="region1color">bf40ac</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105504</field>
+		<field name="title">Apple Valley (Minnesota)</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">Many visitors never make it past the Minnesota Zoo or other attractions downtown, but you havent truly seen Apple Valley until you’ve ventured out into the neighborhoods. Apple Valleyians understand their city by splitting it into large districts or neighborhoods named after geological and cultural features within them. Apple Valleyians also tend to identify strongly with their neighborhood, reflecting real differences in culture and place throughout the city. Rivalries between the West and East Sides run particularly deep, while people from the southern neighborhoods are free agents in critical issues like athletic loyalty and Idol voting.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105505</field>
+		<field name="title">Atlanta</field>
+		<field name="main">districts</field>
+		<field name="name">Decatur</field>
+		<field name="region6color">a76767</field>
+		<field name="region3description">Located several miles North of Midtown, Buckhead is a popular business and nightlife district. Buckhead is surrounded by neighboring Brookwood Hills, as well as Peachtree Battle, Lindbergh Center, and the Governors Mansion.</field>
+		<field name="region4color">487db8</field>
+		<field name="region6description">Includes Vine City, Bankhead, Historic West End, Collier Heights, and the Upper Westside</field>
+		<field name="region2color">a5c077</field>
+		<field name="region7description">The city of Decatur is only a few miles from downtown Atlanta, but has held on to its residential small-town charm. One of the most pedestrian-friendly areas in Atlanta, Decatur is home to many excellent restaurants, bars, and boutique shops.</field>
+		<field name="region1description">The most central and commercial area in Georgia (economically and politically), downtown Atlanta includes the state capitol, city hall, the CNN Center, Georgia Aquarium and the New World of Coca-Cola</field>
+		<field name="region7color">800080</field>
+		<field name="region2description">Just North of Downtown, this is a major business and residential district with tall skyscrapers and a popular nightlife area. This district also includes Piedmont Park, the Woodruff Arts Center, and the Georgia Tech campus.</field>
+		<field name="region3color">c9815e</field>
+		<field name="region5color">459745</field>
+		<field name="region5description">Home of the Atlanta Braves at Turner Field and one of the busiest airports in the world, Hartsfield-Jackson Atlanta International Airport. South Atlanta also contains the neighborhoods of Mechanicsville, Peoplestown, and Lakewood.</field>
+		<field name="region4description">East Atlanta includes many popular neighborhoods with beautiful homes, highly-rated restaurants and thriving shopping districts.  Neighborhoods include alternative-style Little Five Points, trendy Virginia-Highland (along with adjoining Poncey-Highland), and the growing community of East Atlanta Village.</field>
+		<field name="region6items">Upper Westside</field>
+		<field name="region2items">Midtown ,  Atlantic Station</field>
+		<field name="region5items">Grant Park ,  Hapeville ,  Southeast Atlanta</field>
+		<field name="region4items">Virginia-Highland ,  Inman Park ,  Little Five Points ,  Candler Park ,  Poncey-Highland ,  East Atlanta Village</field>
+		<field name="region1color">b569b5</field>
+		<field name="region1items">Five Points ,  Centennial Park ,  Sweet Auburn ,  Hotel District ,  Castleberry Hill</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105506</field>
+		<field name="title">Oklahoma City</field>
+		<field name="main">districts</field>
+		<field name="name">Capitol Hill Historic District</field>
+		<field name="region6color">c68d98</field>
+		<field name="region3description">Warehouse district that has been converted into a restaurant and night club hot spot adjacent to downtown.  This area is home to the Bricktown Ballpark, several live music venues, the Harkins movie theatre, and Mickey Mantles steakhouse.</field>
+		<field name="region4color">80bb89</field>
+		<field name="region8color">ffd0d0</field>
+		<field name="region12color">4AA02C</field>
+		<field name="region2color">d7a35a</field>
+		<field name="region7description">Located near NW 10th and Walker in Midtown, this area is currently under development but already boasts Brasilian, Latin, and American food restaurants, as well as OKCs oldest boutique ice creamery and a bakery.  On weekends, a rooftop bossa nova bar offers a beautiful view of this areas interesting architecture.  A Sushi restaurant and Irish Pub are slated to open sometime in 2008.</field>
+		<field name="region1description">A thriving tourist community; Oklahoma City Zoo, National Cowboy Western Heritage Museum, Science Museum Oklahoma, National Softball Hall of Fame and Stadium, and Remington Park Racing Casino.</field>
+		<field name="region8description">Arts district with galleries beginning at NW 30th Paseo to NW 27th Walker.  It also offers a sidewalk cafe, two full service restaurants, and craft shops.  Paseo Arts District celebrates "First Friday" each month with an open house and outdoor music.  Paseo Arts Festival takes place each Memorial Day weekend with an outdoor carnival and attractions.</field>
+		<field name="region10color">3BB9FF</field>
+		<field name="region2description">The largest Asian population in the state and also a cultural area. Along Classen Blvd from about 22nd Street to N.W. 30th.  Businesses include the Super Cao Nguyen market, Lido restaurant, and a number of Pho soup kitchens.</field>
+		<field name="region7color">c39dc3</field>
+		<field name="region9description">The largest GLBT community in the state and a thriving entertainment area with dance clubs and bars and the largest gay resort in the  Southwest .</field>
+		<field name="region3color">d5dc76</field>
+		<field name="region10description">A stretch of Western Avenue from NW 36th to Britton Road that features locally owned restaurants, bars, retail shopping, and live music venues.</field>
+		<field name="region9color">2554c7</field>
+		<field name="region5color">4da9c4</field>
+		<field name="region12description">Hispanic downtown of Oklahoma City, located on the Southside.</field>
+		<field name="region11color">3EA99F</field>
+		<field name="region4description">Central Business District.</field>
+		<field name="region5description">Oklahoma City Museum of Art, Civics Center Music Hall, Oklahoma City National Memorial, and the Myriad Botanical Gardens.  The Museum of Art includes an upscale restaurant and the glass sculpture of Dale Chihuly.  On Thursday evenings in the Spring and Fall, the museum opens its rooftop for cocktails and music.</field>
+		<field name="region1color">d56d76</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105507</field>
+		<field name="title">Austin</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">Downtown   East Austin   Northwest Austin   South Austin   UT and the Drag   Hyde Park   North Loop</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105508</field>
+		<field name="title">Columbus</field>
+		<field name="main">districts</field>
+		<field name="name">South Columbus</field>
+		<field name="region3color">d5dc76</field>
+		<field name="region4color">80bb89</field>
+		<field name="region5color">4da9c4</field>
+		<field name="region2color">d7a35a</field>
+		<field name="region1color">d56d76</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105509</field>
+		<field name="title">Queens</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">Queens has many distinct neighborhoods, some of which are ethnically diverse.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105510</field>
+		<field name="title">Apple Valley (Minnesota)</field>
+		<field name="main">districts</field>
+		<field name="name">Industrial District</field>
+		<field name="region6color">a5c077</field>
+		<field name="region3description">The old working class enclaves of the city’s northwest that are now home to a growing artist community. Further west lay the estates of Apple Valley’s wealthy socialites.</field>
+		<field name="region4color">67b7b7</field>
+		<field name="region8color">a76767</field>
+		<field name="region6description">The city’s athletic complex is here, along with the Dutch Village, historic walk-ups and some undiscovered gems in the smaller neighborhoods to the east.</field>
+		<field name="region2color">a4a460</field>
+		<field name="region7description">Former home to the massive applesauce district of Midwest Produce, huge Asian and Mexican neighborhoods.</field>
+		<field name="regionmap">Apple Valley neighborhood map2.png</field>
+		<field name="region1description">The center of Apple Valley for work and play, but mostly play, with shopping, towering office buildings, immaculate theaters and the citys most famous travel sights, along with a ton of bars and clubs. Some absolutely titillating activities here.</field>
+		<field name="region8description">So far off the beaten tourist track you might not find your way back, but thats okay given all the great food, a couple of top polka clubs, and enormous parks and lakefronts.</field>
+		<field name="region10color">37a782</field>
+		<field name="region7color">c9815e</field>
+		<field name="region2description">Historic neighborhoods with plenty of local shops and diners, and the stunning views of Lac Lavon.</field>
+		<field name="region9description">The world-renowned Minnesota Zoo, Valleywood Tournament Golf Course and Lebanon Hills Regional Park provide limitless opportunities to enjoy the outdoors and step away from the noise and commotion of downtown.</field>
+		<field name="region3color">459745</field>
+		<field name="region10description">The giant, industrial underbelly of Apple Valley. This region is home to one large tourist attraction, the historic Great Pit of Carkoon. Tours are available to see Boba Fetts grave, but beware the Sarlacc. Its victims are doomed to find a new definition of pain and suffering as they are slowly digested over a thousand years.</field>
+		<field name="region9color">8888dc</field>
+		<field name="region5color">487db8</field>
+		<field name="region5description">Ultra-hip and laid-back, with streets of row houses and upscale apartments, and some of the most vibrant immigrant communities in the state.</field>
+		<field name="region4description">Ethnic communes, dive bars, and hipsters abound on the fashionably rough side of town. Home to many northern European immigrants. Police presence is noticeably lacking here, so stay alert.</field>
+		<field name="regionmaptext">Neighborhoods of Apple Valley.</field>
+		<field name="regionmapsize">401px</field>
+		<field name="region1color">b569b5</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105511</field>
+		<field name="title">Buffalo</field>
+		<field name="main">districts</field>
+		<field name="name">East Side</field>
+		<field name="region6color">DAA666</field>
+		<field name="region3description">With Buffalo State College and the Museum District at the north end of the strip, Elmwood has Buffalos finest dining, hippest clothing boutiques, and chillest bars, flanked by handsome turn-of-the-century side streets where yuppies and co-eds rub shoulders.</field>
+		<field name="region4color">6EAED0</field>
+		<field name="region6description">Separated from the rest of the city by the Buffalo River, proudly Irish South Buffalo can seem like a city unto its own: to the east, pleasant parkland and quiet residential streets; to the west, the grain elevators and rail yards of Buffalos mighty industrial past; along the lake shore, the redeveloping Outer Harbor, Buffalos newest summer playground.</field>
+		<field name="region2color">DB8690</field>
+		<field name="region7description">Buffalonians are quick to deride the East Side as a drug- and crime-infested ghetto. Those who are smart enough to disregard the locals will be rewarded with the jaw-dropping sight of huge, ornate churches built by 19th-century German and Polish immigrants, an educational look into Buffalos African-American history, cultural attractions like the Buffalo Museum of Science, and other surprises in this truly off-the-beaten-path district.</field>
+		<field name="regionmap">Buffalo districts map.png</field>
+		<field name="region1description">Buffalos central business district boasts monumental architecture, a revitalized historic waterfront, the vibrant Theater District, the thumping dance clubs of Chippewa Street, and the brand-new Medical Corridor.</field>
+		<field name="region7color">B989C9</field>
+		<field name="region2description">Allentowns hipster bars, rock clubs and art galleries are a lively counterpart to the sedate Delaware Districts quiet residential streets. Both are heaven for architecture buffs, with charming Victorians lining the side streets off Allen Street and sumptuous Gilded Age mansions on Delaware Avenues Millionaires Row.</field>
+		<field name="region3color">8E82AA</field>
+		<field name="region5color">DBE391</field>
+		<field name="region4description">With more of a suburban feel than other Buffalo districts, North Buffalo is a diverse hodgepodge composed of Little Italy along Hertel Avenue, scruffy but pleasant University Heights, and the beautifully-landscaped, historic residential areas of Parkside, Central Park, and Park Meadow.</field>
+		<field name="region5description">Buffalos most up-and-coming area. Long the epicenter of Hispanic culture in Buffalo, the West Side now boasts a veritable United Nations of immigrant communities and a nascent arts scene along Grant Street, ramshackle Victorian cottages in Prospect Hill and the West Village gradually being spruced up to their former glory, and waterfront parks galore. To the north are historic Black Rock and working-class Riverside.</field>
+		<field name="regionmapsize">400px</field>
+		<field name="region1color">66A4A5</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105512</field>
+		<field name="title">Buffalo</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">Outside of Buffalo itself are a number of suburbs. Unlike the faceless cookie-cutter residential tracts surrounding other American cities, many of Buffalos suburbs have real character—individual identities of which their residents are fiercely proud. More than that, suburbias range of attractions, festivals and events, and other items of interest to visitors can hold its own with the urban core.   Tonawanda —a 19th-century lumber port turned middle-class residential community, Tonawanda is the western terminus of the modern-day  Erie Canal .   Amherst —Buffalos most populous suburb contains the gargantuan UB North Campus, the charming village of Williamsville, and rural farmland in the far north.   Cheektowaga —postwar suburbia at its most banal, but also shopping galore, including the areas largest mall. As the site of the Buffalo Niagara International Airport, Cheektowaga is likely on the itinerary of most visitors to Buffalo whether they actively seek it out or not.   West Seneca —a proud German heritage dating to the towns foundation in the 1850s by the religious Ebenezer Society, and natural beauty that inspired watercolorist Charles Burchfield.   Lackawanna —a rough-and-tumble company town that fell on hard times after the closure of the steel plant that gave the city its name, now the home of a vibrant Yemeni community and the magnificent Basilica of Our Lady of Victory.   Grand Island —once a summer retreat for Buffalos turn-of-the-century aristocracy, now the site of riverfront parkland, the kid-friendly Martins Fantasy Island amusement park, and wide-open spaces a stones throw from the bustle of the city.   North Tonawanda —Tonawandas sister city has a grittier and more working-class feel, but also a restored downtown with lively nightlife.   Lancaster —an upper-middle-class second-ring suburb east of Cheektowaga in whose lovely town center stands the historic Lancaster Opera House.   Orchard Park —The home of the Buffalo Bills has something for everyone, from bustling strip malls to a charming small-town downtown to the forests and hills of Chestnut Ridge Park.   Hamburg —birthplace (allegedly) of the hamburger, Hamburg is also home of the Erie County Fair and boasts beautiful views over Lake Erie.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105513</field>
+		<field name="title">Minneapolis</field>
+		<field name="main">districts</field>
+		<field name="name">Southeast</field>
+		<field name="region6color">ff6600</field>
+		<field name="region3description">Uptown, Lyn-Lake, Linden Hills, Eat Street, and the Chain of Lakes</field>
+		<field name="region4color">ffff00</field>
+		<field name="region6description">Dinkytown, Prospect Park, Como, and the University of Minnesota</field>
+		<field name="region2color">ff00ff</field>
+		<field name="regionmap">Minneapolis District Draft 1.png</field>
+		<field name="region1description">The central business district, major sports and theater venues, the citys main clubbing area in the Warehouse District, Loring Park, Elliot Park, and the historic mill ruins along the Mississippi.</field>
+		<field name="region2description">West Bank, Seward, Midtown, Nokomis, Longfellow, and Minnehaha Park</field>
+		<field name="region3color">ff0000</field>
+		<field name="region5color">00ff00</field>
+		<field name="region5description">The birthplace of Minneapolis in Old Saint Anthony, old victorian houses on Nicollet Island, and further north the old working class enclaves of Northeast that are now home to a growing artist community.</field>
+		<field name="region4description">Near North, Camden, Bryn Mawr and Theodore Wirth Park</field>
+		<field name="regionmaptext">Districts of Minneapolis</field>
+		<field name="regionmapsize">250px</field>
+		<field name="region1color">0000ff</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105514</field>
+		<field name="title">Philadelphia</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">For most visitors, the focal point will be Center City and Old City, which comprise the "downtown" section of Philadelphia. It is bounded by Vine St. to the north, the Delaware River to the east, South St. to the south, and the Schuylkill River to the west. The 2010 Center City residential population of 57,000 makes it the third most populated central business district in America, behind  New York City  and  Chicago . Other popular districts to visit are West Philly and South Philly.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105515</field>
+		<field name="title">Queens</field>
+		<field name="main">districts</field>
+		<field name="name">The Rockaways</field>
+		<field name="region6color">6ea2c5</field>
+		<field name="region3description">At the end of the 7 line is a very large Chinese community; important Korean and Indian communities are also to be found, further from the subway stop.</field>
+		<field name="region4color">d8dd93</field>
+		<field name="region6description">A popular summer resort area since the 1830s, The Rockaways have become a mixture of lower, middle, and upper-class neighborhoods.</field>
+		<field name="region2color">83a6a1</field>
+		<field name="regionmap">Queens districts map.png</field>
+		<field name="region1description">Traditionally industrial, LIC is now home to a rising arts community. Astoria is known for its large Greek population. This population is accompanied by Asians, Latin Americans, and Europeans. Many trendy restaurants and shops are located in Astoria, with Steinway Street being a primary shopping district.</field>
+		<field name="region2description">A large South-Asian neighborhood with numerous Indian restaurants, groceries, and shops, including a Bollywood movie theater, is centered around 74th St. and Roosevelt Av. The rest of the neighborhood is an incredibly diverse Latino community, with nationalities all the way from Mexico to Chile and Argentina represented. Other diverse communities, such as Woodside, with its famous Thai restaurants and Filipino markets, and Elmhurst, where almost every Southeast Asian community is represented, along with Chinese, Koreans, South Asians, and Latinos, are also included in this article.</field>
+		<field name="region3color">88bb90</field>
+		<field name="region5color">d2777e</field>
+		<field name="region5description">Transportation hub, primarily Black community, King Manor Museum, and unique cultural venues geared toward African American art.</field>
+		<field name="region4description">A large park in the center of Queens and the surrounding neighborhoods.</field>
+		<field name="regionmaptext">Queens districts</field>
+		<field name="regionmapsize">400px</field>
+		<field name="region1color">d09f5b</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105516</field>
+		<field name="title">Honolulu</field>
+		<field name="main">districts</field>
+		<field name="name">Western Honolulu</field>
+		<field name="region2description">The tourist center of Hawaii: white sand beaches, crowds of surfers and sunbathers, and block after block of highrise hotels.</field>
+		<field name="region3color">0099FF</field>
+		<field name="region4color">CC7AA3</field>
+		<field name="region3description">A quieter area in the foothills north of Downtown, home to the University of Hawaii at Manoa, the National Memorial Cemetery of the Pacific in the Punchbowl crater, and the tropical scenery of the Koolau Mountains behind the city.</field>
+		<field name="region5color">99CC33</field>
+		<field name="region2color">00CC33</field>
+		<field name="region5description">Another major residential area, home to the airport, the Bishop Museum, and the military memorials of Pearl Harbor.</field>
+		<field name="region4description">A mostly residential area which extends to Makapuu Point, the very southeastern corner of the island and home to rocky shorelines, scenic beaches, and the popular snorkeling spot Hanauma Bay.</field>
+		<field name="region1description">The historic heart of the city, home to the state capitol, several museums, the harborfront, and the commercial center of the Hawaiian Islands.</field>
+		<field name="regionmapsize">400px</field>
+		<field name="regionmap">Honolulu districts map.png</field>
+		<field name="region1color">FF6666</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105517</field>
+		<field name="title">Brooklyn</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">There are a variety of neighborhoods in Brooklyn. Small Town Brooklyn    has a scrollable map of many of them:  Downtown Brooklyn, which is the central shopping and business area, anchored by Fulton St. west of Flatbush Avenue, looks similar to the downtown of almost any other major American city, with department stores, clothing and electronic shops, Borough Hall, two universities, a major railroad station, the Brooklyn Academy of Music concert hall, many office buildings, and municipal, state and federal buildings and courthouses. Many subway and bus lines go to or through Downtown Brooklyn. Brooklyn Heights is a residential neighborhood with elegant buildings and historic churches. It is an expensive neighborhood to live in, partly because of its great views of the Lower Manhattan skyline. The areas brownstone buildings and shopping district give it a quaint yet thriving feel. This is the richest neighborhood in Brooklyn, more expensive than parts of Manhattan. Canarsie is a West Indian neighborhood with somewhat of a "small-town" feel, largely composed of 1- and 2-family houses. The major commercial streets are Flatlands Avenue, Rockaway Parkway and parts of Seaview Avenue. It is served by the Rockaway Parkway station on the L line. Cobble Hill is a quiet neighborhood of bookstores, shops, and restaurants. Old-time Italian neighborhood with great pizza and Italian ices. Great restaurants and quite a number of bars along Court St. and Smith St.   Brooklyn neighborhoods   DUMBO is an acronym for Down Under the Manhattan Bridge Overpass.  Once popular with artists for loft space, it has now become popular with a richer, trendier crowd. Walk along the riverfront park for a unique and unforgettable view of the Brooklyn and Manhattan Bridges and the Manhattan skyline. Park Slope- Long a haven for interracial families, lesbians and gays, and everyone else with a certain kind of groove in NYC, this upscale but downhome neighborhood can be joked about as the Berkeley of New York City. The granola eating transplant crowd might make you queasy at times and nostalgic for crackheads, but the neighborhood itself is beautiful. Boutiques, cafés, bars, health food stores like the 30-year-old Park Slope Food Coop   , and attractive young people pushing strollers. Also home to a sizeable Lesbian community since the 1970s. Take the B or Q to 7th Ave, the M or R to 9th St, or the F or G to 4th Ave. or 7th Ave. and walk the neighborhood. Prospect Park    is large, beautiful and green. Ice-skate here in the winter. Fly kites and enjoy free weekend concerts in the summer. While staying hip and vibrant, "the Slope" as it is commonly referred to, also enjoys its share of wealth. The quaint, tree-lined streets closer to the park house ornate,  brownstones, townhouses, full service apartment buildings, and even a few full scale urban mansions on the parkside. These residences include the homes of names such as Senator Charles Schumer (D-NY) and famed actors Jennifer Connelly, Steve Buscemi and Maggie Gyllenhaal.  Check out 5th Ave. for the restaurants and bars. Carroll Gardens- Historians date the name to the 1960s, and real estate people like to enlarge its borders. It encompasses part of Smith St. and the nearby areas. In the 1950s and further back in time, this area was known as Red Hook, to the dismay of many, and it still is called both Red Hook and South Brooklyn by many people. Smith St. has a newly charged restaurant row, but there are still plenty of old school Italian-American gems to be found. Williamsburg- Take the L train from Manhattan to Bedford Ave. or Lorimer St.  Many restaurants, several popular music clubs and a burgeoning art gallery district. It is now what Greenwich Village used to be - including the artsy scene complete with eclectic galleries and off-beat bars. Have dinner at Sea (North 6th St. Bedford Ave.) and go to the Royal Oak for a drink (North 11th St. Union Ave). East Williamsburg- Centered around the Morgan Ave. stop on the L train. Seemingly a desolate industrial area, this neighborhood has a strong developing music scene. It is also home to the swingers club Gregos. Brooklyns natural food store can be found here. Bushwick- Rich in its own history, Bushwick is home to many brownstones, mansions, and projects alike. As a low-income neighborhood, shopping can be done on Knickerbocker Avenue, whether for clothes, appliances, or food. The newly restored Maria Hernandez Park on Knickerbocker Ave. and Suydam St. is a nice spot to bring the kids and relax in the shade of the trees. While its not like neighboring "East Williamsburg," Williamsburg, or Bedford-Stuyvesant, Bushwick has its own sense of community, not to be confused with anything else. However, violent crime is a still a concern along with the other social problems in the community associated with the high poverty rate. Prospect Heights-  Situated just north and northeast of Prospect Park, Prospect Heights features the Brooklyn Museum   , which is first rate but often overlooked due to the museums in nearby Manhattan; a block away from the museum is the Brooklyn Botanic Garden   . Further west on Eastern Parkway are the Brooklyn Public Library and Grand Army Plaza, the southern point of which marks the main northern entrance to Prospect Park. Red Hook is a formerly bustling industrial area that is on the upswing. Although hard to access by train, it can be served by the F G trains at Smith-9th Street or by taxi or by the B61 bus. Settled in 1636 by the Dutch, it has seen many a boom and bust is today caught between those who like it as the sleepy part of town that time forgot and those who seek to restore its crown as the Queen of Kings County Commerce. If youre looking for something off the beaten path, Red Hook is it. Many artists call Red Hook their home, so dont be surprised to see random sculptures, galleries, or creative gardens across from city housing or burned out buildings. It was also home to the MTVs Real World Brooklyn cast in 2007. However, due to a massive low income public housing project that houses most of the neighborhoods residents, precautions should be taken. Violent crime, including robbery, is a problem in the community. Cypress Hills- A subsection of East New York. See East New York. Fort Greene has some great restaurants and the Brooklyn Academy of Music   , which features an art-house cinema, theater, and concerts such as the Next Wave Festival   .  Coney Island . Ah, the famous Coney Island. Take the D, F, N, or Q trains to the end of the line to enjoy the beach or amusements or just get your official Nathans hot dog. The Cyclone, a 1927 roller coaster, is the most famous of the amusement park rides at Coney Island, for good reason: It packs a lot of thrill into a small lot. There is also a great view of Manhattan from the top of the Wonder Wheel (a large ferris wheel). Otherwise, the amusement park is somewhat seedy, which is part of its appeal. The high concentration of public housing projects in the area does make the neighborhood around the amusement park somewhat unsafe. Precaution should be taken while exploring these areas. Brighton Beach - The largest Russian-speaking community outside of the former USSR. Its unlike any other neighborhood in the city. It can be reached by the Q (local) or B (express) trains by going to Brighton Beach Avenue. Mosey on along the famous boardwalk and have a shashlik (shish-kebob) with a shot of vodka for lunch.   Bay Ridge- Traditionally a residential Irish-Italian-Norwegian neighborhood, Bay Ridge has recently seen an influx of Arab, Asian and Russian families as well. The Verrazano-Narrows Bridge connects to Staten Island, and Fort Hamilton, a United States Army Base, is here as well. There is a great variety of good values in food to be had in this neighborhood, especially on 3rd Av. Also, it is one of the top bar areas in the non-downtown area of Brooklyn. Sunset Park- Called New York Citys little Puerto Rico and Brooklyns Chinatown. Sunset Park is one of the most diverse neighborhoods in New York City. Located just less than 20 munites away from downtown Brooklyn, Sunset Park is a place for all families to come and shop and run irenes on the heart of Sunset Park, 5th Avenue between 60th and 44th Streets. Its hilly terrain gives magnificent views of Downtown Brooklyn and Manhattan, Staten Island, Jersey City and the nearby Verrazano Bridge. Besides the Hispanic part of the neighborhood, filled with families from Puerto Rican, Dominican, Mexican and other Hispanic descent, the Chinese also put Sunset Park on the map with countless Chinese restaurants found on 8th Avenue between 60th and 40th Streets. Besides the diversity, Sunset Park also has a severe drug problem. It was the site of the August 8, 2007 Brooklyn tornado; at least 40 buildings and 100 cars were damaged. Greenpoint- At the northern tip of Brooklyn, Greenpoint is the second largest Polish enclave in the United States (after Chicago) but is also home to a sizable Latino population (north of Huron St.) and a growing number of hipsters (see Franklin St.). Get Polish food at Karczma (136 Greenpoint Av.), coffee at Ashbox (Manhattan Av. between Ash Box Streets), brunch at Brooklyn Label (Franklin Java), Mexican at Acapulcos (Manhattan Clay). Lots of good Polish meat markets along Manhattan and Nassau Avenues, too. For some industrial chic, walk down Java Street to its dead end at the East River for great views of Midtown.  Nearest subway: G train to Nassau Av. and Greenpoint Av. stations.  Flatbush Town Hall  Flatbush- Formerly a Jewish, Italian, and Irish neighborhood, and before that settled by members of the Dutch Reformed Church, and now a largely West-Indian neighborhood, it is the home of Brooklyn College, one of the most beautiful campuses in the area. In the very center is the 18th- century Dutch Reformed Church at the corner of Flatbush and Church Avenues, and the original school house dating to 1787 and originally called Erasmus Hall, now the administration building of the public Erasmus Hall High School, its own building over 100 years old. The neighborhoods eponymous commercial main street, Flatbush Avenue, goes from the Manhattan Bridge on the north to the Gil Hodges Marine Parkway Bridge leading to the Rockaway Peninsula section of Queens on the south. Get there by taking the 2 or 5 trains to Church, Newkirk, or Flatbush Avenue. Midwood is a quiet residential area with some commercial streets, located on the other side of the Brooklyn College campus from Flatbush and extending for some distance to the south. The neighborhood is ethnically mixed but includes a substantial population of Modern Orthodox Jews and some Chasidim, and many shops are closed on Saturdays and Jewish holidays. The area has one of New York Citys largest concentrations of beautiful free-standing hundred-year-old Victorian and Edwardian homes. An interesting example is the Avenue H station house on the Q subway line, which was built a century ago as the local real estate office selling these homes. It is a historic site and a unique fixture among the citys subway system. (See The Little Station House in the Woods    for more information.) Sheepshead Bay - Located near the Coney Island amusement parks, this neighborhood is populated with many Chinese and Russian immigrants. There are piers along the bay on Emmons Avenue where anyone can pay a small fee to be taken out for a day of fishing. Includes restaurants along the Bay and the El Greco Diner. It is served by the B Q trains. Bensonhurst used to be Italian as far as the eye could see, but it now contains Albanian, Pakistani, Korean, Chinese, Mexican, and many Eastern European immigrants as well. Nonetheless, it is still the center of Brooklyns Italian community and is one of the most well known Italian-American neighborhoods in the United States. The train runs above ground, and it is a lively place with an Old New York feel. Many of the best "unknown" restaurants in Brooklyn (known locally but often ignored by the Manhattan-based establishment) can be found in Bensonhurst. Get there by taking the D or M train to 18th or 20th Avenue or Bay Parkway. Crown Heights is largely a mixture of West Indians and Chasidic Jews. Get there by taking the 3 or 4 trains to Utica Avenue. Part of the neighborhood is near the Brooklyn Botanic Gardens and the Brooklyn Museum. Violent crime is a still a concern along with the other social problems in the community so use caution. Borough Park contains the biggest Chasidic Jewish community in the city. You will see lots of kosher foods on sale and shops that are closed every Friday night and Saturday, because of religious rules, but open on Sunday. If these things are unfamiliar to you, a trip to Borough Park may be worthwhile. Bedford-Stuyvesant is a major African-American neighborhood with some African presence. It is served by the A and C trains at Nostrand Avenue. It is the second largest African-American neighborhood in the country after the city of Detroit. Bed-Stuy, as it is called by most New Yorkers, has been gentrifying lately. However, violent crime is a still a concern along with the other social problems in the community. East New York- like many Brooklyn neighborhoods it is rich in its own history with homes where farms once stood and its many parks like Highland Park where children can roam free to play. Gateway Mall is one of the few suburban-like malls in the city. The City Line subsection and Liberty Avenue are where residents can shop for food and clothing. But with the mall, parks and new homes popping everywhere come the projects. Like Brownsville, East New York is one of most dangerous communities in New York City. Beware passing through here on your way to JFK Airport on the A and J trains and B15 bus. Brownsville is another mainly African-American neighborhood. It is just to the west of East New York, and like East New York, it remains among the more dangerous neighborhoods in New York, though crime statistics have declined in recent years, and does not merit a visit from most tourists. Beware passing through here on your way to JFK Airport on the B15 bus. Kensington is located south of Prospect Park. It is the most diverse neighborhood in Brooklyn and is one of the most diverse in the United States. It currently is one of the "up and coming" neighborhoods in Brooklyn. Many new trendy restaurants and boutiques have opened, making this neighborhood a "hotspot" to reside in. It is served by the F and G trains at Church Avenue, the F at Ditmas Avenue, and the Q train at Beverly Road or Cortelyou Road.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105518</field>
+		<field name="title">Pittsburgh</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">Wayfinder Street Sign  This system of districts is based upon the Pittsburgh Wayfinder System, a series of 5-colored maps of the city you will see on directional signs throughout the city. Each color indicates a different region, while the blue lines represent the three rivers.   Each of these districts contains numerous distinct neighborhoods.  The city has published a  map  showing all neighborhoods, with printable maps of each.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105519</field>
+		<field name="title">San Diego</field>
+		<field name="main">districts</field>
+		<field name="name">San Ysidro-Otay Mesa</field>
+		<field name="region6color">37a782</field>
+		<field name="region3description">The site of the first Spanish settlement in California, Old Town is a historic district popular with tourists. It sits at the foot of Mission Valley, a major commercial center.</field>
+		<field name="region4color">de6e6e</field>
+		<field name="region8color">a5c077</field>
+		<field name="region6description">Two popular beach communities with plenty of shops, restaurants, and nightlife, alongside a manmade inlet that is home to Sea World.</field>
+		<field name="region2color">459745</field>
+		<field name="region7description">An upscale beach community, it features some of the most picturesque coastline and lovely beaches around, an exceptional aquarium, and the University of California at San Diego (UCSD).</field>
+		<field name="regionmap">San diego region.png</field>
+		<field name="region1description">A hub of business and nightlife on the bay, downtown has many tourist attractions among its gleaming office and hotel towers.</field>
+		<field name="region8description">A set of neighborhoods in the heights east of Balboa Park. There isnt much in the way of tourist attractions out here, but one can find trendy districts with locally oriented restaurants, shops, and theaters.</field>
+		<field name="region10color">88b4dc</field>
+		<field name="region7color">c5a0c6</field>
+		<field name="region2description">Balboa is a massive urban parkland in the citys heart, home to many museums and the renowned San Diego Zoo. Next door is Hillcrest, a trendy urban neighborhood.</field>
+		<field name="region9description">A large region of the city composed of many suburban neighborhoods stretching far inland to the hills of the north, with a few scattered tourist attractions, including the popular Safari Park.</field>
+		<field name="region3color">dcdc71</field>
+		<field name="region10description">Home to the worlds busiest land border crossing, where one can travel between San Diego and Tijuana, Mexico. This section is not contiguous (on land) with the rest of San Diego. Travel through  National City  and  Chula Vista  on the I-5 or I-805 or take the trolley.</field>
+		<field name="region9color">c9815e</field>
+		<field name="region5color">c584ab</field>
+		<field name="region5description">A scenic peninsula curving around the bay, this area offers gorgeous views of San Diego, beautiful coastline, and quiet, laid-back beach neighborhoods.</field>
+		<field name="region4description">Though technically a separate city from San Diego, picturesque Coronado is closely tied to the larger city, sitting directly across the bay from Downtown with a splendid beach and the famous Hotel del Coronado.</field>
+		<field name="regionmaptext">San Diego</field>
+		<field name="regionmapsize">300px</field>
+		<field name="region1color">487db8</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105520</field>
+		<field name="title">Miami Beach</field>
+		<field name="main">districts</field>
+		<field name="name">districts</field>
+		<field name="content">Although tourists generally consider Miami Beach to be part of  Miami , it is in actuality its own municipality. Located on a barrier island east of Miami and Biscayne Bay, it is home to a large number of beach resorts and is one of the most popular spring break party destinations in the world. Because of its length, it is generally broken up into three districts.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105521</field>
+		<field name="title">Charlotte</field>
+		<field name="main">districts</field>
+		<field name="name">West Charlotte</field>
+		<field name="region6color">dc69b1</field>
+		<field name="region3description">Close to Uptown in the corridor formed by Tryon Street and South Blvd along the light rail line, this old mill district has been gradually converted into a hip, semi-upscale entertainment/cultural district that is also home to Charlottes emerging design industry. This district is also possibly the best place in town to take a walk with children, with its ice cream shops, a trolley museum and several kids-oriented stores.</field>
+		<field name="region6description">Charlottes first "streetcar suburb", Dilworth has never lost its reputation as a desirable place to make home. In recent years the neighborhood has blossomed into an upscale district dotted with eateries and galleries. The promise of increased public transit service has added even more development to this already walkable neighborhood.</field>
+		<field name="region12color">00FFFF</field>
+		<field name="region2color">a593d2</field>
+		<field name="region8description">Just outside of Uptown, Elizabeth reflects a transition between elegant Myers Park and gritty Plaza-Midwood. Its tree-lined streets and quiet residential blocks provide an air of relaxation, but its commercial blocks are among the citys most colorful. Sometimes characterized as "a poor mans  Dilworth ", Elizabeth is coming into its own as a center of activity.</field>
+		<field name="region10description">A somewhat ambiguous, but distinctive, area covering a large portion of the citys eastern end. East Charlotte contains the citys largest concentration of immigrants, and is mostly a middle- to lower-class area. Much of the east side is depressed and unattractive, but it contains some of Charlottes most interesting cultural development. Virtually any kind of ethnic food can be found here, and much of the citys "street life" gravitates toward this area.</field>
+		<field name="region9color">88cc9f</field>
+		<field name="region5color">67b278</field>
+		<field name="region4description">Similar in some ways to NoDa and South End, but a little rougher around the edges because of its alternative and non-conformist crowd. This vibrant neighborhood is home to several local institutions such as: The Diamond (a popular diner), several consignment shops, the famous Nova bakery and local galleries that rival even the most popular ones in Noda.</field>
+		<field name="regionmapsize">400px</field>
+		<field name="regionmaptext">Districts of Charlotte</field>
+		<field name="region4color">9cb268</field>
+		<field name="region8color">5fb2ab</field>
+		<field name="region11description">The most recent large-scale development in Charlotte, Ballantyne is located at the far southern edge of the city. Sprawling and suburban in nature, it is noted for its luxurious "mini-mansions", upscale retail, large hotels and corporate buildings, and distinguished country club. Ballantyne is mostly residential in nature and most tourist attraction is generated by the Ballantyne Resort.</field>
+		<field name="region7description">An affluent district in south-central Charlotte, and home to the citys second-largest business district. SouthPark is a newer suburb whose development has mostly occurred in the last 40 years, but it has quickly developed into a semi-urban concentration of office buildings, high rise condos, hotels and entertainment options.</field>
+		<field name="region1description">Charlottes central district, and the location of its somewhat oversized skyline as well as the center of Charlottes commerce, culture, and government, with most of the bustle centered around Tryon Street, the "Main Street" of the city. The district is home to several Fortune 500 headquarters, museums, nightclubs, restaurants, parks, city and county government offices and theaters. It is generally agreed that the word "uptown" refers to anything inside the I-277 loop.</field>
+		<field name="regionmap">Charlotte districts map.png</field>
+		<field name="region2description">NoDa, short for North Davidson Street, is one of Charlottes most eclectic and original neighborhoods. About two miles north of the center city, this old mill district has been revitalized by artists moving in and is now home to street level art galleries, several restaurants and other unique shops as well as a popular "gallery crawl".</field>
+		<field name="region7color">92e355</field>
+		<field name="region10color">dba5a5</field>
+		<field name="region3color">5573e3</field>
+		<field name="region9description">A sprawling 1970s-style suburban district, focused around the University of North Carolina at Charlotte. This area is on the citys northeast side and is largely an area in transition, having formerly been mostly rural or affluent suburbs and now drawing in minority groups and young families. Aside from the University and related research centers, this area is also home to Verizon Wireless Ampitheatre, a well-defined "downtown" cluster of hotels and retail centers, and many square miles of sprawling shopping centers.</field>
+		<field name="region12description">An area known well for its poverty and crime.  This section of town constantly has to battle a lack of proper groceries and a high murder rate.  Real Estate in West Charlotte is far cheaper than other neighborhoods in Charlotte.  Most of the property is not owner occupied.  It has close access to uptown and the airport.</field>
+		<field name="region5description">Once located altogether outside the city, Myers Park is near the heart of modern-day Charlotte. Its reputation as an "old money" neighborhood is accentuated by its beautiful tree-lined and winding avenues. Home to some of Charlottes oldest and most expensive homes as well as Queens University of Charlotte and Freedom Park. A driving tour of Myers Park is a popular way for tourists to get acquainted with the neighborhood.</field>
+		<field name="region11color">a787be</field>
+		<field name="region1color">be7d7d</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

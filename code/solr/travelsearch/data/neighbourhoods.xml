@@ -1,0 +1,11 @@
+<add>
+	<doc>
+		<field name="id">63472</field>
+		<field name="title">Haverford Township</field>
+		<field name="main">neighbourhoods</field>
+		<field name="name">neighbourhoods</field>
+		<field name="content">Haverford  Havertown   Bryn Mawr  Drexel Hill  Ardmore  (Part of Haverford, Ardmore, and Bryn Mawr are located in Lower Merion Township.)</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

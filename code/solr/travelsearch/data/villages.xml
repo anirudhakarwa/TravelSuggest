@@ -1,0 +1,20 @@
+<add>
+	<doc>
+		<field name="id">8509</field>
+		<field name="title">Mount Desert Island</field>
+		<field name="main">villages</field>
+		<field name="name">villages</field>
+		<field name="content">Bar Harbor    Bass Harbor    Hulls Cove    Northeast Harbor   Otter Creek   Seal Harbor  in the Town of Mount Desert  Seal Cove in the Town of Tremont   Somesville    Southwest Harbor   Town Hill, also known as West Eden   Tremont</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">8510</field>
+		<field name="title">Hardin County</field>
+		<field name="main">villages</field>
+		<field name="name">villages</field>
+		<field name="content">Ada</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

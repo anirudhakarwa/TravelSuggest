@@ -1,0 +1,29 @@
+<add>
+	<doc>
+		<field name="id">30582</field>
+		<field name="title">Campbellsville (Kentucky)</field>
+		<field name="main">green river lake</field>
+		<field name="name">marinas</field>
+		<field name="content">Emerald Isle Resort Marina, KY 70, KY 372,  465-3412  or (888) 815-2000,   . Green River Marina, KY 55 South, KY 1061, (800) 465-2512,   .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">30583</field>
+		<field name="title">Campbellsville (Kentucky)</field>
+		<field name="main">green river lake</field>
+		<field name="name">canoeing</field>
+		<field name="content">Green River Canoes, 789-2956 or (800) 413-2266,   .</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">30584</field>
+		<field name="title">Campbellsville (Kentucky)</field>
+		<field name="main">green river lake</field>
+		<field name="name">green river lake</field>
+		<field name="content">Green River Lake State Park is a recreational paradise in south central Kentuckys cave country. This 8,200-acre, picture-perfect lake provides excellent opportunities for almost any water sport. After a day on the lake, relax in the lakeshore campground, and enjoy a beach just for campers.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

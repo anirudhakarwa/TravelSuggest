@@ -1,0 +1,38 @@
+<add>
+	<doc>
+		<field name="id">105350</field>
+		<field name="title">Merrick</field>
+		<field name="main">places of interest</field>
+		<field name="name">eats</field>
+		<field name="content">Merrick offers an abundance of places to eat ranging from every imaginable fast-food establishment; McDonalds and Burger King are across the street from each other to more upscale and expensive eateries. There is something for every budget.   La Piazza- Not just a great pizzeria, a great Italian restaurant as well. Often considered by residents to be one of the best there is. The Boat House- A restaurant on the water with beautiful sunsets where you can enjoy good “surf n’ turf” from Memorial Day through Labor Day. In addition to hamburgers and fries, they offer a delicious array of fresh fish, including lobster too. Pastrami King- A non-kosher deli that is not only a good place to eat, offering huge sandwiches and hearty soups, but catering too. The restaurant is now run by the son of the original owner who began the business in Brooklyn, New York. Brooks and Porter- An upscale steak house featuring the finest cuts of beef as well as sushi and fresh fish. Pricey too. Xaga- Asian fusion and sushi restaurant. They offer soups, salads and cooked chicken, shrimp and pork dishes as well as raw fish platters. La Strada - An excellent Italian restaurant featuring a brick oven for pizza and generous portions of classic Italian dishes George Martins Grillfire - American fare in a fun, family-friendly atmosphere.  Grillfire is famous for its complimentary pretzels before dinner and cotton candy at the end of the night.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105351</field>
+		<field name="title">Merrick</field>
+		<field name="main">places of interest</field>
+		<field name="name">entertainment</field>
+		<field name="content">Merrick Cinemas- A movie theater with four screens and stadium seating. The Stage Theater- A local theater featuring musicals, plays and children’s shows-affordably priced. Jugs ‘N’ Strokers- A neighborhood bar and eatery featuring live music every Wednesday through Saturday. Thursdays is Band Search night, featuring Long Island’s hottest new bands. The menu is very affordable. Merrick Street Fair- Held at the Merrick Station parking lot twice a year. This fair features local vendors, great food and rides for children and adults too.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105352</field>
+		<field name="title">Merrick</field>
+		<field name="main">places of interest</field>
+		<field name="name">fitness</field>
+		<field name="content">Merrick has a multitude of gyms. All these gyms offer different membership deals and most of the facilities offer personal training as well as classes.  Energex Fitness- One of the longest running gyms in Merrick. Recently changed its name from Titans Fitness. Even though it has been open for years, it still manages to stay up to date in terms of equipment and cleanliness.This gym Offers personal training and a variety of classes, such as aerobics, spin and step. Extreme Gym- A newer gym in Merrick. This one opened recently, but is considered as good as Energex. Although it is smaller and less expensive, it is in no way a lesser gym. Open 7 days; morning, noon and night hours. Synergy- Located on Merrick Avenue, walking distance from the railroad. This is a huge facility with countless machines including but not limited to ellipticals and treadmills. Classes available here too.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105353</field>
+		<field name="title">Merrick</field>
+		<field name="main">places of interest</field>
+		<field name="name">other places of interest</field>
+		<field name="content">Merrick Park- A small park located just off Merrick Road.  It features basketball courts, tennis courts, soccer fields and baseball fields. Merrick Park has its own 9-hole golf course. Reservations are required for golfers. Norman J. Levy Park Preserve - This Town of Hempstead park is a plant and wildlife sanctuary with hiking trails and a view of Atlantic Ocean.  It also features a kayak launch into the original Meadow Brook. The park is located south of Merrick Road just east of the Meadowbrook Parkway. Cammanns Pond- Located on Lindenmere Drive and Merrick Road and backs up to Norman J Levy Lakeside School. A beautiful pond that is also home to the neighborhood geese. There are benches to sit and relax on as well as to feed the ducks from.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

@@ -1,0 +1,20 @@
+<add>
+	<doc>
+		<field name="id">64801</field>
+		<field name="title">Lehigh County</field>
+		<field name="main">fun facts</field>
+		<field name="name">famous people from lehigh county</field>
+		<field name="content">Lehigh County is the current or former home to several famous Americans, including:  Chuck Bednarik, former professional football player, Philadelphia Eagles, and member of Pro Football Hall of Fame. Peter Gruner, professional wrestler. Lee Iacocca, former chairman of Chrysler Corporation. Keith Jarrett, jazz musician.  Michael Johns, health care executive and former White House speechwriter. Matt Millen, former professional football player, Oakland Raiders, San Francisco 49ers and Washington Redskins, and former President and General Manager, Detroit Lions. Andre Reed, former professional football player, Buffalo Bills and Washington Redskins. Amanda Seyfried, model and actress, CWs Veronica Mars and HBOs Big Love. Curt Simmons, former professional baseball player, California Angels, Chicago Cubs, Philadelphia Phillies and St. Louis Cardinals. Christine Taylor, actress and wife of actor Ben Stiller. Lauren Weisberger, author of The Devil Wears Prada.         WikiPedia:Lehigh County, Pennsylvania</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">64802</field>
+		<field name="title">Northampton County</field>
+		<field name="main">fun facts</field>
+		<field name="name">famous people from northampton county</field>
+		<field name="content">Northampton County is the current or former residence of several famous Americans, including:  Mario Andretti, former professional race car driver. Marco Andretti, professional race car driver.  Michael Andretti, professional racing team owner, former professional race car driver. Jonathan Frakes, director and actor. Larry Holmes, boxings former heavyweight champion of the world. Dwayne Johnson ("The Rock"), professional wrestler, actor. Kristen Maloney, gymnast and former Olympian. Jonathan Taylor Thomas, actor. Brian Schneider, professional baseball player, New York Mets. Tighe Scott, NASCAR and modified driver.         WikiPedia:Northampton County, Pennsylvania</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

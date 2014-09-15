@@ -1,0 +1,23 @@
+<add>
+	<doc>
+		<field name="id">105354</field>
+		<field name="title">Saginaw</field>
+		<field name="main">media</field>
+		<field name="name">media</field>
+		<field name="content">Visitors Bureau   Television WNEM 5 CBS WJRT 12 ABC WEYI 25 NBC WSMH 66 FOX Newspapers  The Saginaw News / MLive.com  Radio Stations  790 AM  WSGW  - News/Talk Newsradio 790  1250 AM  WNEM  - All News  1400 AM  WSAM  - Light Adult Contemporary, simulcast with 104.1 FM  90.9 FM  WTRK  - Contemporary Christian Air 1  93.7 FM  WRCL  - Rhythmic Contemporary Hits Club 93-7  94.5 FM  WCEN  - Country 94.5 The Moose  97.3 FM  WMJO  - 80s/90s Rock/Alternative 97.3 JOE FM  98.1 FM  WKCQ  - Country 98FM KCQ  100.5 FM  WSGW  - News/Talk (not simulcast with AM 790)  104.5 FM  WILZ  - Classic Rock Wheelz 104.5 101  106.3 FM  WGER  - Bright Adult Contemporary Magic 106.3  107.1 FM  WTLZ  - Mainstream Urban Hot 107.1</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105355</field>
+		<field name="title">Saginaw</field>
+		<field name="main">media</field>
+		<field name="name">Saginaw Valley Convention Visitors Bureau</field>
+		<field name="content">Third Floor, Saginaw, MI.; local: +1 989 752-7164.</field>
+		<field name="address">515 N. Washington Ave</field>
+		<field name="tollfree">+1 800 444-9979</field>
+		<field name="url">http://www.saginawcvb.org/</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

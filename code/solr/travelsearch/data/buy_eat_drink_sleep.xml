@@ -1,0 +1,11 @@
+<add>
+	<doc>
+		<field name="id">63013</field>
+		<field name="title">Glenrio</field>
+		<field name="main">buy/eat/drink/sleep</field>
+		<field name="name">buy/eat/drink/sleep</field>
+		<field name="content">As Glenrio is abandoned as a ghost town, there are no services in the town itself although a highway rest stop (the Glenrio Welcome Center) is provided on westbound I-40 when entering New Mexico. Head west to  San Jon  or  Tucumcari , New Mexico or east to  Adrian  and  Amarillo , Texas.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

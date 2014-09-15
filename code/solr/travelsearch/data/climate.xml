@@ -1,0 +1,38 @@
+<add>
+	<doc>
+		<field name="id">63163</field>
+		<field name="title">El Paso</field>
+		<field name="main">climate</field>
+		<field name="name">climate</field>
+		<field name="content">El Paso is part of the Chihuahuan Desert. It receives on average about 8.5 inches of rainfall a year. The sky is usually clear and cloud-free. Summer temperatures can reach 100°F (37.7°C) or more. Winter rarely sees snow and temperatures drop to around 40 or 50°F. During periods of rain, flash flooding can occur.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63164</field>
+		<field name="title">Idaho Springs</field>
+		<field name="main">climate</field>
+		<field name="name">climate</field>
+		<field name="content">Always check the weather. It is in the Rocky Mountains which can have flucuating temperatures. So its always a good idea to see what the weather is predicted and what it actually is.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63165</field>
+		<field name="title">Graham</field>
+		<field name="main">climate</field>
+		<field name="name">climate</field>
+		<field name="content">Graham lies on the eastern edge of the  Panhandle  and at the southern end of the infamous Tornado Alley.  It is wise to pay attention to weather reports during the spring storm season, which runs generally from March through early June.  Average High Temperature:  Average Low Temperature</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63166</field>
+		<field name="title">Valdosta</field>
+		<field name="main">climate</field>
+		<field name="name">climate</field>
+		<field name="content">Valdosta has a subtropical humid climate with mild winters, hot summers, and abundant rainfall. Please be aware that Valdosta often suffers from oppressive heat and humidity in the summer, due to the fact that rainfall is most abundant in the summer. In the summer, temperatures easily reach the mid-90s. When the temperature is accompanied by high humidity, the heat index can reach well over 105. If youre not accustomed to the heat, the best times to visit Valdosta is from late September to early May. Otherwise, wear sunscreen, and a hat. Bug spray is also necessary, as gnats can be a problem in the summer. Temperatures can reach 90 degrees as early as May, and as late as September.  Lowndes County Courthouse</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

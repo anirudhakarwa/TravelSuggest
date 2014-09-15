@@ -1,0 +1,47 @@
+<add>
+	<doc>
+		<field name="id">63109</field>
+		<field name="title">Waukegan</field>
+		<field name="main">transportation</field>
+		<field name="name">charter services</field>
+		<field name="content">A American Coach, 3100 Central Ave. Waukegan, IL. Gadson’s Charter, 2801 Grandville Ct. Waukegan, IL. Lake County Transportation Services, 2835 Belvidere Rd. Waukegan, IL.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63110</field>
+		<field name="title">Waukegan</field>
+		<field name="main">transportation</field>
+		<field name="name">taxis</field>
+		<field name="content">ABC Cab Co., 2425 Washington St. Waukegan, IL. Anchor Taxi, 550 N. Green Bay Rd. Waukegan, IL. Checker Cab of Northern Illinois, 2835 Belvidere Rd. Waukegan, IL. Waukegan Yellow, 2835 Belvidere Rd. Waukegan, IL.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63111</field>
+		<field name="title">Waukegan</field>
+		<field name="main">transportation</field>
+		<field name="name">buses</field>
+		<field name="content">Pace Suburban Bus System, Waukegan, IL.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63112</field>
+		<field name="title">Elmhurst</field>
+		<field name="main">transportation</field>
+		<field name="name">transportation</field>
+		<field name="content">Elmhurst is one of the stops on the Union Pacific West metra line.  It is also served by the Pace bus system.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">63113</field>
+		<field name="title">Beaufort (South Carolina)</field>
+		<field name="main">transportation</field>
+		<field name="name">transportation</field>
+		<field name="content">Greyhound Lines Visitors can travel to and from Beaufort, SC with Greyhound Lines, located at 3659 Trask Pkwy, Beaufort, SC 29906.   To schedule bus: http://www.greyhound.com/  Fidelis Coach LLC For Bus Charter and Rental.  More information contact information: 3009 Magnolia St. Beaufort, SC 29906 Telephone: 843-986-0633</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

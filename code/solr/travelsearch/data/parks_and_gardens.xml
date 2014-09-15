@@ -1,0 +1,20 @@
+<add>
+	<doc>
+		<field name="id">105522</field>
+		<field name="title">Meadowlands</field>
+		<field name="main">parks and gardens</field>
+		<field name="name">sax-zim bog</field>
+		<field name="content">Meadowlands is part of the Sax-Zim Bog. Meadowlands is a great place for bird watchers. The Muellers Feeding Station and the Abramsons Feeding Station are in very close vicinity to Meadowlands.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+	<doc>
+		<field name="id">105523</field>
+		<field name="title">Meadowlands</field>
+		<field name="main">parks and gardens</field>
+		<field name="name">parks and gardens</field>
+		<field name="content">There is a playground by the towns water tower. There are no city parks or gardens.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

@@ -1,0 +1,11 @@
+<add>
+	<doc>
+		<field name="id">87719</field>
+		<field name="title">New York City</field>
+		<field name="main">boroughs</field>
+		<field name="name">boroughs</field>
+		<field name="content">New York City consists of five boroughs, which are five separate counties. Each borough has a unique culture and could be a large city in its own right. Within each borough individual neighborhoods, some only a few blocks in size, have personalities lauded in music and film. Where you live, work, and play in New York says something to New Yorkers about who you are.  The five New York boroughs are:</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

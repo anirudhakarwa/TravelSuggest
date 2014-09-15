@@ -1,0 +1,11 @@
+<add>
+	<doc>
+		<field name="id">63020</field>
+		<field name="title">Bushkill Falls</field>
+		<field name="main">flora and fauna</field>
+		<field name="name">flora and fauna</field>
+		<field name="content">The Bushkill Falls natural environment includes a variety of natural mountain plants, trees and flowers. The Pocono itself, in which the attractions are located, is home to a wide variety of both local and migratory bird species including song birds, ducks and geese, wild turkey, owls, hawks, and also eagles. Other faunas include black bear, white-tail deer, bobcat, red and grey fox, coyote, raccoon, skunk, opossum, rabbit, squirrel, woodchuck, and chipmunks.</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>

@@ -1,0 +1,11 @@
+<add>
+	<doc>
+		<field name="id">98180</field>
+		<field name="title">Platte River Valley</field>
+		<field name="main">wyoming</field>
+		<field name="name">wyoming</field>
+		<field name="content">wikipedia:Platte River</field>
+		<field name="weight">1</field>
+		<field name="clicks">0</field>
+	</doc>
+</add>
