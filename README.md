@@ -7,7 +7,7 @@ Please read readme.docx for details
 
 Team Members:
 
-Anirudha Karwa (Self)
-Babu Prasad
-Kalpesh Kagresha
-Deeshen Shah
+1. Anirudha Karwa (Self)
+2. Babu Prasad
+3. Kalpesh Kagresha
+4. Deeshen Shah
